@@ -1,0 +1,108 @@
+Agent [starttime: 00:06 - endtime: 00:12]: Thank you for calling ID. My name is *****. How may I assist you?
+
+Customer [starttime: 00:12 - endtime: 01:35]: Hi. This is ***** *********. My ID number is *******. I have an issue with my PC earlier. It's suddenly free nonstop. Like it's just free. After that, the money pointed Blue saying, let me check. Your device, run into a problem and needs to restore it. So after a few minutes, it says checking media preferences like some error. And then when I tried to restart the PC when it pulled up, it says attempting to repairs, but it says that the repair did not work and then there is, like, some option to select. So I tried to shut down the PC. I meant to turn it off. And then when I turn it back in from the money again for Blue, it says that I think needs to be recovered and then it suddenly shut down.
+
+Agent [starttime: 01:35 - endtime: 01:40]: Do you see if that is a recovering key?
+
+Customer [starttime: 01:40 - endtime: 02:25]: Yeah, the recovery. Yeah, it needs PC recovery and then it shut down. So I waited, like, 5 minutes. So I tried to call you and then tried to turn it on again. But it's just keep on loading. This is actually like a new PC I received. I just used this for 2 days and then now it's the *** day, but she's suddenly having an issue.
+
+Agent [starttime: 02:25 - endtime: 02:37]: Okay, no problem. I'd be great for the ingredients cost you be assured. I'm sorry, *****. So please provide me that in advances.
+
+Customer [starttime: 02:37 - endtime: 02:41]: The first error, right?
+
+Agent [starttime: 02:41 - endtime: 02:44]: Yes.
+
+Customer [starttime: 02:44 - endtime: 03:16]: It says your device run into a problem and needs to report. But the last error I received about PC recovery, I was not able to get a whole picture of that because it's suddenly shut down after it says that, like I need some DS to to recover the I mean, the device or sort of like that.
+
+Agent [starttime: 03:15 - endtime: 03:57]: Yeah. OK. You're still loading.
+
+Customer [starttime: 03:57 - endtime: 04:06]: The loading disappeared. But ****** is just showing black. Just a black screen.
+
+Agent [starttime: 04:06 - endtime: 04:23]: I think your system should respond. No, don't do anything you can just wait with sometimes systeming a bit. So.
+
+Customer [starttime: 04:23 - endtime: 05:28]: Okay. Hello. Welcome to my lecture. It's still black. Let me wait.
+
+Agent [starttime: 05:28 - endtime: 06:09]: Hello? Hello?
+
+Customer [starttime: 06:09 - endtime: 06:23]: By the way, it's still showing blank here. I'm only seeing the arrow.
+
+Agent [starttime: 06:23 - endtime: 07:07]: Yeah, I think you are system of details. So if don't do anything, you can, then just wait, ma'am. Other way, I'll provide a ticket number, and you can just wait. And after showing the screen, then you're going to call back again. So please provide me the employee ID number. Hello? Can you?
+
+Customer [starttime: 07:07 - endtime: 07:11]: Hear me? I'm still here. Can you hear me?
+
+Agent [starttime: 07:11 - endtime: 07:15]: Yes, ma'am. May I know the name? ID number?
+
+Customer [starttime: 07:15 - endtime: 07:19]: Yeah, my ID number.
+
+Agent [starttime: 07:18 - endtime: 07:27]: Yeah.
+
+Customer [starttime: 07:21 - endtime: 07:29]: ********.
+
+Agent [starttime: 07:29 - endtime: 07:32]: May I know your name?
+
+Customer [starttime: 07:31 - endtime: 07:55]: Yeah, ******, it's not showing the the screen. I mean, the screensaver. What do you call this? Let me try to log back in and check if I will encounter the same issue like earlier. Yeah, it's ******.
+
+Agent [starttime: 07:55 - endtime: 08:03]: OK, and may I know the. Higher. Date.
+
+Customer [starttime: 08:03 - endtime: 08:05]: I'm sorry.
+
+Agent [starttime: 08:05 - endtime: 08:09]: May I know the higher date.
+
+Customer [starttime: 08:09 - endtime: 08:20]: My items? *******.
+
+Agent [starttime: 08:20 - endtime: 08:24]: May I know the supervisor name?
+
+Customer [starttime: 08:23 - endtime: 08:38]: Supervisor? Its melodrama. Yes. ****** or Salvior. Can you hear me?
+
+Agent [starttime: 08:38 - endtime: 08:56]: Yeah. And may I know the higher date? I'm sorry. May I know the higher date?
+
+Customer [starttime: 08:55 - endtime: 08:59]: You mean my idol number?
+
+Agent [starttime: 08:59 - endtime: 09:11]: Higher date. Hotel India Romeo. Echo date.
+
+Customer [starttime: 09:10 - endtime: 09:25]: Oh, I'm sorry. I'm so sorry. Its wait. September 27, ****. No. ****.
+
+Agent [starttime: 09:24 - endtime: 10:01]: Mokam. Thank you with that confirmation.
+
+Customer [starttime: 10:00 - endtime: 10:30]: Hello. Hello. Hello? Hello.
+
+Agent [starttime: 10:30 - endtime: 10:34]: You still see, LAX?
+
+Customer [starttime: 10:34 - endtime: 11:28]: I'm not trying to log in since its welcome already. It also happened earlier. I was able to log in, but the screen like blank, like color black, and only one browser popping up. But there is no, like some items on below what they call the toolbar. Is it like the toolbar right where you can see the menu option? The browsers and I stayed like for 15 minutes already, but nothing pulled up earlier. That's why I tried to restart the PC again. So when I tried to restart it turned blue and it says about PC recoveries, it seemed to be recovered. Something like that. That's when I get the second error message.
+
+Agent [starttime: 11:28 - endtime: 11:35]: But now it is showing the welcome and pays. Am I right?
+
+Customer [starttime: 11:34 - endtime: 11:50]: Yes, I am now trying back. I will check if I will encounter an issue earlier. I will call back just what you recommend earlier. Yeah, with the ticket number, please.
+
+Agent [starttime: 11:50 - endtime: 11:58]: Okay, I provide a ticket number. I am mental Pythias automatically. You're working fine. Okay.
+
+Customer [starttime: 11:58 - endtime: 12:11]: Yeah, I was. Yeah, I was able to log back in already. I'm not sure if it will work later, but I'll call back if ever there's some issue, but thank you.
+
+Agent [starttime: 12:11 - endtime: 12:31]: Okay, ma'am. So just the line and provide a ticket number and then you can hang up the call. And I am mentioned on this September, your PC automatically working? Fine. Yeah. Okay. And is there anything else we help you?
+
+Customer [starttime: 12:31 - endtime: 12:35]: So you're not gonna give me any ticket number?
+
+Agent [starttime: 12:35 - endtime: 12:40]: No, no, I'll provide a ticket number. Just. I'm asking. Is there anything else?
+
+Customer [starttime: 12:40 - endtime: 12:49]: Yeah, no, we shall be all.
+
+Agent [starttime: 12:49 - endtime: 12:53]: Please be on the line if you complete it.
+
+Customer [starttime: 12:53 - endtime: 14:18]: Ok, just let me know. Thank you.
+
+Agent [starttime: 14:18 - endtime: 14:25]: Yeah. Thank you for being hold. I really have received your time. So note on the ticket number.
+
+Customer [starttime: 14:25 - endtime: 14:30]: Ok, I for India.
+
+Agent [starttime: 14:30 - endtime: 15:00]: Yeah, I for India. N for Nancy, for Charlie number *****. 7. And again, ****. Yeah. ******. Oh.
+
+Customer [starttime: 15:00 - endtime: 15:11]: I for AI N P. Yeah. *********.
+
+Agent [starttime: 15:11 - endtime: 15:16]: Yeah. 77, 71 zero. That is correct.
+
+Customer [starttime: 15:15 - endtime: 15:18]: All right. Thank you.
+
+Agent [starttime: 15:18 - endtime: 15:36]: Okay. And, sir, And can I add to us our process call where you can then scale up after one phi way to decide and the second pass contact resolution one, which is the issue. I really thank you for calling it ****. Have a great thank you. Bye bye.
+
+Customer [starttime: 15:36 - endtime: 15:40]: Thanks for giving us a few minutes of your time to complete the it helpddesk survey.
+

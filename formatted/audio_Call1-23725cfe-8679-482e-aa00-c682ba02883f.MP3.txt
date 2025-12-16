@@ -1,0 +1,188 @@
+Customer [starttime: 00:09 - endtime: 00:16]: You for calling ident pool? My name is ******* *****. How may I help you today?
+
+Agent [starttime: 00:16 - endtime: 00:55]: Hi. I'm unable to connect to the BPA. It is one moment, please. It says that VPN connection is still due to a timeout for the VTP issue, which is the attempt to attend the connection. Hello?
+
+Customer [starttime: 00:55 - endtime: 01:01]: Yes, ma'am. You're concerned that you are not able to log in on the VPN? Am I right?
+
+Agent [starttime: 01:01 - endtime: 01:09]: Yes. It says connection has failed due to a timeout or VHCP issues. Fine.
+
+Customer [starttime: 01:09 - endtime: 01:14]: May I know your BMS number? Your employer ID number?
+
+Agent [starttime: 01:14 - endtime: 01:24]: Uh, it's *******.
+
+Customer [starttime: 01:24 - endtime: 01:32]: Thank. You and may I know your first name and the last name?
+
+Agent [starttime: 01:32 - endtime: 01:43]: And last one. Thank you. And.
+
+Customer [starttime: 01:43 - endtime: 01:51]: May I know what was the last time you were able to log in on the VPN?
+
+Agent [starttime: 01:51 - endtime: 02:03]: Uh, actually, uh, I have a check today. Uh, I've been trying to log in, like, 10 minutes ago or 15 minutes ago.
+
+Customer [starttime: 02:03 - endtime: 02:11]: Of. Course.
+
+Agent [starttime: 02:11 - endtime: 02:13]: I know it is.
+
+Customer [starttime: 02:13 - endtime: 02:26]: Can you please restart your system, restart the Internet router and plug the Internet cable and then plug it back and try to log in?
+
+Agent [starttime: 02:25 - endtime: 03:46]: Ok, I'll try again one moment. Thank you. Hello. Welcome to lecture. my
+
+Customer [starttime: 03:46 - endtime: 03:53]: It.
+
+Agent [starttime: 03:52 - endtime: 03:54]: Hello.
+
+Customer [starttime: 03:54 - endtime: 03:59]: Yes, please. Hello.
+
+Agent [starttime: 03:59 - endtime: 04:03]: You said.
+
+Customer [starttime: 04:03 - endtime: 04:49]: Have you started your system and the router? Yes. Please. Yes. Unplug the internet cable and then plug it back and try to log in.
+
+Agent [starttime: 04:48 - endtime: 04:52]: It's still the same.
+
+Customer [starttime: 04:52 - endtime: 05:01]: Still the same. Do you have any extra Internet cable to check that?
+
+Agent [starttime: 05:00 - endtime: 05:03]: Yes, I have Internet connection.
+
+Customer [starttime: 05:03 - endtime: 05:07]: Ma'am, do you have any action?
+
+Agent [starttime: 05:07 - endtime: 05:10]: No, I don't have.
+
+Customer [starttime: 05:10 - endtime: 05:45]: Don't have. Thank. You. Very. Much. Ok, can you please do a speed test and let me know. What is the uploading and downloading speed of your internet?
+
+Agent [starttime: 05:44 - endtime: 05:55]: Download is 30 to. An upload is 36.
+
+Customer [starttime: 05:55 - endtime: 06:01]: I'm so sorry. The downloading speed is.
+
+Agent [starttime: 06:00 - endtime: 06:14]: **.* m and MpS and then the upload is **.*.
+
+Customer [starttime: 06:14 - endtime: 06:47]: From the downloading speed is 42 and the uploading speed is **.* AM. I right? Yes.
+
+Agent [starttime: 06:46 - endtime: 07:23]: Thank you. Thank you. Thank you. Thank you. you. Thank Thank you. Thank you.
+
+Customer [starttime: 07:23 - endtime: 07:38]: Fine, ma'am. Allow me a second for that. And may I know how many agent isn't facing the same issue or you are the only one who is not able to log in on the VPN right now?
+
+Agent [starttime: 07:38 - endtime: 08:27]: Uh, I think I'm the only one because there's no one. This happened because I heard a spark on my free ball and then the computer turned off. And then when I tried to log in, I'm unable to log in now, but we have Internet. Ok.
+
+Customer [starttime: 08:27 - endtime: 08:38]: Can you help me with your personal email ID so that I can send you a link over there and I can check this with test result.
+
+Agent [starttime: 08:38 - endtime: 08:41]: Oh, for the email address.
+
+Customer [starttime: 08:40 - endtime: 08:44]: Yes, your email address.
+
+Agent [starttime: 08:44 - endtime: 09:05]: It's *******, but double E b donia A N N B E E B O n I *@*****.***.
+
+Customer [starttime: 09:05 - endtime: 09:44]: Ok. I have sent you a link on your email. Please hide the personal details, allow the camera option and show me the speed test result.
+
+Agent [starttime: 09:44 - endtime: 10:02]: It. Can make screen.
+
+Customer [starttime: 10:02 - endtime: 10:37]: Uh, yes, ma'am. I can see the screen right now. Can you please show me the bottom corner of the monitor? The VPN icon monitor? Ma'am, can you please unplug the internet cable and then plug it back? It.
+
+Agent [starttime: 10:37 - endtime: 11:00]: Ok, I am doing it right now. Thank you. It. Can help me.
+
+Customer [starttime: 10:59 - endtime: 12:02]: OK. Ma'am, Click on. OK, and show me the bottom caller once again of the monitor. Its. Not. Yeah. Please relaunch your VPN and try to log in.
+
+Agent [starttime: 12:02 - endtime: 12:35]: Hello. Thank you for calling. Thank you. Thank you. Thank you. Thank you. It's in the name.
+
+Customer [starttime: 12:35 - endtime: 13:05]: Can you please show me the backside of the CPU where you plugged in the Internet cable? It's green. And can you please another end of the Internet cable? It's connected to the router.
+
+Agent [starttime: 13:04 - endtime: 13:30]: OK, one moment. It.
+
+Customer [starttime: 13:30 - endtime: 13:53]: Ma'am. Please show me the cable. Which color of light it is. There is no light. Can you please change the port and plug the cable and plug it into a different port?
+
+Agent [starttime: 13:53 - endtime: 14:00]: I'll go check the computer again. No, ma'am, I don't right now.
+
+Customer [starttime: 14:00 - endtime: 14:10]: Ma'am, there is no blinking light. Am I right? No stationary and no blinking light.
+
+Agent [starttime: 14:10 - endtime: 14:34]: No, there's no blinking light here, but the blinking lights are here. That's the Internet.
+
+Customer [starttime: 14:34 - endtime: 14:48]: Ok. Fine, ma'am. Can you please go and check on the CPO? Is it working or not?
+
+Agent [starttime: 14:48 - endtime: 14:49]: Sorry.
+
+Customer [starttime: 14:49 - endtime: 14:54]: Yes, ma'am. Can you please try to log in on the VPN?
+
+Agent [starttime: 14:53 - endtime: 15:01]: OK, one moment. Sure.
+
+Customer [starttime: 15:01 - endtime: 15:04]: Ok.
+
+Agent [starttime: 15:04 - endtime: 15:23]: Thank you.
+
+Customer [starttime: 15:23 - endtime: 15:26]: Very. Much.
+
+Agent [starttime: 15:23 - endtime: 16:05]: It's. It's the same issue. What could be the problem?
+
+Customer [starttime: 16:05 - endtime: 16:50]: Of this one. It's. Fine, ma'am. Please allow me a moment for that. And do you have any personal computer or any personal laptop?
+
+Agent [starttime: 16:50 - endtime: 16:52]: No, I don't have.
+
+Customer [starttime: 16:52 - endtime: 17:00]: Ma'am, you can do a speed test on your personal computer or any personal laptop and let me know.
+
+Agent [starttime: 17:00 - endtime: 17:03]: What's that?
+
+Customer [starttime: 17:02 - endtime: 17:32]: Yes, ma'am. You can do a speed test on your personal computer or any personal.
+
+Agent [starttime: 17:32 - endtime: 17:43]: May download MVP is **.* and then the upload is one 8.9.
+
+Customer [starttime: 17:43 - endtime: 17:55]: 20. 8. Point. 9. Hello.
+
+Agent [starttime: 17:54 - endtime: 18:19]: Hello. Its.
+
+Customer [starttime: 18:18 - endtime: 18:30]: Ma'am. Allow me a second for that.
+
+Agent [starttime: 18:29 - endtime: 19:22]: Thank you.
+
+Customer [starttime: 19:21 - endtime: 19:36]: Thank you, ma'am. Thank you for your time and patience. Can you please do one thing? Um, please reach out to your Internet service provider and do the DNS flush of your Internet.
+
+Agent [starttime: 19:36 - endtime: 19:42]: Do you want me to bring up the Internet?
+
+Customer [starttime: 19:42 - endtime: 19:53]: No, ma'am. You have to reach out to your ISP, your Internet service provider, and do the DNS flush of your Internet.
+
+Agent [starttime: 19:53 - endtime: 20:00]: Sorry, I did not get that service.
+
+Customer [starttime: 19:59 - endtime: 20:16]: Ma'am. You have to reach out to your ISP, your Internet service. Order call to your ISP and ask him to do the DNS flush of your Internet.
+
+Agent [starttime: 20:16 - endtime: 20:18]: OK, thank you.
+
+Customer [starttime: 20:18 - endtime: 20:29]: Thank you, ma'am. Yes, ma'am. It's D for Delta and for November s for Sam D and.
+
+Agent [starttime: 20:29 - endtime: 20:35]: S. What's that?
+
+Customer [starttime: 20:35 - endtime: 20:49]: Yes, ma'am. It's D for Delta. And one November s for Sam.
+
+Agent [starttime: 20:48 - endtime: 20:49]: Whoops.
+
+Customer [starttime: 20:49 - endtime: 21:12]: These, ma'am. That is DNS DNS flush. And if you are still facing the same issue after doing the DNS, plus call us back with the same ticket number which I'm providing to you.
+
+Agent [starttime: 21:11 - endtime: 21:20]: DN. What will I do with this one.
+
+Customer [starttime: 21:20 - endtime: 21:34]: Ma'am? Call your ISP. You have to reach out to your internet service provider and tell him to do the DNS flush of your internet.
+
+Agent [starttime: 21:34 - endtime: 21:36]: Slash or.
+
+Customer [starttime: 21:36 - endtime: 21:49]: Yeah. And after you've done the DNS flush, try to log in on the VPN still facing the same issue. Call us back with the same ticket number which I am providing to you.
+
+Agent [starttime: 21:49 - endtime: 21:51]: OK?
+
+Customer [starttime: 21:51 - endtime: 21:55]: Yeah. Please make a note for that.
+
+Agent [starttime: 21:55 - endtime: 21:57]: OK?
+
+Customer [starttime: 21:56 - endtime: 22:07]: Yeah, it's going to be I for India and for November C. For Charlie. OK.
+
+Agent [starttime: 22:06 - endtime: 22:10]: Ok.
+
+Customer [starttime: 22:08 - endtime: 22:13]: ***.
+
+Agent [starttime: 22:12 - endtime: 22:16]: ***.
+
+Customer [starttime: 22:14 - endtime: 22:19]: ***.
+
+Agent [starttime: 22:18 - endtime: 22:23]: ***.
+
+Customer [starttime: 22:20 - endtime: 22:32]: ***.
+
+Agent [starttime: 22:25 - endtime: 22:33]: ***********.
+
+Customer [starttime: 22:32 - endtime: 22:44]: Yes, ma'am. That's it, ma'am. Thank you so much, ma'am. Is there anything else apart from this I can help you with.
+
+Agent [starttime: 22:44 - endtime: 22:45]: That will be open.
+

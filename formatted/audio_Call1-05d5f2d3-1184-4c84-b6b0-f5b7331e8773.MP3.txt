@@ -1,0 +1,60 @@
+Agent [starttime: 00:08 - endtime: 04:08]: This is *****. How may I assist you today? Yeah, you're right. I've not got any access to the Internet. I think so. I've just called the absence and they gave me an incident number. So basically, I've, I was just in the middle of a call, and then all of a sudden, it starts raining and then it just kicks me off. So I think because of the rain, my collection is down or something. Okay, just to confirm you're having issues with your Internet, like your home internet? No, no. So the internet is up and running and works. But I'm assuming because its raining, that it's messed up the satellite, which means the wider connection is now not working. I'm assuming just because everything else is okay. No worries. We'll check on that and assist you. Sorry for the inconvenience. Can you help me with your employee number first? Your BMS number, please? I think it's 5. No, no, no. Sorry. *****. Oh, ******. Oh, 5. Yeah, I think so. No, that's not delight one. Can you confirm your first name and your last name? Yeah, it's all. June A R J A N. Oh, got it. I've got, I've got it. *****. Oh, 4. Okay, *****. Oh, 4. Yeah, that's right. And what's your last name? *****. Okay, thank you so much. So you're not able to access the Internet on your system, right? So everything is just basically crashed and it's not popular. Okay, okay. We'll check on that and assist you. Sorry for the inconvenience. I'll be sending you one blink. This link is for a video session. When you click on the link, it will access your phone camera. And with the help of the phone, you can show me a system screen so I can just check. What is the issue with their connection? So should I send the link on the same number from which you have called now? Yeah, you can do that. Okay, I'm sending the link before clicking on the link. Just hide any confidential or any personal data. Okay, waiting for the link. Can you also provide me the ticket number? Like you might have got the ticket number from the absence line. Inc. Yes. Zero 3, 11. Yes, 2433 2. Okay. And see. 03112 4, 33 2. Right. Yeah. Oh, 3, 1124, 33 2. Okay. Thank you so much. And can you just check? I have already send you the link. If you have got the link or not. I haven't got anything yet. Nothing's come through this yet. Not yet. Ok, I will just try once again. Yeah. It.
+
+Customer [starttime: 04:08 - endtime: 04:10]: Ok. Yeah.
+
+Agent [starttime: 04:10 - endtime: 04:26]: Okay. Already got it. Click on it. Yeah, Okay. Click on it. Yes, please click on it and allow the permission for the camera, please.
+
+Customer [starttime: 04:25 - endtime: 04:51]: Yeah. Hold. On.
+
+Agent [starttime: 04:51 - endtime: 05:02]: Since Fara could not open the page, so can you copy the link and open on some other browser if it's not opening on that one?
+
+Customer [starttime: 05:01 - endtime: 05:07]: Yeah.
+
+Agent [starttime: 05:06 - endtime: 05:10]: In case I'll refresh it, you might be working now.
+
+Customer [starttime: 05:10 - endtime: 05:12]: Okay?
+
+Agent [starttime: 05:12 - endtime: 07:11]: Yeah. Can you take the camera? Deal more closer to the screen? The arrow message you are getting in connection. Say 2. Okay. Can you just show me the bottom right corner of your screen? Can you show me the bottom right corner? Ok, and not getting the internet? Okay, Do one thing. Can you show me the bottom, the backside of your system unit, the back of the PC. Okay, so orange and green light. Okay. Can you show me very internet route to your internet modem, please? Yeah. Is it directly connected to the main router or the system using any extender or any group in between? Oh, no. This, this lodge is Pope's voice. The rest is all it's grouped in to hear. Yeah. Okay, so this goes on this box, right. So what is this orange skill or this orange skill on the front? This is voice. That should be unrelated because the power, wifi or outlook. Ok, so the right one is for a different thing. It's for a voice or something, right? Yeah. Because on the back, this is all grid. Okay, Okay. On the back, you're getting a green light. Can you show me the back size? Yeah, that's separate. So this is all green. Can you see that? Yes, I can see. So the black one is for your system, right? The black one. That's right. That's right. Can you just remove that black cable from the system? Can you remove the black cable from the rounder? You want me to take it out? Yes, please. Ok, Ok, did you just keep it out? Don't connect it. You can keep it out. Can you go to the system now? Yeah. Ok.
+
+Customer [starttime: 07:11 - endtime: 07:13]: 16.
+
+Agent [starttime: 07:13 - endtime: 07:45]: Yeah. Can you just check down the system? Press the power button, click on the starts button, then click on. Shut down. So just hold on to the start here. Yes. Click on the power option. Yeah. Click on the shutdown option. Shutdown. Yes, please. Okay, yeah. Okay. Once you completely off, let's wait. Once it's completely off.
+
+Customer [starttime: 07:45 - endtime: 07:54]: Yeah.
+
+Agent [starttime: 07:53 - endtime: 10:01]: Okay. Now on the backside of the system, there is a power cable. Can you remove the power cable and the internet cable from the back of the system? The power cable and the internet cable? Both. Yeah, there's 2. Yes. Okay, okay, now don't connect now. Don't connect. No, no, don't connect. Now press the power button for 20 seconds without the power key. Can I keep holding it for 20? Sorry. The power button on the computer? Yeah, on the small box on the front of this, on the front of this box on this. Okay, this one? Yeah. ****. Yes. Okay. Okay, I prestige like a. So once you're done with the 22nd, can you just restart your Internet round your internet modem, please? Okay, Yeah, Wait. So you want to just turn it off and then turn it over? Just turn off the. Yeah, turn off. You can just turn off and then wait for a minute and after a minute, you can turn on. Okay. I mean, instead, I could do the reset here. There's a, there's a reset button here. You see that? Yeah, you have a reset button on the back. Depressed the reset. Yeah, no, no. Instead, you should have resetting can just completely turn off. Can you turn off for the minute? Yeah. How do I cut it off? No, no, no beds the power. You can remove the power cable from the switch. Ok. Ok, Ok, let's wait for a minute. After a minute, you can't turn on again.
+
+Customer [starttime: 10:01 - endtime: 10:03]: Just wait.
+
+Agent [starttime: 10:03 - endtime: 10:12]: So now we're a minute or 2. Yes. Wait for a minute. And after a minute, turn on again.
+
+Customer [starttime: 10:12 - endtime: 10:20]: Ok. That's. Right.
+
+Agent [starttime: 10:20 - endtime: 11:00]: And then she'll let me know to talk about it. Yes. I'm going to say a second. Yeah. Bye bye. Now. Yeah, it's connected back and start. Okay. Okay, that's probably, that's backwards coming on. Okay, okay, let's wait for the internet to completely come up.
+
+Customer [starttime: 10:59 - endtime: 12:42]: Yeah. Thank. You.
+
+Agent [starttime: 12:42 - endtime: 13:21]: Does it still loading? Yeah, it's just on the thing. Its about to come on and say it's got the orange now. Okay, usually it comes on.
+
+Customer [starttime: 13:21 - endtime: 13:23]: Okay. Yeah.
+
+Agent [starttime: 13:23 - endtime: 14:07]: Dot com can just turn on the system. Can you turn on the system without shoulder? Leave that table out. Yeah, yeah. Without the Internet cable, Just the power cable. Connect the power cable. Okay. Okay, that's on the computer to put the power on the computer. Yes. Yes, please. OK, Yeah. So just put in this one. Yes. Okay, since yes, you could start the system, please.
+
+Customer [starttime: 14:06 - endtime: 14:13]: Okay.
+
+Agent [starttime: 14:13 - endtime: 14:20]: Sure. Yeah. Hold on. Yes.
+
+Customer [starttime: 14:20 - endtime: 14:54]: Thank. You. Thank. You.
+
+Agent [starttime: 14:54 - endtime: 17:12]: Ok, Thank you. Just. Okay. Okay. Can I just connect the Internet law on both the side? Both. Yeah. On both the sides. Connect internet cable, please. Yeah. Because it's plugging in this one. Thank. You. Thank you. Ok, this one. And then that one put in. Yeah, yes, yes, please. Okay, that's screen. Okay. Okay. Now. Okay. You have connected all the the cable on both the side. After connecting the cable, can you unlock your screen? Yeah, So just just turn this up. Yes. Please unlock the screen. Yeah. Click on the weeping on the bottom. Right. ******, can you click on network? Sign in? Hey, can you show me the message? If you're getting okay, you're able to connect. Can you please try to log in now? OK. Thank you. Go ahead.
+
+Customer [starttime: 17:12 - endtime: 17:25]: Thank.
+
+Agent [starttime: 17:25 - endtime: 17:27]: You. Thank you.
+
+Customer [starttime: 17:27 - endtime: 17:39]: It.
+
+Agent [starttime: 17:39 - endtime: 20:15]: Ok. I just check if everything is good now. OK is good. Back in the city for you now, the stiff hasn't popped up yet. Do I have to sign back in? Okay, Perfect. So whenever you're having this step up issues with your VPN or anything, if your home internet is already working, fine. So you can just follow the same setdown, the system, remove the power cable and the internet cable, do a power dream, then turn off the system, the router for a minute or 2, and then turn on without the cables. And then later on, you can connect the internet cheaper and prior. Okay, so apart from this, anything else I can assist you today? No, I mean, that should be fine. I'm just to see if this should come up. Hopefully it does. So if this has happened again, no, I can do those steps. Would they not still need to raise an incident because it would be to be logged that I've not been able to access otherwise. Yeah. If you're able to fix the issue with the steps, we can just try this one. But in case if they're having any issues in the future, you can raise a ticket and you can call back with the ticket or without dedicate no issues. Okay, on the same number, the IT number. Yeah, you're on the same number. So even if you will pause without the ticket, no problem. We can raise a ticket for you. But if the supervisor also is, that's not a problem. Okay, Okay. Thank you. Looks like I'm both on looks. Okay. Thank you so much. And apart from this, anything else I can assist you today? No worries. No, that's all. Good. Thank you so much. Thank you most. Welcome. And also after this call, I will be connecting to a short survey where you can rate our conversation on the scale of 5 to one VIA is satisfied. And there will be second surveys for contact resolutions wherein you can select one, which means able to provide you resolution on first contact. So on the first survey, 5 is highest in the second survey, one is highest. So request you to rate on both the survey and thank you for calling ID home Agent. Have a nice day. Bye. Take care. Bye bye. Bye bye.
+
+Customer [starttime: 20:15 - endtime: 21:27]: Thanks for giving us a few minutes of your time to complete the IT helps desk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist On today's call, Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact, press one. If it took multiple contacts to resolve, press 2 if it still has not been resolved, press 3. Fantastic. This time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One. The strongest disagreement. Remember, 7 is strongest agreement. One is strongest. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

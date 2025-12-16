@@ -1,0 +1,118 @@
+Speaker 1 [starttime: 00:08 - endtime: 00:12]: My name is. How can I help you today?
+
+Speaker 2 [starttime: 00:12 - endtime: 00:26]: Hi. My name is *******. I took a break and I went trying to get logged back in. My my doggin was locked, and now it's not loading at all. Its stuck. Unwelcome.
+
+Speaker 1 [starttime: 00:26 - endtime: 00:32]: So what was the error message you were getting.
+
+Speaker 2 [starttime: 00:32 - endtime: 00:42]: Right now? I'm not getting an error. So earlier I was getting your account is locked.
+
+Speaker 1 [starttime: 00:42 - endtime: 00:49]: So have you tried to reboot the system? And after that, you were having the same? I didn't reboot, but.
+
+Speaker 2 [starttime: 00:49 - endtime: 00:59]: I signed out. I disconnected and then I relogged back in. And now it's not loading. It's just stuck on. Welcome.
+
+Speaker 1 [starttime: 00:59 - endtime: 01:11]: To I understand your problem, and I can surely help you with it. Can you please tell me your CCMS ident or your employee ID.
+
+Speaker 2 [starttime: 01:08 - endtime: 01:16]: *******.
+
+Speaker 1 [starttime: 01:16 - endtime: 01:22]: Can you please tell me your full name? Your first and last name?
+
+Speaker 2 [starttime: 01:21 - endtime: 01:23]: ******* ****** *.
+
+Speaker 1 [starttime: 01:23 - endtime: 01:30]: So when you try to log in into the VDI, it is just loading, right?
+
+Speaker 2 [starttime: 01:30 - endtime: 01:32]: Yes, Correct.
+
+Speaker 1 [starttime: 01:32 - endtime: 01:42]: All right, So please stay connected. I need to check from my end, so it may take like, 2 to 3 minutes. So please stay connected. Ok?
+
+Speaker 2 [starttime: 01:41 - endtime: 03:23]: OK, that's fine. 7 is the Eagles.
+
+Speaker 1 [starttime: 03:23 - endtime: 03:52]: I apologize for the delay. Ma'am. Please give me a couple of more minutes, OK? Ok.
+
+Speaker 2 [starttime: 03:48 - endtime: 03:56]: Thank.
+
+Speaker 1 [starttime: 03:56 - endtime: 04:55]: You. Thank. You. Thank you so much for staying connected. So you opened your VDI and enter your password, username and password and then you need to enter it one more time on the VDI screen. When you enter the second time, it is Just keep on loading. It is not going into the VDA, right?
+
+Speaker 2 [starttime: 04:55 - endtime: 04:56]: Yes.
+
+Speaker 1 [starttime: 04:56 - endtime: 05:43]: Ok, you had a structure so I need to remove the session and if I remove the session it will sign out. Once it is sign out. Please try to re log in again. I will let you know. Ok, when you need to re log in back, Ok. Yeah, I'm signing off now signing you out now. It is signing out, right?
+
+Speaker 2 [starttime: 05:43 - endtime: 05:45]: Yes, it is.
+
+Speaker 1 [starttime: 05:44 - endtime: 06:31]: Ok, please do not log in. I will let you know when you need to log in. Ok. Ok, thank you so much for staying connected. So can you please close the TPPDI web completely and relaunch it back and try to log in again?
+
+Speaker 2 [starttime: 06:31 - endtime: 06:34]: Do you want me to reboot or just open VDI?
+
+Speaker 1 [starttime: 06:34 - endtime: 06:46]: Open VDI? Close the application and relaunch it back. Do not need to reboot. Ok.
+
+Speaker 2 [starttime: 06:46 - endtime: 06:48]: And log in.
+
+Speaker 1 [starttime: 06:47 - endtime: 07:40]: Yeah, log in back.
+
+Speaker 2 [starttime: 07:40 - endtime: 09:18]: Ok, thank you. Let's see. It. The HSD UHC app is not opening. Now.
+
+Speaker 1 [starttime: 09:18 - endtime: 09:27]: You wait for like, a couple of minutes. It does open. Ok.
+
+Speaker 2 [starttime: 09:27 - endtime: 09:37]: Well.
+
+Speaker 1 [starttime: 09:37 - endtime: 09:51]: Wait for try to reopen it back and try to When you click on that UHC desktop it needs to open up, but it is not opening, right?
+
+Speaker 2 [starttime: 09:50 - endtime: 09:53]: Yeah, it's not opening.
+
+Speaker 1 [starttime: 09:52 - endtime: 10:38]: So have you. The file is getting downloaded when you click on if it's the list. Uhhuh. Yeah. And you try to open that file, right? Ok. OK, on your keyboard, try to press control alt and the letter. Yes s for Sam Control. Alternate. You are my.
+
+Speaker 2 [starttime: 10:38 - endtime: 10:39]: Host name.
+
+Speaker 1 [starttime: 10:39 - endtime: 10:44]: Yeah. Please tell me the host name.
+
+Speaker 2 [starttime: 10:44 - endtime: 11:06]: N. As in Nancy T. As in Tango D. As in dog. ******. C. As in Cat B. As in boy B. As in boy T. As in dog B. As in boy F. As in Frank.
+
+Speaker 1 [starttime: 11:06 - endtime: 11:13]: Ok, I will be taking the shot off your system. Please. Give me one moment. Ok?
+
+Speaker 2 [starttime: 11:12 - endtime: 11:17]: OK, do you want me to try again or just leave it?
+
+Speaker 1 [starttime: 11:16 - endtime: 11:31]: One second. I will check. OK, try again.
+
+Speaker 2 [starttime: 11:31 - endtime: 12:18]: Ok, It's sending my 2 step authentication. Ok. Hello.
+
+Speaker 1 [starttime: 12:18 - endtime: 12:43]: Welcome. To. My. Lecture.
+
+Speaker 2 [starttime: 12:43 - endtime: 13:01]: It.
+
+Speaker 1 [starttime: 13:01 - endtime: 13:38]: We will wait for one to 2 minutes.
+
+Speaker 2 [starttime: 13:34 - endtime: 14:29]: Thank you very much. Hello. Welcome my lecture. to
+
+Speaker 1 [starttime: 14:29 - endtime: 14:39]: So I'm rebooting your system. Once the system got rebooted, please let me know. I will take the order again. Ok?
+
+Speaker 2 [starttime: 14:38 - endtime: 15:56]: Ok, thank you.
+
+Speaker 1 [starttime: 15:56 - endtime: 16:18]: All. Right. Thank. You.
+
+Speaker 2 [starttime: 16:18 - endtime: 16:34]: Thank you for calling.
+
+Speaker 1 [starttime: 16:34 - endtime: 16:39]: Does your system get restarted?
+
+Speaker 2 [starttime: 16:39 - endtime: 16:41]: Yes, it did.
+
+Speaker 1 [starttime: 16:41 - endtime: 17:06]: Try to log in again. In the meantime, I will take the shadow.
+
+Speaker 2 [starttime: 17:04 - endtime: 17:57]: Hello. Thanks for calling.
+
+Speaker 1 [starttime: 17:52 - endtime: 18:01]: Hello?
+
+Speaker 2 [starttime: 18:00 - endtime: 19:02]: Mmhmm. Hello. my lecture. Welcome to Hello. Welcome.
+
+Speaker 1 [starttime: 19:02 - endtime: 19:26]: To. My. Lecture.
+
+Speaker 2 [starttime: 19:25 - endtime: 19:39]: Hello. Thanks for calling.
+
+Speaker 1 [starttime: 19:39 - endtime: 19:42]: Do. You. Want? Me. To.
+
+Speaker 2 [starttime: 19:41 - endtime: 19:46]: Do anything or.
+
+Speaker 1 [starttime: 19:45 - endtime: 20:41]: Yeah, mostly sometimes due to internet issue, this file doesn't open. It is open. Now try to log in. When you try to log in. Next time, try to reboot the system. Reboot the internet router once. Ok. This time you can get in. But when you try to log in tomorrow before you log in into the VDI, try to reboot the internet router once. Ok? Ok.
+
+Speaker 2 [starttime: 20:41 - endtime: 21:07]: You're. Welcome.
+
+Speaker 1 [starttime: 21:06 - endtime: 21:29]: Hello. Welcome. To. My. Lecture. So you can able to log in. Right? So I will provide you one ticket number. Please give me one moment, Ok?
+

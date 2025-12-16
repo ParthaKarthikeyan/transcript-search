@@ -1,0 +1,54 @@
+Speaker 2 [starttime: 00:06 - endtime: 00:12]: You for calling this support? My name is ***.
+
+Speaker 1 [starttime: 00:12 - endtime: 00:22]: Hi. This is ****** from Teleperformance Philippines. And I'm calling for a monitor placement. Can you help me with it?
+
+Speaker 2 [starttime: 00:21 - endtime: 00:34]: Yeah, sure. I'm sorry for the inconvenience cost. I'll definitely help you with this. In the meanwhile. May I know your BMS iDs?
+
+Speaker 1 [starttime: 00:34 - endtime: 00:38]: ID is *******.
+
+Speaker 2 [starttime: 00:38 - endtime: 00:42]: Your full name, please.
+
+Speaker 1 [starttime: 00:42 - endtime: 00:45]: My full name is ******* ********.
+
+Speaker 2 [starttime: 00:45 - endtime: 00:49]: Your manager name, please.
+
+Speaker 1 [starttime: 00:49 - endtime: 00:54]: My manager's name is ******** ***.
+
+Speaker 2 [starttime: 00:54 - endtime: 01:00]: Do you have any existing ticket number for this issue?
+
+Speaker 1 [starttime: 01:00 - endtime: 01:10]: I do not have as of yet because the call got dropped earlier.
+
+Speaker 2 [starttime: 01:10 - endtime: 01:15]: Both monitors are not working, or only one monitor is not working.
+
+Speaker 1 [starttime: 01:14 - endtime: 01:23]: Only one. Only one. The VGA one because the HDMI is working. Uhhuh.
+
+Speaker 2 [starttime: 01:23 - endtime: 01:28]: VGA one. You need replacement.
+
+Speaker 1 [starttime: 01:28 - endtime: 01:37]: Yes. The right monitor. The monitor from the right side.
+
+Speaker 2 [starttime: 01:37 - endtime: 01:49]: Completely understood. Sorry. Yeah, I completely should the issue. Please allow me the moment.
+
+Speaker 1 [starttime: 01:49 - endtime: 01:59]: Ok. Thank. You.
+
+Speaker 2 [starttime: 01:58 - endtime: 02:22]: Thank you. Thank you. Thank you. Thank you. Let me know your account number.
+
+Speaker 1 [starttime: 02:22 - endtime: 02:40]: It. Can you use my email address instead? Because I'm not able to receive offshore text messages from through text message. So can you use my email address instead? That's fine.
+
+Speaker 2 [starttime: 02:40 - endtime: 02:50]: I couldn't use your email address to take remote control.
+
+Speaker 1 [starttime: 02:50 - endtime: 02:52]: Let me know when you're ready.
+
+Speaker 2 [starttime: 02:51 - endtime: 02:56]: Yeah. Yes, I'm ready.
+
+Speaker 1 [starttime: 02:56 - endtime: 03:19]: It OK, My email address is ******. That is my surname dot R US S **@*****.***. Again, that is **** dot rush **@*****.***.
+
+Speaker 2 [starttime: 03:19 - endtime: 03:23]: Ok, please have me a moment.
+
+Speaker 1 [starttime: 03:23 - endtime: 03:32]: Thank. You. ****.
+
+Speaker 2 [starttime: 03:32 - endtime: 04:07]: All. Right. Thank you. It. ****. Could you please try to swap the power cable between the monitor and CPU? If you're using the same cable?
+
+Speaker 1 [starttime: 04:07 - endtime: 04:08]: I'm sorry.
+
+Speaker 2 [starttime: 04:08 - endtime: 04:16]: Could you please swap the power cable between the monitor and CPU? The same cables if you're using the same cables?
+

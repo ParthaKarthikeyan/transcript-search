@@ -1,0 +1,76 @@
+Customer [starttime: 00:05 - endtime: 00:10]: Thanks for calling IGL desk. My name is *****. How may I assist you?
+
+Agent [starttime: 00:10 - endtime: 00:19]: Hey, I was calling because I am locked out of my PC to log in.
+
+Customer [starttime: 00:18 - endtime: 00:32]: Apologize for the inconvenience caused to you, ma'am. But do not worry. I will try my best to solve your issue. Please confirm your BMS number.
+
+Agent [starttime: 00:29 - endtime: 00:37]: *******.
+
+Customer [starttime: 00:37 - endtime: 00:42]: Please confirm your first name and the last name.
+
+Agent [starttime: 00:41 - endtime: 00:45]: ******* *******.
+
+Customer [starttime: 00:45 - endtime: 00:49]: Please confirm your username.
+
+Agent [starttime: 00:49 - endtime: 00:56]: Morlet dot 5 at telecoform dot com.
+
+Customer [starttime: 00:55 - endtime: 01:01]: What's the name of your manager?
+
+Agent [starttime: 00:59 - endtime: 01:14]: ******* *******.
+
+Customer [starttime: 01:14 - endtime: 01:18]: Please confirm your location.
+
+Agent [starttime: 01:17 - endtime: 01:21]: Sorry, I want to remove.
+
+Customer [starttime: 01:20 - endtime: 01:26]: And what is your higher date?
+
+Agent [starttime: 01:26 - endtime: 01:31]: September 2nd.
+
+Customer [starttime: 01:31 - endtime: 01:43]: All. Right. Thank you so much for providing the information, ma'am. I would like to reconfirm the issue. You just reported that your account has been locked and you want it to be unlocked. Am I right, ma'am?
+
+Agent [starttime: 01:43 - endtime: 01:48]: I just need to unlock. I'll remember my password.
+
+Customer [starttime: 01:47 - endtime: 01:52]: OK, You just want to unlock it, right?
+
+Agent [starttime: 01:52 - endtime: 01:53]: Correct.
+
+Customer [starttime: 01:53 - endtime: 02:07]: All right. Thank you so much, ma'am, for sharing the information and confirming the issue. And please stay connected. I'm working on your issue. Be assured your issue will be resolved.
+
+Agent [starttime: 02:07 - endtime: 02:08]: Great.
+
+Customer [starttime: 02:08 - endtime: 03:45]: Thank you. May I place your call on hold? Yes, sir. Thank you. [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] Thank you so much for being one. Your domain is still loading and we are still working on it. It may take some time. May I place your call on hold? Thank you.
+
+Agent [starttime: 03:45 - endtime: 04:06]: How do you have to go? I think it's Grandma. Because she has.
+
+Customer [starttime: 03:54 - endtime: 06:17]: [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] Hello. [MUSIC] [MUSIC] [MUSIC] Lecture. My. Welcome. To. [MUSIC] [MUSIC] Thank you so much for being on hold, ma'am. It is almost done. Please stay connected. Am I still there? Hello?
+
+Agent [starttime: 06:17 - endtime: 06:19]: Hello. Are you able to hear me now?
+
+Customer [starttime: 06:19 - endtime: 06:36]: Yes, ma'am. I'm able to hear you loud and clear. It's almost done, ma'am. Just stay connected.
+
+Agent [starttime: 06:36 - endtime: 07:08]: Thank you. Ma'am. Thank you for calling. That's my job. Thank you. I'm always here. Thank you, ma'am. I'm going to invite you.
+
+Customer [starttime: 07:08 - endtime: 07:18]: Done. Almost done. Ok.
+
+Agent [starttime: 07:18 - endtime: 07:59]: Please hold. continue to Your business is important to us. Please line. stay on the
+
+Customer [starttime: 07:59 - endtime: 08:18]: Almost done, ma'am. Please stay connected. Alright, ma'am, I have unlocked the account from my end, ma'am. You can just try to log in and confirm once you confirm, I will share the ticket number.
+
+Agent [starttime: 08:18 - endtime: 08:43]: Okay, let me try to get your name so great. I am back in now. I was able to log in.
+
+Customer [starttime: 08:43 - endtime: 08:49]: All right, ma'am, Once you confirm, I will share the ticket number.
+
+Agent [starttime: 08:49 - endtime: 08:51]: OK, I'm in.
+
+Customer [starttime: 08:51 - endtime: 09:05]: All right. Thank you so much, ma'am. For sharing the information. Please stay connected. While I generate the ticket number for you, the ticket number has been generated. Please note down the ticket number.
+
+Agent [starttime: 09:05 - endtime: 09:10]: All right, I'm ready.
+
+Customer [starttime: 09:10 - endtime: 09:33]: It is re. Q. Romeo Echo Quebec *********. I will repeat again. It is Romeo Echo cubic *********.
+
+Agent [starttime: 09:33 - endtime: 09:34]: Thank you. I have it here.
+
+Customer [starttime: 09:34 - endtime: 10:16]: You're welcome, ma'am. So this is your ticket number. If you issue, you can disconnect back through this and we'll be happy to assist you again. Is there anything else I can assist you? Apart from this, ma'am? No, thank you. One more thing, ma'am. I'll connect you to a short survey post call where the first survey is for the customer satisfaction. *******, on a scale of 5 to 15 is very satisfied and the second survey is for the first contact resolution upgraded. You can select one, which means your issue was resolved in fast contact. Ok, thank you for calling it Help desk. Have a great day ahead, ma'am. You too. Thank you.
+
+Agent [starttime: 10:16 - endtime: 12:18]: Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call. Enter from the scale of one to 5 with 5 being very satisfied and one very unsatisfied. Satisfied. We did not get your response. Please try again. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact press one. If it took multiple contacts to resolve. Fantastic this time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it. Made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One. The strongest disagreement. Remember, 7 is strongest agreement. One is strongest disagreement. We did not get your response. Please try again this time. Enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it. Made it easy for you to handle. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

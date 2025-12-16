@@ -1,0 +1,76 @@
+Agent [starttime: 00:08 - endtime: 00:15]: Thank you for calling. Its support. My name is *******. How may I assist you today?
+
+Customer [starttime: 00:15 - endtime: 00:35]: Good morning. Sorry, I called yesterday south of work, but I forgot my password, but I think I called. I called yesterday to change it, but today I woke up and I still forgot it because I didn't write it down. So I need to change my password again.
+
+Agent [starttime: 00:35 - endtime: 00:39]: So you want to change the password, right?
+
+Customer [starttime: 00:39 - endtime: 00:44]: Yes. Because I can't log in at the moment.
+
+Agent [starttime: 00:44 - endtime: 00:51]: Can I have your BMS number and full name?
+
+Customer [starttime: 00:48 - endtime: 01:05]: *******. Desmond Court. Roker.
+
+Agent [starttime: 01:05 - endtime: 01:12]: Can you please verify your security questions? What is your hiring date?
+
+Customer [starttime: 01:11 - endtime: 01:17]: I don't remember the exact date, but it was in December 23.
+
+Agent [starttime: 01:17 - endtime: 01:22]: And what is your supervisor name?
+
+Customer [starttime: 01:21 - endtime: 01:26]: Alubeka or the Troku.
+
+Agent [starttime: 01:26 - endtime: 01:31]: What is the date of your hiring.
+
+Customer [starttime: 01:31 - endtime: 01:32]: Of my.
+
+Agent [starttime: 01:32 - endtime: 01:37]: What? What is the date of the hiring, sir?
+
+Customer [starttime: 01:37 - endtime: 01:45]: I I said I don't know the exact date, but it was in December ****.
+
+Agent [starttime: 01:44 - endtime: 02:12]: Um, sir, thank you so much for being here. Really appreciate your patience, but wanted to inform you. We have to verify the complete higher date with date, month and year as well. But don't know about the exact hiring date. So in this regard, I'm requesting you to call us back after reaching out to your supervisor while confirmation the date.
+
+Customer [starttime: 02:12 - endtime: 02:16]: How can I reach out when I can't access?
+
+Agent [starttime: 02:16 - endtime: 02:18]: If you don't have the access.
+
+Customer [starttime: 02:18 - endtime: 02:22]: I got the information. It was the 18th of December.
+
+Agent [starttime: 02:22 - endtime: 02:39]: Let me see again here. Just allow me a minute. I'm checking. Yeah, exactly. Thank you very much. Now I'm escalating your case into the team to reset the password there. Ok, just allow me a minute. Once I get the password, I'll share it with you. Ok, Thank you.
+
+Customer [starttime: 02:39 - endtime: 02:55]: Thank you.
+
+Agent [starttime: 02:55 - endtime: 03:10]: All right. Thank you very much.
+
+Customer [starttime: 03:09 - endtime: 03:21]: Thank.
+
+Agent [starttime: 03:21 - endtime: 03:48]: You. Very much. Hello. Welcome.
+
+Customer [starttime: 03:48 - endtime: 04:27]: Lecture. My. To.
+
+Agent [starttime: 04:27 - endtime: 04:58]: Yeah. Hello. Thank you so much for being here. Really appreciate your patience. Now, your password is ready. Are you ready to note down? Ok, this is Monday at *****. The capital letter will be only M for Monday for Mama and all the rest will be in small. So this is Monday, M O N D A Y at *****. OK, sir.
+
+Customer [starttime: 04:57 - endtime: 05:39]: Ok. Ok, let me make sure. I just managed to log in now.
+
+Agent [starttime: 05:39 - endtime: 05:49]: That's really nice. So your issue has been resolved. Now, can you please confirm me if there's anything else a part of this? So please let me know.
+
+Customer [starttime: 05:49 - endtime: 05:51]: No, that was it. Thank you very much.
+
+Agent [starttime: 05:51 - endtime: 05:57]: No problem, sir. I'm giving you the reference number of this call. Are you ready?
+
+Customer [starttime: 05:57 - endtime: 05:59]: Yes. Yes.
+
+Agent [starttime: 05:59 - endtime: 06:09]: Ok, so that is Inc. Yeah. ***.
+
+Customer [starttime: 06:09 - endtime: 06:12]: Yeah.
+
+Agent [starttime: 06:11 - endtime: 06:15]: ***.
+
+Customer [starttime: 06:15 - endtime: 06:17]: Yeah.
+
+Agent [starttime: 06:16 - endtime: 06:20]: ***.
+
+Customer [starttime: 06:20 - endtime: 06:22]: Ok.
+
+Agent [starttime: 06:21 - endtime: 06:36]: Yes, sir. Is there anything else? No problem, sir. Now, can you report this committee with this provider? Satisfied? Thank you for calling it support. Have a really good day, sir. Bye bye. Take care. Thank you. Have a nice day.
+
+Customer [starttime: 06:35 - endtime: 06:37]: Bye bye. You too. Bye.
+

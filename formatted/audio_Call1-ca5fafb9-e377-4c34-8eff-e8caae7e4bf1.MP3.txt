@@ -1,0 +1,242 @@
+Customer [starttime: 00:07 - endtime: 00:20]: Thank you for calling. It helps support. My name is ******. How can I help you today? Hello. Good morning. My name is ****. Give me one of the WMT in the valve.
+
+Agent [starttime: 00:20 - endtime: 00:21]: Um.
+
+Customer [starttime: 00:21 - endtime: 00:37]: I just want to ask this. I I don't know if I forgot the password or I am lock due to excessive passwords. Inquiry passwords. So can you please check?
+
+Agent [starttime: 00:37 - endtime: 00:47]: Sure. I'm sorry for the inconvenience that you're facing. There Should let me help you with that. Can you please confirm with your BMS and full name?
+
+Customer [starttime: 00:46 - endtime: 01:12]: Yeah, like the embassy is *******. My full name is ****** ******** A for Apple, L for Lima, R for Romeo, E for Echo, X for X ray, ******* D for Dog E for Apple, I for India, P for Papa A for Apple, R for Romeo, I for India N for Nancy E for echo.
+
+Agent [starttime: 01:12 - endtime: 01:26]: Sure, it's Alice. ******. OK? UBS is 42906, 77. That's correct.
+
+Customer [starttime: 01:26 - endtime: 01:32]: Yes.
+
+Agent [starttime: 01:31 - endtime: 01:39]: Ok, it will take your review information. Can I put your card on hold for 2 minutes? Is it OK for you?
+
+Customer [starttime: 01:39 - endtime: 01:44]: Yeah, thank you.
+
+Agent [starttime: 01:44 - endtime: 02:06]: Please continue. us. to is important Your business hold. To You for staying on call. I appreciate your patience. Can you please confirm with your hiring date for security purposes? Yeah.
+
+Customer [starttime: 02:05 - endtime: 02:09]: I'm sorry for the one, but I think that.
+
+Agent [starttime: 02:09 - endtime: 02:11]: Around.
+
+Customer [starttime: 02:11 - endtime: 02:14]: Do July 1 or 2 something.
+
+Agent [starttime: 02:14 - endtime: 02:20]: Can you please confirm with your manager name?
+
+Customer [starttime: 02:19 - endtime: 02:22]: Yeah, here now.
+
+Agent [starttime: 02:21 - endtime: 02:30]: As you can see, your account is locked out. Now, I'm going to unlock your account and give me a second.
+
+Customer [starttime: 02:29 - endtime: 02:46]: Ok, just to add, I I don't know. What I thought for document is that. T 123456708 F ********** ****.
+
+Agent [starttime: 02:46 - endtime: 02:54]: It. Sorry. What is exactly you're asking for?
+
+Customer [starttime: 02:54 - endtime: 03:10]: Yeah, I I think I forgot my password. I I totally. That's *****. 1234567890, dash. Is there any way you can check?
+
+Agent [starttime: 03:10 - endtime: 03:30]: No, we don't. We don't have like, checking with the previous password. Can you please try to log in with the using old password? If you forgot, I'm going to reset your password. I give temporary password with you. Ok, Can you please try to log in into the system with the using old password?
+
+Customer [starttime: 03:29 - endtime: 03:33]: Ok, give me one minute.
+
+Agent [starttime: 03:33 - endtime: 03:34]: Sure. Take your time.
+
+Customer [starttime: 03:34 - endtime: 03:36]: Can you unlock right now?
+
+Agent [starttime: 03:36 - endtime: 03:57]: Yes, I'm already unlocked your account.
+
+Customer [starttime: 03:56 - endtime: 04:01]: Do you think it's in the password?
+
+Agent [starttime: 04:00 - endtime: 04:09]: Ok, You forgot your password, right? Can I provide the temporary password?
+
+Customer [starttime: 04:09 - endtime: 04:11]: You will provide me a new password.
+
+Agent [starttime: 04:11 - endtime: 04:16]: Yes, I can provide the temporary password, then offer you can change your password.
+
+Customer [starttime: 04:16 - endtime: 04:21]: Yeah, that would be great. I mean.
+
+Agent [starttime: 04:21 - endtime: 04:32]: And first, can you please try to log in into your system using the old password? Ok, if it's still same, let me know I will provide temporary password with you.
+
+Customer [starttime: 04:32 - endtime: 04:39]: Yeah, I already applied your old password, but still.
+
+Agent [starttime: 04:38 - endtime: 04:46]: Ok, let me provide the temporary password. Are you ready? Ok, then I can spell out for you.
+
+Customer [starttime: 04:45 - endtime: 04:55]: Yeah. I'm ready.
+
+Agent [starttime: 04:54 - endtime: 05:15]: Give me a second. OK, The temporary password. Lower case R for Romeo.
+
+Customer [starttime: 05:15 - endtime: 05:23]: The lower case. Sorry. Lowercase R for Romeo.
+
+Agent [starttime: 05:23 - endtime: 05:50]: Upper case J for Juliet. Uppercase G for George. Uppercase Q for queen. Number 9. Lowercase Y for yellow.
+
+Customer [starttime: 05:50 - endtime: 05:53]: Oh, what is that? Sorry.
+
+Agent [starttime: 05:52 - endtime: 05:57]: Lowercase Y for Anki.
+
+Customer [starttime: 05:56 - endtime: 05:58]: Ok.
+
+Agent [starttime: 05:58 - endtime: 06:03]: Uppercase X for X ray.
+
+Customer [starttime: 06:02 - endtime: 06:04]: Uhhuh.
+
+Agent [starttime: 06:04 - endtime: 06:21]: Again. Uppercase X for x ray. Number 8. Lowercase F for Foxtrack.
+
+Customer [starttime: 06:21 - endtime: 06:22]: Mmhmm.
+
+Agent [starttime: 06:22 - endtime: 06:27]: Uppercase N N for Nancy.
+
+Customer [starttime: 06:27 - endtime: 06:28]: Uhhuh.
+
+Agent [starttime: 06:28 - endtime: 06:34]: Uppercase D D for Delta.
+
+Customer [starttime: 06:33 - endtime: 06:41]: Uhhuh. Is that it?
+
+Agent [starttime: 06:41 - endtime: 06:45]: Yeah, that's it.
+
+Customer [starttime: 06:45 - endtime: 07:01]: Yeah, Just to confirm that I got it right. Zip. Lowercase R for Romeo. Lowercase J for Juliet. Upper Z for Zulu.
+
+Agent [starttime: 07:01 - endtime: 07:05]: Hold on. Hold on. You write your.
+
+Customer [starttime: 07:05 - endtime: 07:08]: You spell out the password. Its wrong.
+
+Agent [starttime: 07:08 - endtime: 07:10]: I said.
+
+Customer [starttime: 07:09 - endtime: 07:12]: Lowercase R for Romeo.
+
+Agent [starttime: 07:11 - endtime: 07:15]: Uppercase J for Juliet.
+
+Customer [starttime: 07:14 - endtime: 07:55]: Uppercase Its G for George. G for George. Yes. G for George and uppercase Q for Queen. OK, so ***** case R or Apple J for Juliet. Right then? Yes. Uppercase. Upper case Q for Queen.
+
+Agent [starttime: 07:55 - endtime: 08:11]: OK, I think you're writing when you're writing it down. The temporary passage is wrong. Can you please do one thing I'm taking as the remote session. I have to share one link to your mobile. Once you got, click on the link, allow me the camera and show me the screen. That.
+
+Customer [starttime: 08:11 - endtime: 08:13]: You can.
+
+Agent [starttime: 08:13 - endtime: 08:21]: Provide the temporary password over there. Ok, can you please confirm with your mobile number?
+
+Customer [starttime: 08:21 - endtime: 08:23]: Yeah, it's ****.
+
+Agent [starttime: 08:23 - endtime: 08:31]: Hold on, Hold on. One minute.
+
+Customer [starttime: 08:31 - endtime: 08:46]: Zero. *************.
+
+Agent [starttime: 08:45 - endtime: 08:55]: ***. Can you please check your mobile? You got any text messages?
+
+Customer [starttime: 08:55 - endtime: 09:20]: Yeah. Excuse me, sir. I don't have any text. Can you please ask the special number? The plastic, The Philippines code?
+
+Agent [starttime: 09:20 - endtime: 09:31]: Yes. Go ahead.
+
+Customer [starttime: 09:31 - endtime: 09:36]: I don't have text message here.
+
+Agent [starttime: 09:36 - endtime: 09:44]: Ok, one minute.
+
+Customer [starttime: 09:44 - endtime: 09:48]: But did you change the password right already?
+
+Agent [starttime: 09:48 - endtime: 10:00]: This is which I had to provide you early. That is the temporary password. You need to use the temporary password there and try to log in. Then after you need to change your password yourself, Ok?
+
+Customer [starttime: 10:00 - endtime: 10:06]: Alright. Yeah.
+
+Agent [starttime: 10:06 - endtime: 10:18]: Ok, if you're not understanding, then can you please provide me your personal email that I can share the temporary password or through email? Ok.
+
+Customer [starttime: 10:17 - endtime: 10:44]: Yeah, yeah, yeah. My personal email is my first name. I'm. Sorry. Go. Ahead. Yeah. So my first name is my first name. ******. Uhhuh. All over. Case, then all over. Case 05 at gmail dot com. Your.
+
+Agent [starttime: 10:43 - endtime: 10:48]: Full name zero at the gmail dot com, Right.
+
+Customer [starttime: 10:47 - endtime: 10:54]: Yeah, yeah, yeah, it's all over here.
+
+Agent [starttime: 10:53 - endtime: 11:17]: Sorry. Spell it out for me. It's like A for Alpha L for Lima R for Romeo E for Echo X for X ray D for David E for Alpha, I for India P for Papa A for Alpha R for Romeo, I for India N for Nancy E for echo 05 at the gmail dot com.
+
+Customer [starttime: 11:17 - endtime: 11:25]: The first, the last name is B for Delta E for Echo, I for India.
+
+Agent [starttime: 11:24 - endtime: 11:27]: Ok.
+
+Customer [starttime: 11:27 - endtime: 11:32]: Yeah, literally.
+
+Agent [starttime: 11:31 - endtime: 11:32]: Sorry.
+
+Customer [starttime: 11:32 - endtime: 11:39]: Can you please ask me? Yeah, I'm going to spell it out, OK?
+
+Agent [starttime: 11:39 - endtime: 11:41]: Ok, so.
+
+Customer [starttime: 11:41 - endtime: 12:13]: Full day. I forgot A for Apple, L for Lima, R for Romeo, E for Echo, X for extra B for Delta E for Echo, I for India, P for Papa, A for Apple, R for Romeo, I for India, N for Nancy, E for Echo. OK, then.
+
+Agent [starttime: 12:12 - endtime: 12:18]: OK, your full name zero at the gmail dot com, right? Zero 5.
+
+Customer [starttime: 12:17 - endtime: 12:21]: Yeah, yeah, yeah, yeah.
+
+Agent [starttime: 12:21 - endtime: 12:24]: 05. Right.
+
+Customer [starttime: 12:24 - endtime: 12:28]: Yeah. Zero 5. Hold. On.
+
+Agent [starttime: 12:28 - endtime: 12:37]: I have to provide the temporary password and the for reset password. I have to provide the link with you.
+
+Customer [starttime: 12:37 - endtime: 12:40]: Ok.
+
+Agent [starttime: 12:40 - endtime: 13:02]: Then you can use the temporary password. Then you can change your password yourself. Check your personal email. Can you check your personal email?
+
+Customer [starttime: 13:02 - endtime: 13:22]: Yeah, yeah, One second.
+
+Agent [starttime: 13:20 - endtime: 13:41]: Thank you so much. Hello. Welcome to. My.
+
+Customer [starttime: 13:41 - endtime: 13:48]: Lecture. It? Yeah, I got.
+
+Agent [starttime: 13:48 - endtime: 13:54]: It. Let me just check it.
+
+Customer [starttime: 13:53 - endtime: 14:17]: Yeah, yeah, I got the temporary password. Let me just. I'll check if I can log in with this. Give me a second. Go ahead.
+
+Agent [starttime: 14:16 - endtime: 15:39]: Ok, thank you so. Much. Where does it come from? The other place. Hello? Yeah. Hello. I'm. Please continue to hold. Your. Business is important to us. Don't ask me. why. don't know I Why. Thank you very much. Thank you very much.
+
+Customer [starttime: 15:39 - endtime: 16:04]: Hello, ******.
+
+Agent [starttime: 16:04 - endtime: 16:17]: you. Thank Thank you. Thank you. Thank you. Hello. Are you able to log in?
+
+Customer [starttime: 16:17 - endtime: 16:23]: Yeah. I was able to create a password. New password?
+
+Agent [starttime: 16:23 - endtime: 17:51]: Yes, ma'am. It. Oh, like that. Thank. You. Very much. Thank you very much. Thank you. Thank you. Thank you. Thank you. Let's see, ******. Let's see. Yeah. Hello. Thank you for calling here.
+
+Customer [starttime: 17:50 - endtime: 18:00]: Mmhmm. Hello?
+
+Agent [starttime: 18:00 - endtime: 18:06]: It. Hello?
+
+Customer [starttime: 18:06 - endtime: 18:32]: No, Just give me one second because I already changed my password, but I don't know. For some reason. I don't know. It says it's your surname. Incorrect. Now. Sorry, just give me a second.
+
+Agent [starttime: 18:32 - endtime: 18:36]: Are you able to log in or what?
+
+Customer [starttime: 18:36 - endtime: 19:04]: Yeah, I was already. I already changed my password. I already changed the theory password. A new password. But when I log in because I'm telling you, it's incorrect. Just give me a moment, OK?
+
+Agent [starttime: 19:04 - endtime: 19:21]: Thank you. I don't know. What Can you tell me the number?
+
+Customer [starttime: 19:21 - endtime: 19:28]: Yes, I'm already welcome.
+
+Agent [starttime: 19:27 - endtime: 19:32]: Hello? Hello?
+
+Customer [starttime: 19:32 - endtime: 19:35]: Yes, I'm already like.
+
+Agent [starttime: 19:35 - endtime: 19:46]: Ok, can I provide the ticket number? Can I provide the ticket number for this issue for this call?
+
+Customer [starttime: 19:46 - endtime: 19:48]: Yes, yes, yeah.
+
+Agent [starttime: 19:48 - endtime: 19:54]: And please let me know. This is first time you're contacting to it. Health support on this issue today.
+
+Customer [starttime: 19:54 - endtime: 20:01]: That is correct. Yes, it was such a big head.
+
+Agent [starttime: 20:00 - endtime: 20:11]: Ok, And before providing the ticket number apart from this, is there any, is there anything that I can help you with? Anything else?
+
+Customer [starttime: 20:11 - endtime: 20:14]: Nothing. Else.
+
+Agent [starttime: 20:14 - endtime: 21:21]: OK, give me a second. I'm creating the ticket. Hello? Hello? Hello? Hello. Please stay on the line for specialist. customer service next the Thank you. You're welcome. Thank you very much. So the ticket number all up. R E Q R for Romeo, E for Echo, Q for.
+
+Customer [starttime: 21:21 - endtime: 21:32]: Queen.
+
+Agent [starttime: 21:23 - endtime: 21:42]: **********. Let me repeat. E Q ********* *** you please repeat for me the ticket number? Yeah.
+
+Customer [starttime: 21:42 - endtime: 21:47]: Yeah, it's R E Q ********.
+
+Agent [starttime: 21:46 - endtime: 21:49]: That is correct. I will connect you to a short survey.
+
+Customer [starttime: 21:49 - endtime: 21:52]: Post call with the first survey for customer.
+
+Agent [starttime: 21:51 - endtime: 21:58]: Satisfaction where you can date a 5 to 15 is very satisfied, and the second survey is for contact resolution.
+
+Customer [starttime: 21:58 - endtime: 23:17]: Where you can select one, which means your issue got resolved in first contact today. Thank you for contacting it. Help me support. Have a great day ahead. Bye bye. Bye. Bye. See, Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call, Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact press one. If it took multiple contacts to resolve. Fantastic this time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One. The strongest disagreement. Remember, 7 is strongest of. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

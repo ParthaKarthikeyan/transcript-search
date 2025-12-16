@@ -1,0 +1,54 @@
+Customer [starttime: 00:05 - endtime: 02:34]: I'm calling to help support. My name is ******. How can I help you today? Hi. My account is locked. Um, I'm trying to get into my TP. Sure, I'm sorry for the inconvenience that you're facing the issue. Let me help you with that. Can you please confirm with your BMS number, please? Yes, it's *******. Can you please confirm your first and last name with my what? Can you please confirm with your full name? Complete name. Ok, it will take care of review information. Can I put your call hold for 2 minutes? Yes. Thank you. Thank you for staying on call. Appreciate your patience. As I can see, your account is not locked out. Can you please try to log in now? Ok, because it says your account is temporarily blocked, unauthorized. So let me check again. Ok, No problem. Ok. Yeah, I can see your account not locked out. Do one thing, restart your system, then try to log in again. Ok. Just one second. Let me show if I can get in. Ok. I'm just not sure what password its asking for because your old password like your rent password. Let's see. Yeah, please try to log in. Oh, one second.
+
+Agent [starttime: 02:34 - endtime: 02:39]: Ok.
+
+Customer [starttime: 02:38 - endtime: 02:48]: Ok, once you're able to log in, please let me know if you are not able to log in. Let me know. Ok, okay. I'm just trying to collect it right now.
+
+Agent [starttime: 02:48 - endtime: 02:50]: Sure.
+
+Customer [starttime: 02:50 - endtime: 02:53]: One moment. Thank you.
+
+Agent [starttime: 02:53 - endtime: 02:56]: No. Problem.
+
+Customer [starttime: 02:56 - endtime: 06:06]: Sorry I got locked out. So let me get. Oh, your account is temporarily locked to prevent or not use. Ok, let me check. So can you please cancel your NPI? It's G A S P E R dot one 4. That is correct. One second. One second. Let me just let my manager know. Ok, sure. I was. I'm on the phone with. I'm sorry, ma'am. I don't cite site yet, but now it's 19. Just giving me problems, Ok, So still, you're facing same issue, right? Ok, one second. I apologize. I'm trying to clear it. I don't know. Ok, And what were you saying? Yes, you're able to log in or still facing same issue. No billing issue, OK, but as you can see, your account not logged out the one thing, can you please restart your system, then try to log in? If it's still, I can reset your password for renting. As for what, are you going to reset it for the MITP or the Citrix? So you're trying to. You're trying to pull up the Citrix? That is correct. No, I'm trying to pull up for a performance. So that's right. Yeah. Can you please restart your system, then try to log in again? If it's still safe, please let me know. Then after I can provide the temporary password with you, Ok. And take your time. No problem.
+
+Agent [starttime: 06:02 - endtime: 06:31]: Thank. You. Thank. You.
+
+Customer [starttime: 06:30 - endtime: 08:43]: Ok. Are you new? Higher? No, I am afraid. Ok, can we reset my password or sure. Ok, And before can you please confirm with your higher date? Um. 9 22 ****. Can you please confirm with your supervisor name? ******. Ok, I'm going to visit you. Password. I have to provide a temporary password with you. Please wait. Yeah. So the temporary password is lowercase K as Kilo. Case. Uhhuh. Uppercase P As Papa. Ok S e S s Sierra. Uppercase S? Yes. Yes. Aparques E e s echo uppercase E. Uhhuh number 3 number 3. Ok. And uppercase C C As Charlie. Ok. Apar. Kesa ji d? *****.
+
+Agent [starttime: 08:43 - endtime: 08:46]: Julu.
+
+Customer [starttime: 08:46 - endtime: 10:01]: What was that? **** kesa **** G as Julu. Z as in Zebra. Yes, that's correct. Ok S is S Sam. OK, ******** M As Mike Ok, lowercase E S echo lowercase E Ok, lowercase G as ****** Lurky G Ok. And the number 5 and the number 5. Oh. So when it says enter password, I can use, I'm using this one, Correct? Sorry. Sorry, ma'am. Can you please repeat for me where it says enter password. I'm using this one, Correct? The one you just gave me. Yes, that's correct. Are you connected as VPN or VDA? Which one?
+
+Agent [starttime: 10:01 - endtime: 10:03]: I'm. Sorry.
+
+Customer [starttime: 10:03 - endtime: 10:39]: Are you connected with VPN or VDA? Yes, I am connected to VPN. Yes, you need to. First of all, connect to VPN, then Opera Windows. I'm going to try this password that you gave me one second. 3. K.
+
+Agent [starttime: 10:39 - endtime: 10:41]: T.
+
+Customer [starttime: 10:41 - endtime: 10:45]: K P.
+
+Agent [starttime: 10:45 - endtime: 10:47]: S.
+
+Customer [starttime: 10:47 - endtime: 12:02]: T e. Oh, I need to. Oh, jeez, that's something. I'm sorry. I'm sorry, because the number, the number walks, I'm working. Ok, I'm going to take one second. I'm just trying to see. Ok? Yes. It's letting me reset now. He OK. ***.
+
+Agent [starttime: 11:57 - endtime: 12:06]: 83.
+
+Customer [starttime: 12:06 - endtime: 12:29]: And please try to log in TPC as well. Use the same password. You need to create the password you said, ma'am. Yes. Yes. I'm doing that right now. No problem. Take your time.
+
+Agent [starttime: 12:28 - endtime: 12:49]: Thank you. Very much. The time. You know, I'm trying to continue. It was a complete I feel not sure.
+
+Customer [starttime: 12:49 - endtime: 12:53]: So they're free answering.
+
+Agent [starttime: 12:53 - endtime: 13:00]: People.
+
+Customer [starttime: 12:59 - endtime: 13:06]: Ok, um, I remember it.
+
+Agent [starttime: 13:06 - endtime: 13:46]: Thank you. Bye bye. Bye. Bye. Hello. Welcome lecture. my to Hello. Thank you for calling. Thank. much. You very
+
+Customer [starttime: 13:46 - endtime: 14:28]: So did you change your password, ma'am? Yes. Can you have a ticket number, please? Sure. Sure, ma'am. I will provide. Give me a minute. Uhhuh. Thank you. Before providing the ticket number. Apart from this, is there anything that I can help you with anything else? No. I'm going to create the ticket number. So please wait for a moment.
+
+Agent [starttime: 14:28 - endtime: 14:43]: Please continue to hold. us. to important is business Your
+
+Customer [starttime: 14:43 - endtime: 16:01]: Yeah. So the ticket number. R E Q R as Romeo E S Echo Q as queen. *****. Uhhuh ************. Can you please repeat for me the ticket number? Just confirmation. I have R Eq ********. That is correct, ma'am. I will connect you to a short survey Post this call where the first survey is for customer satisfaction. Where you can rate a 5 to 15 means very satisfied. And the second survey is for post contact resolution where you can select one, which means your issue got resolved in the first contact today. Thank you for contacting it. Help us support. Have a great day. Bye bye, ma'am. Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist On today's call, enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied.
+

@@ -1,0 +1,56 @@
+Speaker 2 [starttime: 00:05 - endtime: 00:13]: Connecting my home agent support. This is now. I'm healthy today.
+
+Speaker 1 [starttime: 00:12 - endtime: 00:20]: Yes. I'm able to connect to my VPN. Mmhmm.
+
+Speaker 2 [starttime: 00:20 - endtime: 00:30]: No, Yes. Before I help you connect to VPN, could you please provide me your employee ID.
+
+Speaker 1 [starttime: 00:27 - endtime: 00:30]: ******.
+
+Speaker 2 [starttime: 00:30 - endtime: 00:36]: Can you?
+
+Speaker 1 [starttime: 00:36 - endtime: 00:38]: Can you repeat that?
+
+Speaker 2 [starttime: 00:37 - endtime: 00:43]: Could you please help me with your first name and last name?
+
+Speaker 1 [starttime: 00:43 - endtime: 00:45]: Philosopher.
+
+Speaker 2 [starttime: 00:45 - endtime: 00:54]: All right, *******, could you please let me know What's the exact error message you're getting when you try to connect to VPN?
+
+Speaker 1 [starttime: 00:54 - endtime: 00:56]: Authentication failed.
+
+Speaker 2 [starttime: 00:56 - endtime: 01:16]: Thank you for confirming your details. And I'm sorry for the inconvenience you're experiencing. *******, help you log in. So, yeah, just give me a minute. Let me check your account. Well, I guess your account has been locked out.
+
+Speaker 1 [starttime: 01:15 - endtime: 01:39]: Yeah, Somehow the VPN just shut me out. That I was logging into everything. I was logging into my tickets. Yeah, and everything is. Shut it off.
+
+Speaker 2 [starttime: 01:39 - endtime: 01:55]: Yeah. Checking your account has been locked or addressed here. Before I help you log your account, I just need to verify security checks. Could you please help me with your manager or your supervisor name?
+
+Speaker 1 [starttime: 01:55 - endtime: 02:00]: I think its.
+
+Speaker 2 [starttime: 02:00 - endtime: 02:09]: Could you please confirm your NPI ID? What's the user ID you're using when you log in? Can you write a login?
+
+Speaker 1 [starttime: 02:08 - endtime: 02:12]: Go on that? Go to that 55.
+
+Speaker 2 [starttime: 02:12 - endtime: 02:20]: All right. And could you please help me with your higher date? Your joining date?
+
+Speaker 1 [starttime: 02:20 - endtime: 02:24]: March 25, ****.
+
+Speaker 2 [starttime: 02:24 - endtime: 02:50]: All right. Thank you for confirming this details. So could you please help me with your on site location with your work location?
+
+Speaker 1 [starttime: 02:50 - endtime: 02:53]: Work from home. I work from home.
+
+Speaker 2 [starttime: 02:52 - endtime: 02:57]: Yeah, From which country you work from?
+
+Speaker 1 [starttime: 02:56 - endtime: 02:58]: And United States.
+
+Speaker 2 [starttime: 02:58 - endtime: 03:55]: All right, What kind of. Okay, let's go ahead. All right, I have just unlocked your account. You can go ahead and log in back. Let me know if you're still getting the same error. Yeah, Let me know if you're still getting the same error.
+
+Speaker 1 [starttime: 03:54 - endtime: 03:57]: OK? It went through.
+
+Speaker 2 [starttime: 03:57 - endtime: 06:56]: Ok, is there anything else that I can assist you with? Apart from the ticket number? No, that was ***. Sorry, That was all. I'm going to provide you a ticket number. Yeah, Ok, it. I'm ready whenever you are. Yeah. Just give me a minute updating the details, and I want to know. Is there anything else that I can help you apart from the ticket number? No, ma'am. Can you try to? All right. I'm going to. Yeah, please stay connected. You for staying connected? I appreciate your patience. Yeah. Could you please make a note of the ticket number? I'm ready. Its R like Romeo. E like Echo Q like queen. Number. *********. So it's R e Q R. As in Romeo. Ok, you said R as.
+
+Speaker 1 [starttime: 06:56 - endtime: 07:05]: In Romeo E As in Echo Q as in Quebec. *********.
+
+Speaker 2 [starttime: 07:05 - endtime: 07:35]: Correct. Perfect. All right, before I end the call, I'm going to connect you a short survey. It's a customer satisfaction survey, but on a scale of 5 to 15 means very satisfied service for fish contact resolution wherein you can select one, which means the issue has been resolved in fresh contact. Thank you for connecting it. Home Agent support. Have a great day. Thank you.
+
+Speaker 1 [starttime: 07:34 - endtime: 08:35]: Thanks for giving us a few minutes of your time to complete the IT HelpDesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist On today's call? Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact, press one. If it took multiple contacts to resolve press 2, its fantastic. This time. Enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One the strongest disagreement. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

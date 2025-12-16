@@ -1,0 +1,152 @@
+Speaker 1 [starttime: 00:10 - endtime: 00:15]: I home agent support. My name is ********. How can I assist you?
+
+Speaker 2 [starttime: 00:15 - endtime: 00:32]: Hi there. I'm trying to log into my PC. Whenever I try to log into the VPN, it says that my account is dropped. And then when I log into the PC, it's saying I can't access like the web or teams or anything.
+
+Speaker 1 [starttime: 00:32 - endtime: 01:13]: Oh, OK, because basically we, you have to log in into your VPN, then into the windows. But if you're not going into login into the VPN and you're saying that it was blocked might be it was blocked. So we have unlock it. So we need to check it. The error message. What exact issue you're facing basis. We will check it out from RL. Then we will provide you the resolution. OK, to not worry. And really sorry for the inconvenient cost to you. Ok, so firstly, we have to do some security checks. May I have your BMS ID, please?
+
+Speaker 2 [starttime: 01:13 - endtime: 01:23]: Yep, that's *******.
+
+Speaker 1 [starttime: 01:21 - endtime: 01:27]: ******* ****** your full name?
+
+Speaker 2 [starttime: 01:26 - endtime: 01:28]: Liberty ********.
+
+Speaker 1 [starttime: 01:28 - endtime: 01:31]: What's your supervisor name?
+
+Speaker 2 [starttime: 01:31 - endtime: 01:35]: What is *******?
+
+Speaker 1 [starttime: 01:35 - endtime: 01:40]: Ok, and what's the site location?
+
+Speaker 2 [starttime: 01:40 - endtime: 01:43]: I am white from home.
+
+Speaker 1 [starttime: 01:43 - endtime: 01:59]: Thank you, Liberty for sharing me this detail over here. So just to reconfirming your issue that on your new PC, you're getting account is blogged. So may I know that? Do you have any? Do you have any ticket number?
+
+Speaker 2 [starttime: 01:59 - endtime: 02:01]: Again. 9.
+
+Speaker 1 [starttime: 02:01 - endtime: 02:10]: Ok, no problem. We'll check on that. Can you please allow me some time so that I can go through with all your details and help you out?
+
+Speaker 2 [starttime: 02:10 - endtime: 02:12]: Yep, that's perfect. Thank you most.
+
+Speaker 1 [starttime: 02:12 - endtime: 02:24]: Welcome. Also, can you please tell me your PC tag number, which is pasted on your PC? It starts with T number T for tango.
+
+Speaker 2 [starttime: 02:24 - endtime: 02:37]: T ******.
+
+Speaker 1 [starttime: 02:34 - endtime: 02:39]: *******.
+
+Speaker 2 [starttime: 02:39 - endtime: 02:41]: That. That's correct.
+
+Speaker 1 [starttime: 02:41 - endtime: 03:27]: Thank you. So I'll take the remote control first to check your issue, and on that basis, we will assist you further because we have to share the picture to the team. So I'm sharing you a link via text message via text. You just. You just need to click on the link. Allow the camera. Please make sure that you should hide your personal details or any other confidential data. OK, on your screen. That's.
+
+Speaker 2 [starttime: 03:27 - endtime: 03:28]: Fine. Thank you.
+
+Speaker 1 [starttime: 03:28 - endtime: 04:24]: So I'm sharing you a link on your same mobile phone number which you have called. That is **********. Mmhmm. Ok.
+
+Speaker 2 [starttime: 04:24 - endtime: 05:17]: No, it's not. I've had nothing through it just yet.
+
+Speaker 1 [starttime: 05:17 - endtime: 05:21]: Hello. You haven't received yet?
+
+Speaker 2 [starttime: 05:21 - endtime: 05:24]: No, I haven't received it yet. Sorry.
+
+Speaker 1 [starttime: 05:24 - endtime: 05:30]: No problem. Can you please help me with your email address? I'll share it on that.
+
+Speaker 2 [starttime: 05:30 - endtime: 05:39]: Yeah, that would be L I B Z. So Lima, India. Bravo, Zulu.
+
+Speaker 1 [starttime: 05:38 - endtime: 05:42]: Ok.
+
+Speaker 2 [starttime: 05:41 - endtime: 05:43]: ***.
+
+Speaker 1 [starttime: 05:43 - endtime: 05:46]: One.
+
+Speaker 2 [starttime: 05:46 - endtime: 05:51]: At gmail dot com.
+
+Speaker 1 [starttime: 05:51 - endtime: 05:58]: Ok, L I B Z **** ** gmail dot com.
+
+Speaker 2 [starttime: 05:58 - endtime: 06:01]: Yeah, that's correct.
+
+Speaker 1 [starttime: 06:01 - endtime: 06:22]: Thank you.
+
+Speaker 2 [starttime: 06:22 - endtime: 06:52]: There we go. So I'll show you.
+
+Speaker 1 [starttime: 06:52 - endtime: 06:59]: Can you show me connections?
+
+Speaker 2 [starttime: 06:59 - endtime: 07:04]: Every other time it said, your account is blocked.
+
+Speaker 1 [starttime: 07:03 - endtime: 07:16]: OK, no problem. Ok, can you please show me the backside of your means? Every time when you log in into the VPN, it gives different messages, right?
+
+Speaker 2 [starttime: 07:15 - endtime: 07:16]: Mmhmm.
+
+Speaker 1 [starttime: 07:16 - endtime: 07:27]: Ok, show me the backside of your CPU where the land cable ethernet cable has been inserted.
+
+Speaker 2 [starttime: 07:27 - endtime: 07:28]: Here.
+
+Speaker 1 [starttime: 07:28 - endtime: 08:27]: On your PC on your PC, this is monitor. OK, red light is blinking. OK, got it. Can you please unplug this land cable. After unplugging it? Also unplug from the router. The internet cable.
+
+Speaker 2 [starttime: 08:27 - endtime: 08:55]: Right? Yeah, that's done. Yeah. I don't want do to it.
+
+Speaker 1 [starttime: 08:54 - endtime: 09:34]: Ok, have you unplexed from the LAN also? Yeah. OK, what you have to do next that you have to reboot your router and reboot your PC both after rebooting both. Then plug in the land cable from both ends, like put into the router also and seep at the backside CPU. Then turn it on. Then show me. Then again, login into the VPN and check that. What's the error message it gives you?
+
+Speaker 2 [starttime: 09:34 - endtime: 11:46]: And I'm just going to wait. Thank. You. Thank you. Thank. You very much.
+
+Speaker 1 [starttime: 11:45 - endtime: 12:25]: Hello. Thanks. For. Calling. Thank. You. Thank. You. Its.
+
+Speaker 2 [starttime: 12:25 - endtime: 12:30]: Been strange thing now that the account is disabled.
+
+Speaker 1 [starttime: 12:30 - endtime: 12:57]: I'm actually, I'm unable to see on the video session. Means that the video session is not working. Can you please, like, close the link and refresh your phone? Means close all the applications on the background, which you open at your phone. Then again, reopen the link. Yeah, because sometimes it gets stuck.
+
+Speaker 2 [starttime: 12:57 - endtime: 13:05]: Yeah, that's fine. You're able to see that.
+
+Speaker 1 [starttime: 13:05 - endtime: 13:19]: Now, yes, I can able to see that. OK, I got this. You're getting the disabled letter, OK? No problem. You can turn off the camera and stay on the call. I'll escalate this issue to the team, Ok?
+
+Speaker 2 [starttime: 13:19 - endtime: 13:22]: Yeah, Thank.
+
+Speaker 1 [starttime: 13:21 - endtime: 13:46]: You.
+
+Speaker 2 [starttime: 13:44 - endtime: 16:00]: Thank. You. Thank you. You're. Welcome.
+
+Speaker 1 [starttime: 15:59 - endtime: 16:19]: Hello. I hope we are still connected. Please bear with me. I'm still working on it. I've escalated your issue to the team. I'm just. We were checking from the back end. Ok?
+
+Speaker 2 [starttime: 16:18 - endtime: 16:19]: Yeah. Perfect.
+
+Speaker 1 [starttime: 16:19 - endtime: 18:17]: Thank you. Thank you. I hope you are still connected. Please bear with me. I'm still working on it.
+
+Speaker 2 [starttime: 18:17 - endtime: 18:19]: Yeah.
+
+Speaker 1 [starttime: 18:19 - endtime: 19:12]: OK, I can see that. OK, we have just enabled your account and moved to standard account from inactive. So you have. You have already remembered your old password so you can continue using that and you have to wait for some more time. Like after 15 to 30 minutes you have to log in back. OK, and log in and wait for 30 minutes after login 30 minutes because after that you can try the Z scale and other applications because it takes time to replicate the changes made. So wait for 5 minutes. I'll just wait for on the call. After 5 minutes, try to log in with the same old password. Once you are logged in into your PC, then we can check it out. Ok.
+
+Speaker 2 [starttime: 19:12 - endtime: 19:14]: Just wait on the call for some moments When?
+
+Speaker 1 [starttime: 19:14 - endtime: 19:34]: I'll ask you, You can just log in into their PC. Ok, thank you.
+
+Speaker 2 [starttime: 19:34 - endtime: 21:37]: Thank much. you very Hello. Welcome to my lecture.
+
+Speaker 1 [starttime: 21:37 - endtime: 26:27]: Thank you so much for staying on the call. Yeah. Please log in and also, please turn on the video session so that I can check it. Yeah. Should I log into the VPN as well? And then wait. Yes. This is the correct procedure to log in into the always logging your VPN first and then windows. Mmhmm. Again, it shows. OK, then wait for some more time. Ok, because once it will be get enabled, so it takes time to replicate the changes which made. OK. Mmhmm. Yeah. After 5 to 10 minutes again, you can log in, close the VPN. Yes. Thank you so much for staying on the call. Hello. Are you still still the same that I'm unable to see on the video session? Just close it and then reopen it.
+
+Speaker 2 [starttime: 26:27 - endtime: 26:41]: That should be.
+
+Speaker 1 [starttime: 26:40 - endtime: 26:56]: OK. Login.
+
+Speaker 2 [starttime: 26:55 - endtime: 27:03]: Hello. Thank you. Thank you. Ok?
+
+Speaker 1 [starttime: 27:03 - endtime: 27:14]: OK, enter correct on your password.
+
+Speaker 2 [starttime: 27:13 - endtime: 27:35]: Ok. So it should be not in. I have one guy.
+
+Speaker 1 [starttime: 27:34 - endtime: 27:55]: Yes, yes. Do one thing you can try after 30 minutes directly. You can try for after 30 minutes, OK? And hopefully, yeah, because we have just enable it. It takes time. I'll provide you the ticket number. If any issue will process, you can call back, OK?
+
+Speaker 2 [starttime: 27:55 - endtime: 27:57]: Ok, perfect.
+
+Speaker 1 [starttime: 27:57 - endtime: 28:44]: Just give me a moment. I'll provide you the ticket number. Hello. Hello. Thanks. For. Calling. I'm ready with that. It's inc. I for India N for Nancy C. For Charlie.
+
+Speaker 2 [starttime: 28:44 - endtime: 28:44]: Sorry.
+
+Speaker 1 [starttime: 28:44 - endtime: 29:13]: Could you just repeat that? Yeah, sure. It's I for India N for Nancy. C for charlie. *********.
+
+Speaker 2 [starttime: 29:12 - endtime: 29:14]: 2. Ok, perfect.
+
+Speaker 1 [starttime: 29:14 - endtime: 29:21]: Thank you most welcome. Anything else? Apart from this, I can assist you.
+
+Speaker 2 [starttime: 29:20 - endtime: 29:22]: No, that's everything.
+
+Speaker 1 [starttime: 29:22 - endtime: 29:59]: Thank you. You're most welcome. So I'll just take only 20 seconds more from you. I'll connect to a short survey post this call where the first survey is for customers wearing on scale of 5 to 15 means very satisfied. And for the second survey, you have to select one, which means your issue has been resolved in first contact. So please read this survey after this call. It is very important. Thank you so much for contacting it. Home Agent support. Have a great day. Take care. Bye.
+
+Speaker 2 [starttime: 29:59 - endtime: 30:02]: Thanks for giving us a few minutes of your time to complete the it.
+

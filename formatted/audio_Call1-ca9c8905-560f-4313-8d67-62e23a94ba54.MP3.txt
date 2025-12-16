@@ -1,0 +1,116 @@
+Speaker 2 [starttime: 00:05 - endtime: 00:11]: Thank you for calling. It looks support. My name is *** Kannul. How can I help you?
+
+Speaker 3 [starttime: 00:11 - endtime: 00:29]: Hi, *****. I wonder if you can. I was on contact with **** ****** because I had problems with my PC this morning and he asked me to ask to go and restart the PC. But it's not letting me log in.
+
+Speaker 2 [starttime: 00:29 - endtime: 00:33]: What is the message?
+
+Speaker 3 [starttime: 00:33 - endtime: 00:40]: Coming up as our user, we can't sign you in with this credential because your domain isn't available.
+
+Speaker 2 [starttime: 00:40 - endtime: 00:46]: OK, when is the last time you log in with this PC?
+
+Speaker 3 [starttime: 00:46 - endtime: 00:49]: About 5 minutes ago?
+
+Speaker 2 [starttime: 00:49 - endtime: 00:53]: Help me with the PC. Tag number.
+
+Speaker 3 [starttime: 00:53 - endtime: 01:00]: T ******.
+
+Speaker 2 [starttime: 00:58 - endtime: 01:05]: ****** *******.
+
+Speaker 3 [starttime: 01:02 - endtime: 01:06]: ******.
+
+Speaker 2 [starttime: 01:06 - endtime: 01:17]: Okay, help me to BMS. Item number and your full name, please.
+
+Speaker 3 [starttime: 01:13 - endtime: 01:25]: ******. 99. ******, I ISOT.
+
+Speaker 2 [starttime: 01:25 - endtime: 01:37]: Just to confirm. Like you logged in with the VPN. First. Correct denial, new Windows or fast Windows, then VPN. Please confirm.
+
+Speaker 3 [starttime: 01:37 - endtime: 01:52]: Just trying to log in. I haven't. I haven't even got the home screen yet. I just. He asked me to restart. I've restarted putting it in my username and password and it's not letting me log in.
+
+Speaker 2 [starttime: 01:52 - endtime: 02:00]: OK. So it may take me a moment to review all the information. May I put your on hold for the same?
+
+Speaker 3 [starttime: 02:00 - endtime: 02:02]: Yes, of course.
+
+Speaker 2 [starttime: 02:02 - endtime: 02:20]: Thank you.
+
+Speaker 1 [starttime: 02:05 - endtime: 02:37]: [MUSIC] [MUSIC]
+
+Speaker 2 [starttime: 02:37 - endtime: 02:47]: Thank you for staying on hold. So that the issuing the login. When you try to log in, you'll go to error message domain agenda available. Correct?
+
+Speaker 3 [starttime: 02:47 - endtime: 02:49]: Connect.
+
+Speaker 2 [starttime: 02:49 - endtime: 03:05]: Really? Sorry for the inconvenience. Let me help with that. And could you please try to log in with the right bottom? Right side bottom? You will level to CI and network sign in. Could you please try to click that one?
+
+Speaker 3 [starttime: 03:05 - endtime: 03:10]: Is this the one? How do I sign into another domain? Is that one?
+
+Speaker 2 [starttime: 03:09 - endtime: 03:22]: No, no, no. On the right side bottom, there is 4 little I li icons. Okay, you need to play this network sign in on the right side bottom of your screen.
+
+Speaker 3 [starttime: 03:21 - endtime: 03:26]: Yes, I can see that. But for me to connect to VPN.
+
+Speaker 2 [starttime: 03:26 - endtime: 03:29]: Yes.
+
+Speaker 3 [starttime: 03:29 - endtime: 03:34]: It's not coming up from a normal group.
+
+Speaker 2 [starttime: 03:33 - endtime: 03:48]: Yeah. You need to select the VWPTCR. Which one you are using? Actually, like DWPT or DWPT backup. Which one you are using?
+
+Speaker 3 [starttime: 03:46 - endtime: 03:49]: VWPTCR?
+
+Speaker 2 [starttime: 03:49 - endtime: 03:53]: Okay, select that one, then please.
+
+Speaker 3 [starttime: 03:53 - endtime: 03:56]: I'm just putting my username and password.
+
+Speaker 2 [starttime: 03:56 - endtime: 04:01]: Yes.
+
+Speaker 3 [starttime: 04:01 - endtime: 04:07]: And. And that's, you know, connected.
+
+Speaker 2 [starttime: 04:07 - endtime: 04:19]: Now I'll try to log in with your PC.
+
+Speaker 1 [starttime: 04:18 - endtime: 04:21]: That's. It.
+
+Speaker 2 [starttime: 04:20 - endtime: 04:25]: Do you have any ticket to get number?
+
+Speaker 3 [starttime: 04:25 - endtime: 04:32]: I don't have a ticket number. I just hold you. Okay? I can bring the ticket number if need be.
+
+Speaker 2 [starttime: 04:32 - endtime: 04:35]: Not required.
+
+Speaker 3 [starttime: 04:35 - endtime: 04:38]: Perfect. Thank you so much.
+
+Speaker 2 [starttime: 04:38 - endtime: 04:42]: So you were able to log in, correct?
+
+Speaker 3 [starttime: 04:41 - endtime: 04:48]: Yeah, it's just coming up. Welcome. Just now. It does take quite a while sometimes to load up. Oh, okay.
+
+Speaker 2 [starttime: 04:48 - endtime: 04:54]: Yeah. Once you are only home screen, let me know I'm on the call. Thank you.
+
+Speaker 3 [starttime: 04:53 - endtime: 05:03]: Ok, Thank you. Yeah. Still coming up. Welcome. So is it worthwhile for me to connect to VPN before I log in from now on?
+
+Speaker 2 [starttime: 05:02 - endtime: 05:05]: Yes, all.
+
+Speaker 3 [starttime: 05:04 - endtime: 05:07]: Right.
+
+Speaker 1 [starttime: 05:06 - endtime: 05:08]: Ok.
+
+Speaker 3 [starttime: 05:08 - endtime: 05:15]: Because normally I log on and they connect to VPN, but I'll do it the opposite way around.
+
+Speaker 1 [starttime: 05:14 - endtime: 05:17]: Pork.
+
+Speaker 3 [starttime: 05:17 - endtime: 05:22]: Still coming up. The welcome, but still going round and round.
+
+Speaker 2 [starttime: 05:21 - endtime: 05:36]: Pork. Ok, I'll shake your NTN PC vote in, correcto. So you should log in first on the VPN, then on the window. That will be work.
+
+Speaker 3 [starttime: 05:36 - endtime: 05:44]: Ok, that's perfect. Thank you so much. That's me. That is now onto the home screen. Now my teams have came up.
+
+Speaker 2 [starttime: 05:43 - endtime: 05:50]: Oh, okay. Please, not down at the gate number for this issue.
+
+Speaker 3 [starttime: 05:50 - endtime: 06:03]: Yeah, 2 seconds. The ticket number. It is Inc.
+
+Speaker 2 [starttime: 05:57 - endtime: 06:05]: *********.
+
+Speaker 3 [starttime: 06:05 - endtime: 06:10]: Okay, so it's *********.
+
+Speaker 2 [starttime: 06:10 - endtime: 06:16]: Correct. Is there anything else that can I help you apart from this issue?
+
+Speaker 3 [starttime: 06:16 - endtime: 06:19]: That. Thank you so much.
+
+Speaker 2 [starttime: 06:18 - endtime: 06:43]: Welcome your survey agent. For us. On the end of this call, you will receive a short survey post this call. The first survey should be customer satisfaction on a scale of **** ***** very satisfied. Second survey for the fast contact where you can select one, which means you're sure to be all in fast contact. Thank you for contacting ID. Help support. Have a great day. Thank you. Bye. Take care.
+
+Speaker 1 [starttime: 06:43 - endtime: 07:40]: Thanks for giving us a few minutes of your time to complete the IT HelpDesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from a scale of one to 5 with 5 being very satisfied and one very thank you. If your issue was resolved in one contact press one. If it took multiple contacts to resolve. Fantastic this time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with. It made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One the strongest. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

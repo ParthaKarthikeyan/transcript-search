@@ -1,0 +1,306 @@
+Agent [starttime: 00:05 - endtime: 00:11]: Thank you for calling ID. Help you speaking with *****. How may I assist you today?
+
+Speaker 3 [starttime: 00:11 - endtime: 00:14]: Hello. Good morning. My name.
+
+Agent [starttime: 00:13 - endtime: 00:16]: Hello.
+
+Speaker 3 [starttime: 00:16 - endtime: 00:19]: Hello.
+
+Agent [starttime: 00:18 - endtime: 00:21]: Hello. I'm audible to you.
+
+Speaker 3 [starttime: 00:21 - endtime: 00:25]: Yes. Good morning.
+
+Agent [starttime: 00:25 - endtime: 00:29]: Good morning. How may I assist you today?
+
+Speaker 3 [starttime: 00:29 - endtime: 00:37]: Yeah, I am just looking for a account. It has been locked.
+
+Agent [starttime: 00:36 - endtime: 00:40]: Sorry you're looking for.
+
+Speaker 3 [starttime: 00:40 - endtime: 00:42]: Hello? Can you hear me?
+
+Agent [starttime: 00:42 - endtime: 00:45]: Yes, I can hear you.
+
+Speaker 3 [starttime: 00:44 - endtime: 00:53]: Yes. I'm just looking for a assistance for my account. My account has been locked.
+
+Agent [starttime: 00:53 - endtime: 01:04]: No worries. I'll definitely help you. Could you help me with your BMS? ID number?
+
+Speaker 3 [starttime: 01:04 - endtime: 01:22]: Yes, it's ***** ****.
+
+Agent [starttime: 01:22 - endtime: 01:28]: It's ******. Am I correct?
+
+Speaker 3 [starttime: 01:28 - endtime: 01:34]: Sorry. Can you say, I guess?
+
+Agent [starttime: 01:31 - endtime: 01:42]: ****** ** I correct? 2.
+
+Speaker 3 [starttime: 01:37 - endtime: 01:46]: *******.
+
+Customer [starttime: 01:46 - endtime: 01:53]: Got. It.
+
+Agent [starttime: 01:50 - endtime: 01:57]: ******* ** I correct?
+
+Speaker 3 [starttime: 01:57 - endtime: 02:00]: Hello. Give me.
+
+Agent [starttime: 02:00 - endtime: 02:14]: Yeah, it's *******. Hello.
+
+Speaker 3 [starttime: 02:14 - endtime: 02:23]: Hello.
+
+Agent [starttime: 02:22 - endtime: 02:27]: Is it *******.
+
+Speaker 3 [starttime: 02:27 - endtime: 02:32]: Yes, *******.
+
+Agent [starttime: 02:32 - endtime: 02:42]: Got it. So as I understood that your account has been locked out and need to unlock your account. Am I correct? Yes.
+
+Customer [starttime: 02:41 - endtime: 02:43]: Yes.
+
+Agent [starttime: 02:43 - endtime: 03:06]: Got it. Thank you for that. And it would take me a moment to review information. May I put your call on hold for a while so that I can check your details?
+
+Speaker 3 [starttime: 03:05 - endtime: 03:07]: Sure.
+
+Agent [starttime: 03:07 - endtime: 03:22]: Thank you.
+
+Speaker 3 [starttime: 03:22 - endtime: 03:54]: Thank. You. Ok. Please.
+
+Customer [starttime: 03:54 - endtime: 05:01]: Stay. On. The. Line.
+
+Agent [starttime: 05:01 - endtime: 05:12]: Yes. Thanks for waiting. I really appreciate your time and patience. Can you please help me with? Can you please help me with your full name?
+
+Speaker 3 [starttime: 05:12 - endtime: 05:16]: It's ****** Hamo.
+
+Agent [starttime: 05:16 - endtime: 05:20]: Can you please spell it out for me?
+
+Speaker 3 [starttime: 05:19 - endtime: 05:25]: Yes. My name is ****** *******.
+
+Agent [starttime: 05:25 - endtime: 05:31]: Can you please spell out the last name?
+
+Speaker 3 [starttime: 05:31 - endtime: 05:37]: It's J A N O.
+
+Customer [starttime: 05:37 - endtime: 05:39]: Sorry.
+
+Agent [starttime: 05:39 - endtime: 05:42]: J A R A.
+
+Speaker 3 [starttime: 05:42 - endtime: 05:45]: F.
+
+Customer [starttime: 05:45 - endtime: 05:47]: O.
+
+Agent [starttime: 05:47 - endtime: 05:54]: J A O J for Juliet. A for Alpha O for Oscar.
+
+Speaker 3 [starttime: 05:54 - endtime: 06:04]: J for Juliet, A for Alpha, M for Mama and O for Oscar.
+
+Agent [starttime: 06:04 - endtime: 06:12]: OK O for Oscar.
+
+Customer [starttime: 06:11 - endtime: 06:16]: Hello? Hello?
+
+Agent [starttime: 06:16 - endtime: 06:23]: *****. No, I didn't get that. Can you please help me with that again?
+
+Speaker 3 [starttime: 06:23 - endtime: 06:26]: Sorry again. Sorry, Please.
+
+Agent [starttime: 06:25 - endtime: 06:31]: Can you please help me with your full name once again?
+
+Customer [starttime: 06:30 - endtime: 06:33]: Ok.
+
+Speaker 3 [starttime: 06:33 - endtime: 06:37]: My full name is ****** ****.
+
+Agent [starttime: 06:37 - endtime: 06:43]: Can you please spell your name?
+
+Speaker 3 [starttime: 06:42 - endtime: 06:44]: Sorry. I didn't say that.
+
+Agent [starttime: 06:44 - endtime: 06:51]: Can you please spell your name? Spell it, please?
+
+Speaker 3 [starttime: 06:51 - endtime: 07:32]: Yeah, My first name is *. ******. E for Esper. And then S. And then T for Tango and then E again and R for Romeo. And then my last name is J for Juliet. A for Alpha. And then O.
+
+Agent [starttime: 07:32 - endtime: 07:43]: Sorry. Sorry. Your last name? J for Juliet. A for Alpha. The next.
+
+Customer [starttime: 07:42 - endtime: 07:48]: Ok. Did. You. Get. It.
+
+Agent [starttime: 07:48 - endtime: 07:53]: Jester Jam? That's it.
+
+Speaker 3 [starttime: 07:53 - endtime: 07:58]: J A M and then o.
+
+Agent [starttime: 07:57 - endtime: 08:03]: ****** ***.
+
+Customer [starttime: 08:03 - endtime: 08:09]: Hello?
+
+Speaker 3 [starttime: 08:08 - endtime: 08:11]: Hello. Can you hear me?
+
+Agent [starttime: 08:10 - endtime: 08:14]: Yes, I can hear you.
+
+Speaker 3 [starttime: 08:14 - endtime: 08:18]: Ok? Did you get my last name?
+
+Agent [starttime: 08:18 - endtime: 08:24]: Is it J for Juliet? A for Alpha, M for Mike O for Oscar? That's it.
+
+Speaker 3 [starttime: 08:24 - endtime: 08:29]: Yes. Yes, that's correct.
+
+Agent [starttime: 08:29 - endtime: 08:40]: Ok.
+
+Speaker 3 [starttime: 08:40 - endtime: 08:44]: Thank you.
+
+Agent [starttime: 08:44 - endtime: 08:49]: Can you please help me with your BMS ID number Once again?
+
+Speaker 3 [starttime: 08:49 - endtime: 08:52]: Sorry. Can you repeat it again, please?
+
+Agent [starttime: 08:52 - endtime: 08:57]: Help me with your BMS ID number.
+
+Speaker 3 [starttime: 08:56 - endtime: 09:06]: Yes. ******.
+
+Agent [starttime: 09:06 - endtime: 09:15]: I'm sorry. I'm unable to fetch your details with the BMS ID number. Can you please check and let me know your BMS ID number. Correct? BMS ID number.
+
+Speaker 3 [starttime: 09:15 - endtime: 09:49]: Sorry. Let me double check it. Please. Hold on. Hello. Welcome. To my lecture. Hello? Hello. Can you?
+
+Agent [starttime: 09:49 - endtime: 09:55]: Yes, I can hear you. Can you please tell me the correct BMS ID number?
+
+Speaker 3 [starttime: 09:54 - endtime: 10:09]: Yes. Sorry about that. It's ***. ******.
+
+Agent [starttime: 10:09 - endtime: 10:19]: Got it. Thank you for the details. So may I know what is the issue that you're facing with?
+
+Speaker 3 [starttime: 10:19 - endtime: 10:25]: Yes, my account has been blocked.
+
+Agent [starttime: 10:24 - endtime: 10:30]: OK, *******.
+
+Speaker 3 [starttime: 10:30 - endtime: 10:34]: Yes.
+
+Agent [starttime: 10:34 - endtime: 10:43]: OK, your account is logged. May I know? What is the error message that you're getting when you're trying to log in?
+
+Speaker 3 [starttime: 10:43 - endtime: 10:47]: Now it's just authentication failed.
+
+Agent [starttime: 10:47 - endtime: 10:54]: So you're trying to connect to the VPN and you're getting the authentication failed error message?
+
+Speaker 3 [starttime: 10:53 - endtime: 10:55]: Yes, that's correct.
+
+Agent [starttime: 10:55 - endtime: 11:03]: Got it. Thanks for that. And before that, I'll be asking a few security questions. Please help me with those, Ok?
+
+Speaker 3 [starttime: 11:03 - endtime: 11:05]: Ok.
+
+Agent [starttime: 11:05 - endtime: 11:09]: Could you please confirm your full name?
+
+Speaker 3 [starttime: 11:08 - endtime: 11:12]: Yes, it's Jester Hamburg.
+
+Agent [starttime: 11:12 - endtime: 11:19]: Could you please confirm your higher date month and India?
+
+Speaker 3 [starttime: 11:19 - endtime: 11:26]: Um, it's March 23, ****.
+
+Agent [starttime: 11:26 - endtime: 11:33]: Could you please confirm your manager's name?
+
+Speaker 3 [starttime: 11:31 - endtime: 11:35]: ****** ********.
+
+Agent [starttime: 11:35 - endtime: 11:41]: Ok, thank you for providing the details. Please stay connected.
+
+Speaker 3 [starttime: 11:41 - endtime: 12:50]: Thank you. And then E S N E Y apartment.
+
+Agent [starttime: 12:50 - endtime: 13:08]: Please take a connected. I'm looking into your account. Ok, I just see that your account is not locked. Can you please do one thing? Can you please try to log in again?
+
+Speaker 3 [starttime: 13:08 - endtime: 13:16]: Is it the old or the password address?
+
+Agent [starttime: 13:16 - endtime: 13:22]: Can you please try to log in with your old password? Yes.
+
+Speaker 3 [starttime: 13:21 - endtime: 13:24]: Ok, thank you. Hold on.
+
+Agent [starttime: 13:24 - endtime: 13:45]: Ok.
+
+Speaker 3 [starttime: 13:45 - endtime: 14:39]: Thank you. Very much. Yeah. It's the same one column. For 2 minutes. I don't know what I'm saying. I don't. What's your name? Ok, Ok.
+
+Agent [starttime: 14:39 - endtime: 14:44]: Hello?
+
+Customer [starttime: 14:44 - endtime: 14:53]: Hello.
+
+Speaker 3 [starttime: 14:53 - endtime: 15:10]: Please continue hold. to Your business is important to us. Please line. the stay on
+
+Agent [starttime: 15:09 - endtime: 15:13]: Hello. I'm audible to you.
+
+Speaker 3 [starttime: 15:12 - endtime: 15:14]: Hello. Can you hear me?
+
+Agent [starttime: 15:14 - endtime: 15:17]: Yes, I can hear you.
+
+Speaker 3 [starttime: 15:17 - endtime: 15:25]: Yes. On my BPN. It works. And then I'm trying to log in now on my computer.
+
+Agent [starttime: 15:25 - endtime: 15:45]: OK, got it. Yeah. Please confirm me. Once you are able to log in. Ok, I'll provide you the ticket number for this call as a reference.
+
+Customer [starttime: 15:44 - endtime: 15:58]: OK.
+
+Speaker 3 [starttime: 15:58 - endtime: 16:02]: Yes, it is working now. Thank you so much.
+
+Agent [starttime: 16:01 - endtime: 16:07]: You're welcome. That's great. And OK.
+
+Speaker 3 [starttime: 16:07 - endtime: 16:10]: Hello?
+
+Agent [starttime: 16:09 - endtime: 16:21]: Yes. Yes. Perfect. And is there anything else that you're welcome? And is there anything else that I can help you with apart from this?
+
+Speaker 3 [starttime: 16:21 - endtime: 16:24]: I'm nothing. Thank you so much.
+
+Agent [starttime: 16:23 - endtime: 16:44]: Ok, please stay connected. I'll provide you the ticket number for this call as a reference. Ok, please wait. Let me update the ticket. OK? Yes. Ok.
+
+Speaker 3 [starttime: 16:43 - endtime: 17:20]: Yeah, that's true. That'd be another time. Yeah, I'll see that.
+
+Customer [starttime: 17:19 - endtime: 17:42]: Ok.
+
+Speaker 3 [starttime: 17:42 - endtime: 19:47]: Please continue to hold.
+
+Agent [starttime: 19:47 - endtime: 19:56]: Please stay connected. I'm still working on it. The role is a bit slow. Ok, please stay connected.
+
+Speaker 3 [starttime: 19:55 - endtime: 19:59]: Sorry. I'm sorry. I have a question.
+
+Agent [starttime: 19:58 - endtime: 20:01]: Yes.
+
+Speaker 3 [starttime: 20:01 - endtime: 20:12]: Um, I just want to ask if my password reset request will to go through.
+
+Agent [starttime: 20:12 - endtime: 20:16]: You want to reset the password?
+
+Speaker 3 [starttime: 20:16 - endtime: 20:30]: Because before I called, I tried to reset my password first and then the screen asking to wait for 10 minutes for it to be for me to receive an email confirmation.
+
+Agent [starttime: 20:30 - endtime: 20:38]: Yeah, you can. Yes. After 10 minutes, you'll get a confirmation. You can try to log in, Right.
+
+Speaker 3 [starttime: 20:38 - endtime: 20:52]: And my question is, did my password still go through with the password research reset or I'll keep going to use my old password.
+
+Agent [starttime: 20:52 - endtime: 20:56]: You can use the old password.
+
+Speaker 3 [starttime: 20:56 - endtime: 20:58]: The old password?
+
+Agent [starttime: 20:58 - endtime: 21:24]: Yes. Please stay connected.
+
+Speaker 3 [starttime: 21:24 - endtime: 21:27]: No, I think that's all.
+
+Agent [starttime: 21:26 - endtime: 21:35]: Yeah, OK, I'll provide you the ticket number. The tool is running a bit slow. Please stay connected.
+
+Speaker 3 [starttime: 21:34 - endtime: 21:36]: Copy.
+
+Agent [starttime: 21:36 - endtime: 21:56]: Yes. Yes. Can you please note down the ticket number?
+
+Speaker 3 [starttime: 21:56 - endtime: 21:58]: Ok?
+
+Agent [starttime: 21:57 - endtime: 22:15]: Yes, it's OK.
+
+Speaker 3 [starttime: 22:14 - endtime: 22:17]: OK, yes.
+
+Agent [starttime: 22:17 - endtime: 22:59]: Yes, it's Inc. Indian Charlie. *********. OK, and then post this call. I'll be connecting you to a short survey with the first survey for the customer satisfaction. We're in on a scale of 5 to 15 means very satisfied. And second survey is for the first contact resolution wherein you can select one, which means your issue was resolved in first contact. And thank you for contacting it. Help support. Have a great day ahead. Bye bye.
+
+Speaker 3 [starttime: 22:58 - endtime: 23:03]: Yes, sir. Can you send it again? The ticket number, please?
+
+Agent [starttime: 23:03 - endtime: 23:13]: Sure. It's Inc. Indian. Charlie. ******. First.
+
+Speaker 3 [starttime: 23:13 - endtime: 23:16]: Sorry. After Inc. What is it again?
+
+Agent [starttime: 23:16 - endtime: 23:24]: It's 031 Inc. ****.
+
+Speaker 3 [starttime: 23:23 - endtime: 23:26]: 80. Sorry.
+
+Agent [starttime: 23:25 - endtime: 23:28]: ***.
+
+Speaker 3 [starttime: 23:28 - endtime: 23:32]: OK ***.
+
+Agent [starttime: 23:30 - endtime: 23:34]: ***.
+
+Speaker 3 [starttime: 23:33 - endtime: 23:36]: ***.
+
+Agent [starttime: 23:35 - endtime: 23:39]: ***.
+
+Speaker 3 [starttime: 23:38 - endtime: 23:49]: ***. OK, let me try to repeat it. I N C ***********.
+
+Agent [starttime: 23:49 - endtime: 23:51]: That's correct.
+
+Speaker 3 [starttime: 23:51 - endtime: 23:53]: OK, got it.
+
+Agent [starttime: 23:53 - endtime: 24:14]: Yes. And then post this call. I'll be connecting you to a short survey. Where are the first surveys for the customer satisfaction? Wherein on a scale of 5 to 15 minutes, very satisfied and second service for the first contact resolution wherein you can select one, which means your issue was in first contact. And thank you for contacting it to support. Have a great day ahead. Bye bye.
+
+Speaker 3 [starttime: 24:14 - endtime: 24:22]: Ok, thanks so much.
+
+Customer [starttime: 24:22 - endtime: 26:00]: Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist On today's call? Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact press one. If it took multiple contacts to resolve, press 2 If it still has not been resolved, press. Fantastic. This time. Enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One. The strongest disagreement. Remember, 7 is strongest agreement. One is strongest disagreement. We did not get your response. Please try again this time. Enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it. May thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

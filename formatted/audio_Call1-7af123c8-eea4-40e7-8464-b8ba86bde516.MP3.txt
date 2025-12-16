@@ -1,0 +1,226 @@
+Speaker 1 [starttime: 00:06 - endtime: 00:13]: You for calling? It's in support. My name is *******. How may I help you today?
+
+Speaker 2 [starttime: 00:13 - endtime: 00:37]: Yes. Hello. I am Melbourne. By the way, I just need an assistant to my computer. It's been my issue since yesterday. It's just loading. It's not just to open to my OBS.
+
+Speaker 1 [starttime: 00:37 - endtime: 00:45]: Fine, ma'am. Your concern is that you are not able to launch the VDI. Am I right?
+
+Speaker 2 [starttime: 00:45 - endtime: 00:47]: Yeah, that's correct.
+
+Speaker 1 [starttime: 00:47 - endtime: 00:54]: Ok, is there any other message you're getting when you try to launch the video?
+
+Speaker 2 [starttime: 00:54 - endtime: 01:23]: No, it's when you open it. Right then it's just loading. It's not really opening. I've already tried to remove all this factor behind the CPU and my empty monitor, but still, there is no progress.
+
+Speaker 1 [starttime: 01:23 - endtime: 01:30]: Fine. Thank you. Can you help me with the BMS number? Your employer ID number?
+
+Speaker 2 [starttime: 01:30 - endtime: 01:45]: Yeah, of course. It's ********.
+
+Speaker 1 [starttime: 01:45 - endtime: 01:49]: May I know your first name and the last name?
+
+Speaker 2 [starttime: 01:49 - endtime: 01:57]: Yeah. First. ******* *******.
+
+Speaker 1 [starttime: 01:57 - endtime: 02:00]: Thank. You.
+
+Speaker 2 [starttime: 02:00 - endtime: 02:08]: Thank you.
+
+Speaker 1 [starttime: 02:08 - endtime: 02:20]: Thank. You. Fine. Can you please do one thing? Please do the right click, go to the session and click on. Announce now.
+
+Speaker 2 [starttime: 02:20 - endtime: 02:52]: No, it's not like it's not really proceeding like it's. My picture is black and there is a line at the after. Electron. It's just loading. It's not really proceeding to open open the body.
+
+Speaker 1 [starttime: 02:52 - endtime: 02:58]: Ma'am. You are not able to log in on the VDI. Am I right?
+
+Speaker 2 [starttime: 02:58 - endtime: 03:16]: Yeah. Can you send me the one? The camera previously? It's an agent sending me when I'm trying to show them the error. Like you can send it to your email.
+
+Speaker 1 [starttime: 03:16 - endtime: 03:20]: Can you help me with your phone number?
+
+Speaker 2 [starttime: 03:19 - endtime: 03:31]: Oh, I'm not able to have access to that via phone number that represented via email.
+
+Speaker 1 [starttime: 03:31 - endtime: 03:35]: Ok.
+
+Speaker 2 [starttime: 03:35 - endtime: 03:40]: I can give you my email.
+
+Speaker 1 [starttime: 03:40 - endtime: 03:44]: Just give me a second.
+
+Speaker 2 [starttime: 03:43 - endtime: 04:01]: Ok.
+
+Speaker 1 [starttime: 04:01 - endtime: 04:05]: OK, can you help me with your email ID?
+
+Speaker 2 [starttime: 04:05 - endtime: 04:26]: Yes, it's my first name. N E L M I E number **@*****.***. So normally 30 at gmail dot com.
+
+Speaker 1 [starttime: 04:26 - endtime: 04:31]: Ma'am, it's your first name. And what? After that?
+
+Speaker 2 [starttime: 04:31 - endtime: 04:36]: Number 33 and zero 30.
+
+Speaker 1 [starttime: 04:36 - endtime: 04:48]: Ok, it's your first name number 30 at zmail dot com. Correct.
+
+Speaker 2 [starttime: 04:48 - endtime: 04:54]: So, *****, 30 at gmail dot com.
+
+Speaker 1 [starttime: 04:54 - endtime: 05:17]: I have sent you a link on this number. Please hide the personal details, allow the camera option and show me the system.
+
+Speaker 2 [starttime: 05:17 - endtime: 06:03]: It. Just like that. Can you see this one? It's been 10 minutes. And still. I've already tried to remove all the checks in the CPU and this in the monitoring.
+
+Speaker 1 [starttime: 06:03 - endtime: 06:15]: Can you please do the high reboot of your system and check it once or do you have the previous ticket number that you have done the visit? Troubleshooting steps?
+
+Speaker 2 [starttime: 06:14 - endtime: 06:28]: Uh, no, I just had this issue yesterday. But this is my first time calling in regards to this one.
+
+Speaker 1 [starttime: 06:28 - endtime: 06:44]: Ok, please do the hard reboot of your system. Press and hold the power. But yeah, do the hard reboot and check it once.
+
+Speaker 2 [starttime: 06:44 - endtime: 07:26]: I'm not really able to be hard because if I quit this one because you told me what I I tried to when I tried to do, I'll give it, but it's also working like, is there any. Letting me do this? The only option to train is turn it off is which happens?
+
+Speaker 1 [starttime: 07:26 - endtime: 07:28]: Yeah.
+
+Speaker 2 [starttime: 07:28 - endtime: 07:31]: Would you like me to remove the platform?
+
+Speaker 1 [starttime: 07:31 - endtime: 07:45]: And track all the cables from the back of the CPU, including the power cable as well. Press and hold the power between one 30 seconds and reply the cable and restart your system.
+
+Speaker 2 [starttime: 07:45 - endtime: 08:35]: Yeah, I was going. But let me try again. I'm asking you. Hold on. Let me just. Do. I need to remove everything.
+
+Speaker 1 [starttime: 08:35 - endtime: 08:36]: Yes.
+
+Speaker 2 [starttime: 08:36 - endtime: 09:13]: Like all this package. Ok. Okay. I'm going to. You're telling me. Then wait for 30 seconds.
+
+Speaker 1 [starttime: 09:13 - endtime: 09:20]: You have to press and hold the power button for 30 seconds.
+
+Speaker 2 [starttime: 09:20 - endtime: 09:24]: 30 seconds.
+
+Speaker 1 [starttime: 09:24 - endtime: 10:09]: Ma'am. You have to press and hold the power button for 30 seconds. After 30 seconds, please replay all the cables and restart your system.
+
+Speaker 2 [starttime: 10:09 - endtime: 10:41]: No. Yeah, I see. Hello. Hello.
+
+Speaker 1 [starttime: 10:41 - endtime: 10:52]: Ok.
+
+Speaker 2 [starttime: 10:51 - endtime: 11:32]: I'm to. trying Hello. Welcome to my lecture. Hello. Welcome to. Hello. Welcome lecture. to my Thank you.
+
+Speaker 1 [starttime: 11:31 - endtime: 11:46]: Thank. You.
+
+Speaker 2 [starttime: 11:46 - endtime: 12:08]: Oh, thank you much. very Thank you. All right.
+
+Speaker 1 [starttime: 12:08 - endtime: 12:15]: You for your time and patience. May I know the update over there? What is the update?
+
+Speaker 2 [starttime: 12:15 - endtime: 12:18]: I'm so sorry. What was that?
+
+Speaker 1 [starttime: 12:18 - endtime: 12:24]: Yes. May I know the update over there? What is the update?
+
+Speaker 2 [starttime: 12:23 - endtime: 12:40]: Oh, update. Now.
+
+Speaker 1 [starttime: 12:40 - endtime: 12:50]: Suck. It.
+
+Speaker 2 [starttime: 12:50 - endtime: 14:10]: Out. It's getting. Money. I thank. You. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. It. OK. One 5. Hold on.
+
+Speaker 1 [starttime: 14:10 - endtime: 14:22]: It.
+
+Speaker 2 [starttime: 14:21 - endtime: 15:32]: Oh, Y l. It. Yeah, I've already it. Yes, I've already pressed. Ok. Thank you. Thank you. Thank you.
+
+Speaker 1 [starttime: 15:32 - endtime: 15:38]: Can you please show me the monitor? What is that? Error message?
+
+Speaker 2 [starttime: 15:38 - endtime: 15:50]: Yes. Mode.
+
+Speaker 1 [starttime: 15:50 - endtime: 15:57]: Can you please press the enter key and then check it once?
+
+Speaker 2 [starttime: 15:57 - endtime: 15:59]: I'm sorry. What was that one?
+
+Speaker 1 [starttime: 15:59 - endtime: 16:03]: Press the inner key and then check.
+
+Speaker 2 [starttime: 16:03 - endtime: 16:07]: What? Enter key.
+
+Speaker 1 [starttime: 16:07 - endtime: 16:18]: You have to press the inner key on your keyboard and then check it once. Is it working or not?
+
+Speaker 2 [starttime: 16:17 - endtime: 16:33]: ***. How long? Oh, OK. Yep. It's. I already gave the answer.
+
+Speaker 1 [starttime: 16:33 - endtime: 16:58]: Ok. Fine. Please allow me a moment. I'm escalating your issue to our Valu team. And can you help me with the serial number of the CPO?
+
+Speaker 2 [starttime: 16:58 - endtime: 17:11]: Your number? Hold on. Is this one?
+
+Speaker 1 [starttime: 17:10 - endtime: 17:16]: Yes, that is 7.
+
+Speaker 2 [starttime: 17:16 - endtime: 17:19]: Would you like me to put on that? To sell it to you?
+
+Speaker 1 [starttime: 17:19 - endtime: 17:24]: Or I got that one. Thank you so much.
+
+Speaker 2 [starttime: 17:24 - endtime: 17:26]: Ok.
+
+Speaker 1 [starttime: 17:25 - endtime: 17:29]: Please allow me a moment for that.
+
+Speaker 2 [starttime: 17:29 - endtime: 19:01]: It. Ok. Hello. Hello. Welcome to my lecture. Learning the learning. Yeah, that isn't good.
+
+Speaker 1 [starttime: 19:01 - endtime: 19:45]: Thank you for your time and patience. Please be online. I've escalated your issue Just waiting for my team to respond.
+
+Speaker 2 [starttime: 19:44 - endtime: 19:57]: Yeah.
+
+Speaker 1 [starttime: 19:57 - endtime: 20:05]: Can you verify your address? Your home address?
+
+Speaker 2 [starttime: 20:05 - endtime: 20:19]: Yeah, I'm not Mayor Hawaiian, Arthur.
+
+Speaker 1 [starttime: 20:19 - endtime: 20:25]: And the zip code is **:** am I right?
+
+Speaker 2 [starttime: 20:24 - endtime: 21:43]: That's correct. Thank you. Thank you. Thank you. Thank you. Thank you very much. you. Thank Thank you. Thank you. Thank you. Thank you. Thank you. Thank Thank you. Thank you. you.
+
+Speaker 1 [starttime: 21:43 - endtime: 22:11]: You for your time and patience. May I know your login procedure? You are using a VPN system or the VDI system. It's VDI. Am I right? Yeah. Thank you.
+
+Speaker 2 [starttime: 22:11 - endtime: 22:48]: Thank you. Thank you. Thank you. Hello. Ma'am. I don't know.
+
+Speaker 1 [starttime: 22:48 - endtime: 22:58]: Please stay connected. I'm proceeding for the CPU replacement. Allow me a moment for that. Ok.
+
+Speaker 2 [starttime: 22:58 - endtime: 23:32]: Please get a little bit. Hong Kong. I'm not sure. Let me see. Thank you.
+
+Speaker 1 [starttime: 23:32 - endtime: 23:45]: Uhhuh.
+
+Speaker 2 [starttime: 23:45 - endtime: 24:15]: Please stay on the and. line You'll.
+
+Speaker 1 [starttime: 24:15 - endtime: 24:29]: Can you help me with the contact number?
+
+Speaker 2 [starttime: 24:20 - endtime: 24:37]: ***********.
+
+Speaker 1 [starttime: 24:36 - endtime: 24:56]: Oh.
+
+Speaker 2 [starttime: 24:52 - endtime: 26:08]: Thank you very much. Thank you. Thank you. Thank you. Thank you. you. Thank Thank you. Oh, this is lab.
+
+Speaker 1 [starttime: 26:08 - endtime: 26:14]: Thank you for your time and patience. Please be online. I'm still working on it.
+
+Speaker 2 [starttime: 26:14 - endtime: 26:17]: Yeah.
+
+Speaker 1 [starttime: 26:17 - endtime: 26:28]: Thank. You.
+
+Speaker 2 [starttime: 26:28 - endtime: 28:51]: Bye.
+
+Speaker 1 [starttime: 28:51 - endtime: 28:57]: You for your time and patience. Please be online. I'm still working on it.
+
+Speaker 2 [starttime: 28:56 - endtime: 29:11]: Yeah. Just give it your time. Thank you.
+
+Speaker 1 [starttime: 29:10 - endtime: 31:42]: Ok. It's. You for your time and patience. Please make a note for the ticket number for the CPU replacement.
+
+Speaker 2 [starttime: 31:42 - endtime: 31:47]: Ok, hold on. I'm ready.
+
+Speaker 1 [starttime: 31:47 - endtime: 32:13]: It's going to be I for India and for November C for Charlie. ******. ***.
+
+Speaker 2 [starttime: 32:13 - endtime: 32:15]: Is that all?
+
+Speaker 1 [starttime: 32:15 - endtime: 32:23]: Yeah, it's inc. *********.
+
+Speaker 2 [starttime: 32:22 - endtime: 32:34]: Ok, just to make sure I am *********.
+
+Speaker 1 [starttime: 32:33 - endtime: 32:38]: Yeah, that's correct, ma'am.
+
+Speaker 2 [starttime: 32:38 - endtime: 32:40]: Ok.
+
+Speaker 1 [starttime: 32:40 - endtime: 32:47]: Thank you so much. Is there anything else apart from this I can help you with.
+
+Speaker 2 [starttime: 32:47 - endtime: 32:55]: Nothing else. Can you try to get us to expedite this?
+
+Speaker 1 [starttime: 32:55 - endtime: 33:05]: Ma'am, but you can reach out to the on site to get the CPU as soon as possible. Ok.
+
+Speaker 2 [starttime: 33:05 - endtime: 33:08]: Yeah, I understand.
+
+Speaker 1 [starttime: 33:08 - endtime: 33:08]: Here.
+
+Speaker 2 [starttime: 33:08 - endtime: 33:16]: This is. Thank you so much for your patience and assistance. I do appreciate it.
+
+Speaker 1 [starttime: 33:15 - endtime: 33:37]: Thank you so much, ma'am. Ma'am. Before I let you go, I will connect you to a short. We have first surveys for the customer satisfaction in a scale of **** ***** very satisfied and second service is for the first contact resolution. You can select one, which means your receiver is resolved. First contact.
+
+Speaker 2 [starttime: 33:37 - endtime: 33:44]: Thank you, ma'am. Thank you so much.
+
+Speaker 1 [starttime: 33:44 - endtime: 33:48]: For contacting it. Health. Have a nice day.
+
+Speaker 2 [starttime: 33:48 - endtime: 34:59]: Yes. Hello. Thank you. Thank you. Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from the scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact, press one. If it took multiple contacts to resolve, press 2 if it still has not been resolved, press 3. Fantastic. This time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One The strongest disagreement.
+
+Speaker 1 [starttime: 34:59 - endtime: 34:59]: Remember?
+

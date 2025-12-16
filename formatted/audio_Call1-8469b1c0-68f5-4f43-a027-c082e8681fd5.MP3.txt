@@ -1,0 +1,158 @@
+Customer [starttime: 00:02 - endtime: 00:11]: I don't know. I'm calling ID. Health. My name is ****.
+
+Agent [starttime: 00:10 - endtime: 00:14]: *******, how can I assist you today?
+
+Customer [starttime: 00:14 - endtime: 00:22]: Hi. This is ****. I need to change my empty login that I can contact the WAHA students.
+
+Agent [starttime: 00:22 - endtime: 00:43]: Do you want to change your anti dog and password? Yes. Okay. Okay. We will try our best to help you out. And we are really sorry for the inconvenience that has caused to you. Have you tried the self service tool for resetting your password?
+
+Customer [starttime: 00:43 - endtime: 00:57]: Actually. We have updated the process, so I don't know what is actually.
+
+Agent [starttime: 00:57 - endtime: 01:00]: Pardon? Me.
+
+Customer [starttime: 01:00 - endtime: 01:06]: I can change my magnetic factors.
+
+Agent [starttime: 01:06 - endtime: 01:16]: Ok, so you have tried the self service tool, but it wasn't working, right?
+
+Customer [starttime: 01:15 - endtime: 01:18]: No.
+
+Agent [starttime: 01:18 - endtime: 01:40]: Okay, Okay. No worries. It will try our best to help you out. And we are really sorry for the inconvenience that has caused to you. Can you help me with your name number that can help you with your BMI? So?
+
+Customer [starttime: 01:36 - endtime: 01:42]: **********.
+
+Agent [starttime: 01:42 - endtime: 01:46]: OK ******.
+
+Customer [starttime: 01:44 - endtime: 01:49]: *****. Yes, that's correct.
+
+Agent [starttime: 01:49 - endtime: 01:54]: Okay. Can you help me with your full name?
+
+Customer [starttime: 01:53 - endtime: 02:00]: *****. And my name is.
+
+Agent [starttime: 01:59 - endtime: 02:07]: OK. Can you help me with your manager's name or the supervisor's name?
+
+Customer [starttime: 02:07 - endtime: 02:11]: Can you give me this one?
+
+Agent [starttime: 02:10 - endtime: 02:14]: Pardon me.
+
+Customer [starttime: 02:14 - endtime: 02:16]: This one.
+
+Agent [starttime: 02:16 - endtime: 02:37]: Ok, Can you help me with your date of fighting? I'm. Sorry. Can you help me with your date of hiding? Higher date. The date when you started working for teleperformance.
+
+Customer [starttime: 02:37 - endtime: 02:42]: Me. ****.
+
+Agent [starttime: 02:42 - endtime: 02:47]: Ok, can you help me with your site? Location?
+
+Customer [starttime: 02:47 - endtime: 02:49]: 2 half.
+
+Agent [starttime: 02:49 - endtime: 03:37]: Okay. Thank you for providing me all your details. We are working on your request. Kindly allow me a minute. Okay? I'm going to provide you a temporary password. So you have to change your password after the first login. And while changing the password, please do remember, the end of the password should be more than 12 directors. There should be at least one uppercase letter, one lower case letter. The medical number and special symbols also should be there. And the last 15 passwords that you have used before that will not work. And also that dictionary words will not work. Should I provide you the password now?
+
+Customer [starttime: 03:37 - endtime: 03:49]: OK, is it the same?
+
+Agent [starttime: 03:49 - endtime: 03:57]: OK, okay. The password is small E as in Echo.
+
+Customer [starttime: 03:57 - endtime: 03:59]: Small eco.
+
+Agent [starttime: 03:59 - endtime: 04:05]: Yeah, yeah. Capital C As in Charlie.
+
+Customer [starttime: 04:05 - endtime: 04:08]: Capital.
+
+Agent [starttime: 04:08 - endtime: 04:12]: Number 9.
+
+Customer [starttime: 04:12 - endtime: 04:13]: 9.
+
+Agent [starttime: 04:13 - endtime: 04:18]: Capital W As in whiskey.
+
+Customer [starttime: 04:18 - endtime: 04:23]: Let me fix that out. Yeah.
+
+Agent [starttime: 04:23 - endtime: 04:28]: Capital M as in Mike.
+
+Customer [starttime: 04:28 - endtime: 04:30]: ****.
+
+Agent [starttime: 04:30 - endtime: 04:48]: Capital Q As in Kobe. Number 2. Capital V As in Victor.
+
+Customer [starttime: 04:48 - endtime: 04:51]: Capital V is.
+
+Agent [starttime: 04:51 - endtime: 04:56]: Small V as in Victor.
+
+Customer [starttime: 04:56 - endtime: 05:00]: V as in Victor. Okay.
+
+Agent [starttime: 05:00 - endtime: 05:14]: Yeah, then capital X. As in X ray. Then small F as in Foxtrot.
+
+Customer [starttime: 05:14 - endtime: 05:19]: S for Doctor. I'm sorry S for doctor.
+
+Agent [starttime: 05:19 - endtime: 05:28]: Yeah. So let me repeat the password again. Small E as in Echo Capital C as in Charlie number 9.
+
+Customer [starttime: 05:28 - endtime: 05:29]: Yeah, yeah.
+
+Agent [starttime: 05:29 - endtime: 05:31]: Please go on.
+
+Customer [starttime: 05:31 - endtime: 06:05]: Ok, I repeat E for Echo T for Charlie number 9, Capital W for water M for Y T for Quebec 2 and capital G for victory and small B for D 3 again and then X for X, Capital X for x entry and class 4 equal ***.
+
+Agent [starttime: 06:05 - endtime: 06:14]: Ok, before 2. As in tubic, there is one more alphabet Capital H for hotel.
+
+Customer [starttime: 06:14 - endtime: 06:20]: I'm sorry. I didn't think that the NQ 2.
+
+Agent [starttime: 06:20 - endtime: 06:31]: Before Q, like Q, as in cubic. Before that, there is an alphabet that is capital H as in hotel.
+
+Customer [starttime: 06:31 - endtime: 06:51]: Capital H I repeat for Echo Capital charge 9 Mendel, partner for Watermelon N. Capital N for Mike and HP. Also, thank you for tubing. Mmhmm.
+
+Agent [starttime: 06:51 - endtime: 06:55]: Yes, Yes.
+
+Customer [starttime: 06:55 - endtime: 07:09]: And then 4 and then Victory capital and then small victory, then x 4 x rays, then x 4 boxes.
+
+Agent [starttime: 07:09 - endtime: 07:15]: Yeah, that's right. Do you need any further assistance about from this?
+
+Customer [starttime: 07:15 - endtime: 07:19]: Nothing is. I just need the patient to answer that.
+
+Agent [starttime: 07:19 - endtime: 07:29]: Ok, let me know once you are able to log in so that I can provide you the past the ticket number for this call.
+
+Customer [starttime: 07:29 - endtime: 08:12]: Ok, I trade the password. Ok. Thank.
+
+Agent [starttime: 08:12 - endtime: 08:14]: You. So. Much.
+
+Customer [starttime: 08:14 - endtime: 08:41]: Please continue to hold. Your business is important to us. Thank you.
+
+Agent [starttime: 08:41 - endtime: 08:47]: All. Right.
+
+Customer [starttime: 08:47 - endtime: 08:48]: Thank you for being online.
+
+Agent [starttime: 08:48 - endtime: 08:51]: Is it working?
+
+Customer [starttime: 08:51 - endtime: 08:57]: What should I put here in the current password? My old password or.
+
+Agent [starttime: 08:57 - endtime: 09:00]: The password which I gave you.
+
+Customer [starttime: 09:00 - endtime: 09:02]: The current password.
+
+Agent [starttime: 09:02 - endtime: 09:06]: Will be the password that I gave you.
+
+Customer [starttime: 09:05 - endtime: 09:09]: Ok, Thank you.
+
+Agent [starttime: 09:08 - endtime: 09:25]: Ok.
+
+Customer [starttime: 09:25 - endtime: 10:55]: It. OK, Thank much. very you Please continue to hold. Your us. to important is business I'm not going She now. anything charge to you said. Thank you. Thank you. It. Thank.
+
+Agent [starttime: 10:55 - endtime: 10:59]: You for being online? Is it working?
+
+Customer [starttime: 10:59 - endtime: 11:02]: Yes. Thank you so much.
+
+Agent [starttime: 11:02 - endtime: 11:10]: You're most welcome. And please note down the ticket. Do you need any further assistance? Apart from this?
+
+Customer [starttime: 11:10 - endtime: 11:12]: Nothing else. Thank you.
+
+Agent [starttime: 11:11 - endtime: 11:27]: Ok, The ticket number is R for Romeo. E for Echo Q for Quebec. **********.
+
+Customer [starttime: 11:27 - endtime: 11:31]: Mmhmm. Thank you. And I will put you on Romeo.
+
+Agent [starttime: 11:31 - endtime: 11:35]: Yeah, please go on. I'm sorry.
+
+Customer [starttime: 11:35 - endtime: 11:44]: I repeat R for Romeo. E for Echo Q for Q. ********.
+
+Agent [starttime: 11:43 - endtime: 12:14]: Yeah, that's right. And I will put you on a short survey after this call where the first survey will be for the customer satisfaction where you can read on a scale of one to 5, wherein 5 means very satisfied. And the second survey will be for the first contacted solution where you can select one if they issue us resolve within the first contact. Thank you for calling it helpex. Have a nice day.
+
+Customer [starttime: 12:14 - endtime: 12:15]: Thank you so much.
+
+Agent [starttime: 12:15 - endtime: 12:22]: You're most welcome.
+
+Customer [starttime: 12:21 - endtime: 13:15]: Thanks for giving us a few minutes of your time to complete the IT HelpDesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist On today's call? Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact, press one. If it took multiple contacts to resolve, press 2, if it still has not been resolved, press 3. Fantastic. This time, enter your response using a scale of one to 7. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

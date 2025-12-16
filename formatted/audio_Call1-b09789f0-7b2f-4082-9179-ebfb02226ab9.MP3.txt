@@ -1,0 +1,66 @@
+Agent [starttime: 00:12 - endtime: 00:28]: I'm calling just to say I have a national today. Or do you have to make properly?
+
+Customer [starttime: 00:28 - endtime: 00:30]: I didn't hear any.
+
+Agent [starttime: 00:30 - endtime: 03:16]: Yes, but your audio is not coming properly. Yes. Yes. I'm here on the line. Are you able to hear me? Can you please be a little louder? I'm not able to hear you properly. Hello? Hello. Can you hear me? Yes, I can hear you now. Please tell me. What is the issue. Yeah, I actually have an error trying to log into my PC. I'm working at home right now. So when I already logged into my to my my VPN and then when I tried to like in my training and password, it's not working. There's an error. What is the error? What is the error you're getting? Wait, let me just my PC person. It's still loading. Ok, please confirm me your BMS number. Oh, I will verify your details first. I'm sorry. What was that? Please confirm me Your BMS number. Yeah, number is *******. OK, *******. Right. Ok, can you please confirm your first name and your last name? First name and last name? **** *******. And who's your manager? That's my supervisor. Ok, please tell me, what is the message you're getting? Yeah, please. Like I'm just going to try to log in. Please. I'll just open my PC. Please bear with me. Ok. My piece is still loading. Please bear with me. It. I'm connecting my depend now.
+
+Customer [starttime: 03:08 - endtime: 03:46]: Its. It.
+
+Agent [starttime: 03:46 - endtime: 03:56]: Please bear with me. I'm still connecting.
+
+Customer [starttime: 03:56 - endtime: 04:13]: Yes. Hello?
+
+Agent [starttime: 04:13 - endtime: 05:05]: Yes, I'm here on the line. So. Yeah. All right. Its loading again, but I'm waiting for the error. There you go. The error is the press relationship between this workstation and the primary domain. Ok, please confirm your host name. I'm sorry. Please provide me the host name of your computer. What do you mean, host name? You see an option there? No host name is the system host name. You see an option there? How do I sign in other domain?
+
+Customer [starttime: 05:05 - endtime: 05:08]: Yeah.
+
+Agent [starttime: 05:07 - endtime: 08:33]: Sorry, the bill name is it the FBT. SOS 05 21. So please be a little slow. I didn't get it. Yeah, F as in Pax and then V as in victory and then tango. Have you get it? Yes. Yes, I get it. Yeah. And then S. And then O and then S. OK. And then. ******. What? ********** *** ****. Right. 0521 Only FTP. So. ****. So it's VP. Right? Not P. V as in victory FT and T as in Tango, right? Yes. Yes. Tango. Ok, stay connected on the line. Give me one. Sure. Thank you. Can you please provide me your phone number? I will share a link with you on your phone and I will check. Uh, can you please provide me your phone number? I will share a link with you on your phone so that I can check with the issue. I mean, check with the host. Yes. Your phone number. Ok, I'll be able to provide you a phone number or no phone number. Yeah. OK. ****. Wait, let me just double check my number. Bear with me. I'm checking it. There you go. ******* **** ****. And then you're from Philippines, right? Yeah. From the Philippines. Yeah. Before setting a link, I just want to inform you that I will be able to access your camera. So make sure you do hire confidential information in your personal details.
+
+Customer [starttime: 08:32 - endtime: 09:06]: Thank. You. Thank. You. Hello. Can. You. Hear? Me. Yes. Ok, it.
+
+Agent [starttime: 09:06 - endtime: 09:24]: Are you seen there?
+
+Customer [starttime: 09:24 - endtime: 09:38]: It.
+
+Agent [starttime: 09:37 - endtime: 10:17]: Hello. Have you received the link? Me? Hello? Yeah. Have you received the link? I'm checking it out. Uh, not yet. Please provide me an email ID. An email ID which you have in your mobile iPhone. I'll share the link on your email. I think not. Receive it there.
+
+Customer [starttime: 10:17 - endtime: 10:22]: Let. Me. Check.
+
+Agent [starttime: 10:22 - endtime: 11:03]: You provide me your email ID so I will share the link over the email. Yeah. All right. You can send it to ******* D E. So can you please be a little slower and a little bit clearer? I'm not able to get the email. Yeah, sure. You turn it to my personal email. That's E. As in Echo and then R E. As in Echo R As in I.
+
+Customer [starttime: 11:03 - endtime: 11:13]: As. In. India. Then.
+
+Agent [starttime: 11:13 - endtime: 11:47]: And B Delta Echo and then L Vina. And then I. The number one. Ok, so your first name, ****, then second name *******. Then number one at the rate gmail dot com. Right.
+
+Customer [starttime: 11:46 - endtime: 12:35]: That's. It. OK, it's. Thank you. Thank you. Thank you. It.
+
+Agent [starttime: 12:34 - endtime: 12:55]: Ok, please check. I've shared the link with you. Yeah. Ok, let me check. Yeah, I got it. So what do you want me to do? Speak to me? Yes.
+
+Customer [starttime: 12:55 - endtime: 13:09]: Yeah.
+
+Agent [starttime: 13:09 - endtime: 14:01]: There you go. You mentioned? Yes. Show me while clicking. How do I sign in using another domain? Ok, let me just get a phone number so that I can share. There you go. Click on. How do I sign in another domain? Click on. How do I sign in another domain? Yeah. Move the camera closer. There you go.
+
+Customer [starttime: 14:01 - endtime: 14:14]: It.
+
+Agent [starttime: 14:13 - endtime: 16:07]: Ok, Stay connected on the line. I'm, I've got it. Move your camera closure. Is it p or is it F? That's f if. It's FVT, right? Yeah, that's right. See it now and show me the error message. Yeah, the other message. Let me just.
+
+Customer [starttime: 16:07 - endtime: 16:12]: See? You.
+
+Agent [starttime: 16:12 - endtime: 17:40]: Move your camera a little bit fast. And the security data. So I will take a 3 shot. Can you please move your camera a little bit fast? Yeah. OK, there you go. Take you on the line. I'm checking my team. OK, sure. Thank you.
+
+Customer [starttime: 17:40 - endtime: 18:50]: You. Can do it. It.
+
+Agent [starttime: 18:50 - endtime: 19:11]: You can put your camera down. OK, Thank you. You may end up.
+
+Customer [starttime: 19:10 - endtime: 20:37]: Thank you. So much. Thank. You. Thank. You. Thank. You it.
+
+Agent [starttime: 20:37 - endtime: 23:35]: Yeah, yeah, yeah. Can you please provide me? Yeah. Can you please confirm me the serial number of the CPU? Can you please turn on your camera and show me your CPU box? There is one serial number. Yeah, let me just. I'll switch it again. Yeah, Please check and just let me know. This is the one that this one? No, this is not the serial number. This is the accent tag number. There is one more sticker at the backside of the CP. You'll find it. Yes. Yes. That is only the cerebral number. We need to perform an intune wipe. Yes. What is it the team is telling. We need to perform an intune wipe on your computer. So please stay connected. I'll tell you what you have to do, OK? Yeah. Thank you. Did you get the serial number already? Yeah. OK, so I just want to inform you the process can take at least one to 2 hours to be done. So make sure you don't have to turn manually your system off. Make sure you turn it. You don't disconnect your computer from the internet like the land cable. Everything should be connected properly. The power cup supply and the power cable. And don't manually turn it on or turn it off. Your system is going to restart multiple times in this process, OK, your system is going to restart multiple times in this whole process, but when you get a blue screen to log in with a teleper performance username at that time, only you have to log in. OK, thank you. Ok, so so, I'll just update you once the June wife is started. OK, All right. So I just have to. The intune wife hasn't started yet. My team. Firstly, we given disclaimer about this. So the disclaimer is given. Now I'm telling my team to start the intuitive wife, and once it gets started, I'll let you know.
+
+Customer [starttime: 23:34 - endtime: 23:38]: OK.
+
+Agent [starttime: 23:38 - endtime: 24:25]: How are you going to let me know? Are you going to send me? No. Here. We have to tell you connected on the call. I will tell you over the call. So I'm still here. Yeah. Please stay connected. Once it gets started, I'll let you know.
+
+Customer [starttime: 24:24 - endtime: 29:01]: Thank. You. Thank you. Thanks for having me. Thank. You. Thank much. you very Thank. You. Very. Much. Thank. You. Very. Much. It's thank you. Thank you. Thank you. It.
+
+Agent [starttime: 29:01 - endtime: 33:04]: Are you there? Yeah, I'm still here. Yeah. Thank you for staying on the line. So the team is telling the wife has been started. So I'm just reinforming you. Make sure you're not. I mean, you're not disconnecting your system from the land cable from the Internet cable at any cost. You don't have to restart it manually or reboot it manually from your end. The system is going to reboot multiple times in this reset process. And once you've got a blue screen to log in, then you have to enter your teleper performance ID and their system password and then you have to log in. All right, Thank you. Yeah. So it has been started. You can note down the ticket number. And give us a call back after 2 hours. Do you have the ticket? You may have the ticket number. Yes, you can note it down. It's I for India N for Nancy C. For Charlie. Sorry. Can you repeat? It's I for India N for Nancy C. For Charlie. ********. OK, *****. *****. Yes. Let me get you to INC. *********. Absolutely right, sir. This is the ticket number. *******, what's your option to give you? Right. This is the ticket number. Thank you. So I don't within 2 hours after 2 hours. Yeah. After 2 hours because the process can take up to 2 hours to be completed. All right. Thank you. Ok, And I just want to inform you that push this call. I'm going to connect you to a short survey with a first survey for customer satisfaction. On the scale of 5 to 15 is very satisfied. And the second service for first contact resolution where environment issues will result in first contact. And thank you for calling IEP helpers. Have a nice day ahead. Bye bye. And take care. Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact, press one. If it took multiple contacts to resolve, press 2 if it still has not been resolved, press 3. Fantastic. This time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made. It easy for you to handle your issue. Remember, 7 is the strongest agreement. One. The strongest disagreement. Remember, 7 is strongest agreement. One is strongest disagreement. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

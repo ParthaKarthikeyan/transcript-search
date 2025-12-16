@@ -1,0 +1,254 @@
+Speaker 2 [starttime: 00:07 - endtime: 00:09]: Oh, nice.
+
+Speaker 1 [starttime: 00:09 - endtime: 00:13]: My name is ******. How may I assist you today?
+
+Speaker 2 [starttime: 00:13 - endtime: 00:17]: Goodbye. Hey, how are you doing?
+
+Speaker 1 [starttime: 00:17 - endtime: 00:21]: Yes, sir.
+
+Speaker 2 [starttime: 00:21 - endtime: 00:24]: I'm good. How are you?
+
+Speaker 1 [starttime: 00:24 - endtime: 00:29]: Thank you so much, sir. I'm also good. Thank you. How may I assist you today?
+
+Speaker 2 [starttime: 00:29 - endtime: 00:45]: Oh, yes. Finally, somebody that can understand trying to reset my password. I'm in training right now and we're trying to get inside my cell performance email, and I need to reset my password. So that, is there any way that you can help you with that email?
+
+Speaker 1 [starttime: 00:44 - endtime: 00:53]: Yes, I can help you out with that. I'm just confirming you want to reset your teleper performance password, right?
+
+Speaker 2 [starttime: 00:53 - endtime: 00:54]: Yes.
+
+Speaker 1 [starttime: 00:53 - endtime: 01:02]: OK, I can help you with that. And also just for the verification purpose. Can you help me with your BMS number?
+
+Speaker 2 [starttime: 01:02 - endtime: 01:07]: My employee ID ******.
+
+Speaker 1 [starttime: 01:06 - endtime: 01:13]: Thank you so much for that. And can you also help me with your first and your last name?
+
+Speaker 2 [starttime: 01:13 - endtime: 01:16]: My name is ****** *******.
+
+Speaker 1 [starttime: 01:16 - endtime: 01:53]: Thank you so much for that, sir. First of all, I do apologize for the inconvenience caused to you, but we'll surely try our best to help you out here. Let me just pull up your account details and then we can proceed further. Zero.
+
+Speaker 2 [starttime: 01:53 - endtime: 02:01]: Zero. What is my name?
+
+Speaker 1 [starttime: 02:01 - endtime: 02:09]: So much for staying connected, sir, And I just need to ask you a few security questions. So can you help me with your supervisor name?
+
+Speaker 2 [starttime: 02:09 - endtime: 02:16]: Hi, My supervisor is in April Jefferson.
+
+Speaker 1 [starttime: 02:16 - endtime: 02:27]: And do you have any other supervisor or trainer? Because as per your BMS, it is a different name, which I can see here.
+
+Speaker 2 [starttime: 02:27 - endtime: 02:38]: Ok, I have. My member name is ******** ******. Is either ******** ****** or April Jefferson or either *******?
+
+Speaker 1 [starttime: 02:38 - endtime: 02:49]: Yes, Correct that, *******? Yeah, I can see the ******* here. And just the last thing. Can you also help me with your hiring date?
+
+Speaker 2 [starttime: 02:49 - endtime: 02:57]: My hiring date is October. I think it's either October the 20th and.
+
+Speaker 1 [starttime: 02:57 - endtime: 03:10]: Yeah. Can you confirm me the year as well? On the call? My who, uh, your ear, your hiring ear. ****, ****. Which year?
+
+Speaker 2 [starttime: 03:10 - endtime: 03:13]: It's October the ****.
+
+Speaker 1 [starttime: 03:13 - endtime: 03:25]: Thank you so much for that. I am able to verify you. Now let me just quickly proceed further and we'll reset your password here. Please stay connected.
+
+Speaker 2 [starttime: 03:25 - endtime: 03:47]: Well, do you want me to share my screen with you so I can show you what I need Because right now I'm in turn class and the training doesn't use at 4 o'clock, and we're trying to get inside my tele performance email so I can get inside so I can get in touch with my UnitedHealthcare. You might have heard things, but I can't give it my email. Ok, let me.
+
+Speaker 1 [starttime: 03:47 - endtime: 03:58]: Yeah. Let me just check it from my end. I can do one thing. I can send you a virtual link on your phone number, and then you can show me where we are trying to log in.
+
+Speaker 2 [starttime: 03:58 - endtime: 04:00]: OK, that's fine. Yes.
+
+Speaker 1 [starttime: 03:59 - endtime: 04:47]: Give me one moment. Just sending you the link. Now. I have just sent you the link, Sir. Once you receive it, open it from your end, make sure we are not seeing any personal details.
+
+Speaker 2 [starttime: 04:46 - endtime: 05:14]: Okay, if you can see me in class right now and you can see my screen. Yes, sir. I'm in class right now at the moment. Okay, so this is my go to. I'm trying to get it by my agent email here. My agent email. I can't get inside that. What's it say? My username is my last name. ******* dot ***. But my parents were. I don't know my password.
+
+Speaker 1 [starttime: 05:14 - endtime: 05:32]: Ok, that is fine. We can give you a temporary password. However, you have to first create a permanent password. Then only you will be able to log in on this page. Can you tell me, is this the island browser in which you are opening these files?
+
+Speaker 2 [starttime: 05:32 - endtime: 05:34]: Yes, ma'am.
+
+Speaker 1 [starttime: 05:33 - endtime: 05:42]: Can we also, can you confirm me the system? Is it a VPN system or is it a VDI system?
+
+Speaker 2 [starttime: 05:42 - endtime: 05:45]: I don't understand. I don't know what you mean by that.
+
+Speaker 1 [starttime: 05:44 - endtime: 06:02]: Ok, let me check it. Can you do one thing? Can you minimize the island browser page and just be on the main home page? Yeah. And try to open this TPV VDI?
+
+Speaker 2 [starttime: 06:02 - endtime: 06:03]: Which one?
+
+Speaker 1 [starttime: 06:03 - endtime: 06:07]: The TPV VDI web.
+
+Speaker 2 [starttime: 06:07 - endtime: 06:09]: Where's that?
+
+Speaker 1 [starttime: 06:09 - endtime: 06:34]: Ok, do one thing. Click right on the screen. And click on sessions. And can you put your phone a little bit closer to the screen?
+
+Speaker 2 [starttime: 06:34 - endtime: 06:35]: Can you see, ma'am?
+
+Speaker 1 [starttime: 06:35 - endtime: 06:55]: Yes, I can see it. Thank you so much for that, sir. Do one thing. Open this UHC Citrix page. Thank. You.
+
+Speaker 2 [starttime: 06:55 - endtime: 07:07]: Thank you. Very.
+
+Speaker 1 [starttime: 07:07 - endtime: 08:22]: Much. Ok, let's wait for a moment. Ok, now I just want to confirm, sir, can you show me the upper right corner of the screen? We are not getting the option. Now, show me the left side as well. OK, Yeah, no option here. Ok, I'll, in that case, I have to first take the remote of your system and then we'll check it from my end. I just need the host name. Please close this page. Now you can close this Citrix page and now do the one thing. Click right on the screen, then click on sessions and system info. Yes. Just show me the whole name. Put your phone closer to them. Yeah, just one moment. Let me note it down.
+
+Speaker 2 [starttime: 08:22 - endtime: 08:34]: One moment.
+
+Speaker 1 [starttime: 08:33 - endtime: 08:58]: Ok, thank you so much for that, sir. As of now, you can stop sharing your screen. You can close the link in your phone and give me one moment. Let me take the remote of your system and then I can check it. Please stay connected. I'm just working on it.
+
+Speaker 2 [starttime: 08:58 - endtime: 09:02]: You want the user, the user key?
+
+Speaker 1 [starttime: 09:02 - endtime: 09:46]: No, not that I have to take the remote of your system so that, you know, I will be able to see your system from my end. Give me one moment. And can you also confirm your tele performance ID? Once again, the last name dot. Which number?
+
+Speaker 2 [starttime: 09:46 - endtime: 09:50]: Is ******* dot ***.
+
+Speaker 1 [starttime: 09:50 - endtime: 11:42]: Thank you so much, sir. Thank you so much for staying connected, sir. One moment we are just checking a few things from our end. I'm so sorry for the delay. It. Thank. You.
+
+Speaker 2 [starttime: 11:42 - endtime: 12:35]: I need. I know. Thank you. Uh, date of birth. Thank you. Thank.
+
+Speaker 1 [starttime: 12:35 - endtime: 13:08]: You. Thank. You. Very. Much. Thank you so much for staying connected, sir. And now I want you to do one thing on the main home page. Click right on the screen and then click on sessions. And are you getting the option announced now?
+
+Speaker 2 [starttime: 13:07 - endtime: 13:08]: Yes.
+
+Speaker 1 [starttime: 13:08 - endtime: 13:21]: Yes. Can you please do that? Click on announce now once.
+
+Speaker 2 [starttime: 13:21 - endtime: 13:23]: It's an announcement request.
+
+Speaker 1 [starttime: 13:22 - endtime: 13:33]: Ok, yes, it is done. Thank you so much for that, sir. Yes. Now on the system. No need to do anything As of now.
+
+Speaker 2 [starttime: 13:33 - endtime: 13:46]: Thank you so much. Thank.
+
+Speaker 1 [starttime: 13:46 - endtime: 13:53]: You.
+
+Speaker 2 [starttime: 13:47 - endtime: 14:07]: Thank.
+
+Speaker 1 [starttime: 14:07 - endtime: 14:13]: You. Thank. You. Thank.
+
+Speaker 2 [starttime: 14:13 - endtime: 14:42]: You so much. My name is. Thank you. Thank you.
+
+Speaker 1 [starttime: 14:42 - endtime: 15:57]: Thank. You. Thank. You. Thank. You. Thank. You. Thank. You. Hello. Hello. Hello.
+
+Speaker 2 [starttime: 15:56 - endtime: 16:01]: Hello, ma'am. Are you still there?
+
+Speaker 1 [starttime: 16:00 - endtime: 17:01]: Yes, sir. I am still here. I'm so sorry for the delay. We are still working on it. We are just trying to see few details from our end. Just a few more seconds. We are so sorry for the delay. Thank you so much for staying connected, sir. And now I need to see the screen once again. So can I do one thing? Can I send you a virtual link once again on your phone? And if you can open the link and show me your screen?
+
+Speaker 2 [starttime: 17:01 - endtime: 17:02]: Yes, ma'am. Thank you.
+
+Speaker 1 [starttime: 17:02 - endtime: 17:36]: I am just sending you the link now. OK, ***, I have just sent you the link.
+
+Speaker 2 [starttime: 17:36 - endtime: 17:47]: It.
+
+Speaker 1 [starttime: 17:47 - endtime: 18:00]: Ok, Thank you so much for that. And can you open your island browser?
+
+Speaker 2 [starttime: 18:00 - endtime: 18:14]: There you go. Oh, my God. All right.
+
+Speaker 1 [starttime: 18:14 - endtime: 18:28]: Ok, thank you so much for that. Now, can you just tell me, sir, the team's application which you are using in the island browser? Is it with your tele performance account? Are you logged in with your teleper performance account?
+
+Speaker 2 [starttime: 18:28 - endtime: 18:30]: Ma'am?
+
+Speaker 1 [starttime: 18:30 - endtime: 18:41]: The team's application. The teams which you are using. Are you logged in with your tele performance account or with your UnitedHealthcare account?
+
+Speaker 2 [starttime: 18:41 - endtime: 18:57]: Hold on, ma'am. I'm listening to my teacher. Hold on. Before. What am I saying on my teleper?
+
+Speaker 1 [starttime: 18:56 - endtime: 19:08]: No. I'm confirming the teams which you are using. Are you logged in with your teleper performance account or with your UnitedHealthcare? Which account is it?
+
+Speaker 2 [starttime: 19:08 - endtime: 19:10]: Right now on teams, I'm with my typical performance.
+
+Speaker 1 [starttime: 19:10 - endtime: 19:17]: Ok, I want you to just one sign out from the Microsoft teams.
+
+Speaker 2 [starttime: 19:17 - endtime: 19:22]: We're in class right now. I'm to going tell them we're in class. Is that fine?
+
+Speaker 1 [starttime: 19:21 - endtime: 19:50]: Yeah. Unfortunately, your call will be dropped. Is it OK? If you can inform your supervisor that you will be out of the call for a few minutes only.
+
+Speaker 2 [starttime: 19:50 - endtime: 20:00]: I'll be right back. Ok? Yes, sir. You can x it up, ma'am. Yes.
+
+Speaker 1 [starttime: 20:00 - endtime: 20:04]: Click on sign out.
+
+Speaker 2 [starttime: 20:03 - endtime: 20:11]: Sign out. OK? Yes.
+
+Speaker 1 [starttime: 20:11 - endtime: 20:26]: Ok, let's wait for a moment. And now I want you to close this page and try to reopen the team's page again.
+
+Speaker 2 [starttime: 20:25 - endtime: 20:30]: I'm not trying to log into my team. I'm trying to log into my chemical format.
+
+Speaker 1 [starttime: 20:30 - endtime: 20:57]: Yes, sir. That I already got it. But the issue is that we can only give you a temporary password. But if you want to log in into the webmill, you have to get a permanent password. So now we will try to create a permanent password and then you will be able to log in in the web mail.
+
+Speaker 2 [starttime: 20:56 - endtime: 21:00]: So find me in right here. Yes, sir.
+
+Speaker 1 [starttime: 21:00 - endtime: 21:23]: Correct. With your teleper performance ID. Right.
+
+Speaker 2 [starttime: 21:23 - endtime: 21:54]: Thank you. Thank you. Thank you.
+
+Speaker 1 [starttime: 21:54 - endtime: 22:01]: Ok, wait one moment, sir. Do not approve the request.
+
+Speaker 2 [starttime: 22:01 - endtime: 22:03]: OK?
+
+Speaker 1 [starttime: 22:03 - endtime: 22:23]: Yeah. Click on sign in another way. Sign in with another race and use my password. Yes. Now on your phone, on your phone, I have sent you the temporary password on this SV check. Have you received it?
+
+Speaker 2 [starttime: 22:23 - endtime: 22:24]: Yes. Yes.
+
+Speaker 1 [starttime: 22:24 - endtime: 22:43]: So you have to just type this password. Now.
+
+Speaker 2 [starttime: 22:43 - endtime: 22:48]: You say your account password is incorrect.
+
+Speaker 1 [starttime: 22:48 - endtime: 23:13]: Make sure you are using the password which I sent you. If you can try it one more time, please.
+
+Speaker 2 [starttime: 23:13 - endtime: 23:22]: You said the account is February to put me on. Either way, try again later.
+
+Speaker 1 [starttime: 23:22 - endtime: 24:05]: Check it. No need to log in. As of now, just beyond the speech. Let me just check it. Thank you so much for staying connected. Yes, sir. I wanted to try to log in. Now, once again, make sure the caps lock is not on with the same password.
+
+Speaker 2 [starttime: 24:04 - endtime: 24:29]: Thank. You for calling Y R Capital R Capital J Capital G 24 R H. Ok, it's connected, ma'am. Ok.
+
+Speaker 1 [starttime: 24:29 - endtime: 24:37]: Great. And now you must be on a page where you have to create a permanent password, right?
+
+Speaker 2 [starttime: 24:36 - endtime: 24:39]: No, it seems.
+
+Speaker 1 [starttime: 24:39 - endtime: 24:53]: Oh, yeah. You have to approve the request now. Kidding.
+
+Speaker 2 [starttime: 24:53 - endtime: 24:57]: Yes. You said password and create a password.
+
+Speaker 1 [starttime: 24:57 - endtime: 25:19]: Yeah. So in the current password, it will be the same password which I gave you. And in the new password, you have to create your own password. The requirements. It must be 12 or 13 characters with, you know, capital, small numbers and a sign like a question mark or a dollar.
+
+Speaker 2 [starttime: 25:19 - endtime: 26:03]: 4 R h. Okay, you get my new password? Yes, it's going to be. Yeah. Okay. Thank you. Please. Continue to hold. business. Your OK, I'll sit here.
+
+Speaker 1 [starttime: 26:02 - endtime: 26:17]: Yes, sir. And now you have to log in in the web mail with the new password which you have created.
+
+Speaker 2 [starttime: 26:17 - endtime: 26:19]: You said log into my agent's email.
+
+Speaker 1 [starttime: 26:19 - endtime: 26:34]: The red mail, Correct.
+
+Speaker 2 [starttime: 26:34 - endtime: 26:41]: I like the lady either. OK, that. Yeah. So now from now on.
+
+Speaker 1 [starttime: 26:41 - endtime: 26:47]: Your password will be the same for your account which you have created.
+
+Speaker 2 [starttime: 26:47 - endtime: 26:52]: All right, thank you. I really appreciate you. I'm going to give you all teams today.
+
+Speaker 1 [starttime: 26:51 - endtime: 27:00]: You so much, and I can also provide you a ticket number as well if you like for your supervisors.
+
+Speaker 2 [starttime: 27:00 - endtime: 27:07]: It's going to come to my email. It'll compare our email. She'll look up for me. Thank you.
+
+Speaker 1 [starttime: 27:07 - endtime: 27:12]: You are ready for the ticket number. You can stop sharing your screen now.
+
+Speaker 2 [starttime: 27:12 - endtime: 27:15]: OK, what's the ticket number? It is.
+
+Speaker 1 [starttime: 27:15 - endtime: 27:18]: Inc.
+
+Speaker 2 [starttime: 27:18 - endtime: 27:21]: I N C.
+
+Speaker 1 [starttime: 27:21 - endtime: 27:26]: Number ***.
+
+Speaker 2 [starttime: 27:25 - endtime: 27:26]: ***.
+
+Speaker 1 [starttime: 27:26 - endtime: 27:30]: Uhhuh. ***.
+
+Speaker 2 [starttime: 27:30 - endtime: 27:32]: ***.
+
+Speaker 1 [starttime: 27:31 - endtime: 27:35]: 55.
+
+Speaker 2 [starttime: 27:35 - endtime: 27:38]: 5. Thank you, ma'am. We appreciate it.
+
+Speaker 1 [starttime: 27:37 - endtime: 27:53]: You're welcome, sir. And I'll just quickly connect you to a short survey after this call, where the first survey would be of customer satisfaction on a scale of 5 to 15 minutes satisfied. And the second survey would be first contact resolution. You can select one.
+
+Speaker 2 [starttime: 27:53 - endtime: 27:54]: Which means the issue.
+
+Speaker 1 [starttime: 27:54 - endtime: 27:56]: Was resolved on the.
+
+Speaker 2 [starttime: 27:56 - endtime: 27:57]: First call with me in the future.
+
+Speaker 1 [starttime: 27:57 - endtime: 28:08]: You can also use the link. Https. Ctss test support. dot ont dot app to reset your password. Anything else with which I can help you out?
+
+Speaker 2 [starttime: 28:08 - endtime: 28:11]: Thank you. Thank you. I really appreciate it.
+
+Speaker 1 [starttime: 28:11 - endtime: 28:19]: You're welcome. Thank you for calling it home. Meeting support. Bye. Take care. Bye. Bye.
+
+Speaker 2 [starttime: 28:19 - endtime: 28:28]: Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you.
+

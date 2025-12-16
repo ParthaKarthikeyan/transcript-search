@@ -1,0 +1,456 @@
+Agent [starttime: 00:06 - endtime: 00:12]: Thank you for calling ID support. My name is *****. How may I help you?
+
+Customer [starttime: 00:12 - endtime: 00:41]: Yes. I'm having trouble first. When I log in, I'm having trouble with my Microsoft team on the Omnifi and also I wasn't able to access my words, so we do it. And now when I try to log back in my phone on Island, it's showing an error calling text conversation. So I'll just stop from there and call you guys because a lot going on.
+
+Agent [starttime: 00:41 - endtime: 00:50]: Okay. Do not worry. I will surely help you out to resolve their issue. So as I understand, you are unable to log in. Are they correct?
+
+Customer [starttime: 00:50 - endtime: 01:04]: For my Microsoft team on the arm. All right, but now I'm having trouble with my phone on the island.
+
+Agent [starttime: 01:04 - endtime: 01:11]: Okay, Do not wait. What is the message you are getting?
+
+Customer [starttime: 01:11 - endtime: 01:41]: And I was just an error calling text conversation. Call participant. You. So. Can you hear me?
+
+Agent [starttime: 01:41 - endtime: 01:58]: Yes. Yes, I can hear you. Alright. So before I proceed with the end details about the account, can you confirm your DMS item number?
+
+Customer [starttime: 01:58 - endtime: 02:02]: Yes. *******.
+
+Agent [starttime: 02:02 - endtime: 02:43]: Thank you so much. Can I also confirm your full name, please? Thank you so much. Can I also contain your higher? Hi. Higher. Date.
+
+Customer [starttime: 02:43 - endtime: 02:57]: I saw the second. I'm sorry. It's my first day. September 2nd is my 3rd day. I started working.
+
+Agent [starttime: 02:57 - endtime: 03:02]: Okay. And what is the year?
+
+Customer [starttime: 03:00 - endtime: 03:05]: ****.
+
+Agent [starttime: 03:04 - endtime: 03:14]: Thank you so much. Can I also confirm your manager name?
+
+Customer [starttime: 03:13 - endtime: 03:27]: ******* Poker. I think I'm sorry. *********.
+
+Agent [starttime: 03:26 - endtime: 03:32]: Your manager name. You also name, please?
+
+Customer [starttime: 03:32 - endtime: 03:48]: Yes. Her name is ********* *******. C B H A R L O T T E Bookner, B U C K N E R.
+
+Agent [starttime: 03:48 - endtime: 03:58]: Details are not correct. As for the BMS record, what is your supervisor name?
+
+Customer [starttime: 03:57 - endtime: 04:04]: ******* ********.
+
+Agent [starttime: 04:04 - endtime: 04:14]: The details is incorrect. It is not such an inspiration profile.
+
+Customer [starttime: 04:14 - endtime: 04:19]: ******** was my supervisor in training.
+
+Agent [starttime: 04:19 - endtime: 04:39]: I'm no longer. Uhhuh. All right. Thanks. Thank you so much for the confirmation. Allow me some time. Let me check some digits on your account, please. ****, may I put your call on hold for this name while I get further information on your record?
+
+Customer [starttime: 04:38 - endtime: 04:40]: Ok, thank you.
+
+Agent [starttime: 04:40 - endtime: 05:01]: Thank you so much.
+
+Customer [starttime: 04:59 - endtime: 05:53]: Thank. You. Thank you.
+
+Agent [starttime: 05:46 - endtime: 05:59]: Hello.
+
+Customer [starttime: 05:59 - endtime: 07:04]: Welcome to my lecture. Oh, gosh. Ok.
+
+Agent [starttime: 07:04 - endtime: 07:11]: Thank you for being on a cold. I appreciate your patience.
+
+Customer [starttime: 07:10 - endtime: 07:13]: All right.
+
+Agent [starttime: 07:13 - endtime: 07:23]: So you're unable to log in in your Microsoft account and your computers like Microsoft. *****. Right.
+
+Customer [starttime: 07:23 - endtime: 07:59]: Here, my Microsoft teams on my arm, nor I'm able to access none of my favorite pages. Did I say on my, on my. Yeah, nothing. I can't. I don't know. And then I also can't access my Windows as well. And I tried to open it up. So I ended up rebooting the computer and try to log back and everything. Starting with Island, the island is popping up an error. Ok, don't I know what's going on with it.
+
+Agent [starttime: 07:59 - endtime: 08:15]: Okay, so look into. I want to start in a video station so that I can see the screen error message. Okay, and I sit here with further double shooting. Can you provide me your cell phone number for that?
+
+Customer [starttime: 08:15 - endtime: 08:23]: Yes. **********.
+
+Agent [starttime: 08:22 - endtime: 08:50]: Okay, I have **********. Is that correct? Thank you. I have just sent a link on your phone via SNS. Once you received the link to click over the link allowed, you can help permission and hide all the confidential information from this pin.
+
+Customer [starttime: 08:50 - endtime: 09:29]: It.
+
+Agent [starttime: 09:28 - endtime: 09:38]: Ok, so the this is which application you are trying to log in?
+
+Customer [starttime: 09:38 - endtime: 10:11]: Well, no, I was removing to start over everything. So starting when I first get on the computer, I start with my to log in my head and when I tried to reduce and started out this error so I wouldn't be able to go back to the same problem that I was looking at personally as well. Do not.
+
+Agent [starttime: 10:11 - endtime: 10:58]: Do not, buddy. Better shortly. Check it. Can I just close this? Ok, close this. Ok, open island browser once again.
+
+Customer [starttime: 10:58 - endtime: 11:03]: You see it? I'm going to type in email.
+
+Agent [starttime: 11:03 - endtime: 11:11]: Your camera is not always. No EO camera is not physical animals. Can you join the link once again?
+
+Customer [starttime: 11:11 - endtime: 11:16]: Yeah, I don't know what I can see now.
+
+Agent [starttime: 11:15 - endtime: 11:17]: It's still not.
+
+Customer [starttime: 11:17 - endtime: 11:20]: Can you think?
+
+Agent [starttime: 11:20 - endtime: 11:26]: The skill I'm not able to see. Can I join with the same link again?
+
+Customer [starttime: 11:26 - endtime: 11:46]: Hold on one second. Sorry. Can you excuse me now?
+
+Agent [starttime: 11:45 - endtime: 12:01]: Yes, I can see. Okay, try to log in with your teleper performance. Enter your teleprofency as an M&M password. Okay.
+
+Customer [starttime: 12:01 - endtime: 12:39]: Thank you. Thank you. Thank you. Its.
+
+Agent [starttime: 12:38 - endtime: 12:43]: OK. It.
+
+Customer [starttime: 12:43 - endtime: 12:51]: OK, Can you see it? No. Did you see it?
+
+Agent [starttime: 12:51 - endtime: 13:06]: No. Unable to see your screen is not visible.
+
+Customer [starttime: 13:06 - endtime: 13:13]: It. Ok, Thank you.
+
+Agent [starttime: 13:12 - endtime: 13:26]: Ok, am I about to see now? OK.
+
+Customer [starttime: 13:26 - endtime: 13:33]: It.
+
+Agent [starttime: 13:32 - endtime: 14:10]: Ok. Thank. You. Just. Thank. You.
+
+Customer [starttime: 14:10 - endtime: 14:16]: much. Very Ok, now I'm working on the whole.
+
+Agent [starttime: 14:16 - endtime: 14:21]: OK, now is it working?
+
+Customer [starttime: 14:21 - endtime: 14:27]: Yeah, the phone is now going to go to the to the Omni.
+
+Agent [starttime: 14:27 - endtime: 14:31]: Alright. Is there anything else apart from this?
+
+Customer [starttime: 14:31 - endtime: 14:39]: Yeah, there was just that. The main issue was the teams. Come on, trying to see if it works. Ok?
+
+Agent [starttime: 14:38 - endtime: 14:45]: Yes. Try to log into the teams as well and show me.
+
+Customer [starttime: 14:45 - endtime: 16:13]: OK, one moment. It's OK. Let's see. Oh, my God. Come on. Ok, Thank you.
+
+Agent [starttime: 16:12 - endtime: 16:17]: OK.
+
+Customer [starttime: 16:17 - endtime: 17:11]: I'm actually. 2. Hm. Thank you. Thank you. Thank.
+
+Agent [starttime: 17:11 - endtime: 17:43]: You.
+
+Customer [starttime: 17:43 - endtime: 18:36]: Thank you so much.
+
+Agent [starttime: 18:29 - endtime: 18:40]: Its.
+
+Customer [starttime: 18:38 - endtime: 19:09]: Okay. Its. Ok.
+
+Agent [starttime: 19:09 - endtime: 19:46]: Thank. You. Ok.
+
+Customer [starttime: 19:46 - endtime: 19:54]: It's not even opening it up. Click on these.
+
+Agent [starttime: 19:54 - endtime: 19:54]: Ones.
+
+Customer [starttime: 19:54 - endtime: 19:57]: That's click on these.
+
+Agent [starttime: 19:57 - endtime: 20:01]: Thank you, *****. Because they can't restart.
+
+Customer [starttime: 20:01 - endtime: 20:09]: Again? Yes. Just to see your account.
+
+Agent [starttime: 20:08 - endtime: 20:37]: For a moment. Open it. Oh.
+
+Customer [starttime: 20:37 - endtime: 21:11]: 2. Ok, thank you very much. It.
+
+Agent [starttime: 21:11 - endtime: 21:41]: Ok, give me a moment. Let me check this. Ok.
+
+Customer [starttime: 21:41 - endtime: 21:56]: Thank you. Thank.
+
+Agent [starttime: 21:56 - endtime: 21:59]: You. Thank. You.
+
+Customer [starttime: 21:59 - endtime: 22:15]: It. Thank you. Mmhmm.
+
+Agent [starttime: 22:13 - endtime: 22:15]: Its.
+
+Customer [starttime: 22:15 - endtime: 23:00]: Excuse me. It's saying it's black one. Ok.
+
+Agent [starttime: 23:00 - endtime: 23:56]: Thank. You.
+
+Customer [starttime: 23:56 - endtime: 24:03]: Thank you. Thank you.
+
+Agent [starttime: 24:03 - endtime: 24:09]: Are we still checking on it? It may take some time. We're just talking to the call.
+
+Customer [starttime: 24:09 - endtime: 24:11]: Okay. Thank you.
+
+Agent [starttime: 24:11 - endtime: 26:08]: Thank you so much. Please. Continue. To. Hold. Thank. You.
+
+Customer [starttime: 26:08 - endtime: 26:44]: Thank you. Thank you.
+
+Agent [starttime: 26:44 - endtime: 27:46]: Thank. You. Thank. You. Thank. You. Thank. You. Thank. You. Thank you for being on call. Can you just close this. Right on the screen? Click on. Click on sessions. Click on. Announce now.
+
+Customer [starttime: 27:46 - endtime: 27:49]: Just say click on where? Yes, ma'am.
+
+Agent [starttime: 27:49 - endtime: 28:52]: Now. Yes. Okay again, right, *****. And do the same. Again. Right click and do the same again. Okay. It's done now and I'll restart your PC ones.
+
+Customer [starttime: 28:52 - endtime: 29:28]: Even Starbucks.
+
+Agent [starttime: 29:28 - endtime: 30:25]: You. Thank. You. Thank. Thank. You.
+
+Customer [starttime: 30:24 - endtime: 30:29]: Can you want me to log back in, ****?
+
+Agent [starttime: 30:29 - endtime: 30:36]: Ok, now prior to log in once again. Ok.
+
+Customer [starttime: 30:36 - endtime: 30:38]: Back to Ireland.
+
+Agent [starttime: 30:38 - endtime: 30:46]: To try to log into the VDA. Okay.
+
+Customer [starttime: 30:45 - endtime: 30:51]: Okay. I was on the phone. Just don't worry about it right now.
+
+Agent [starttime: 30:51 - endtime: 30:54]: I'm. Sorry.
+
+Customer [starttime: 30:54 - endtime: 30:59]: Don't log back in my phones.
+
+Agent [starttime: 30:58 - endtime: 31:04]: Not back into the TPVDA. Okay.
+
+Customer [starttime: 31:03 - endtime: 31:11]: Okay. What about what about **** on the phone? *******? Don't worry about that, right?
+
+Agent [starttime: 31:11 - endtime: 31:24]: We'll log in back later. Okay. Just try to log into the VDA and then log in the island browser after. Okay.
+
+Customer [starttime: 31:23 - endtime: 31:51]: Okay. It. Ok. Thank you.
+
+Agent [starttime: 31:51 - endtime: 31:54]: Thank. You.
+
+Customer [starttime: 31:53 - endtime: 32:17]: Ok. Thank you. Thank you. Thank you.
+
+Agent [starttime: 32:16 - endtime: 32:42]: Thank. You.
+
+Customer [starttime: 32:42 - endtime: 33:08]: Thank you. Thank you. Thank you. Yes. Hello.
+
+Agent [starttime: 33:08 - endtime: 33:33]: Thank.
+
+Customer [starttime: 33:33 - endtime: 34:58]: You. Hello. Good afternoon. Thanks for calling. Hello. Thank you for calling. Thank. You. Thank you. Thank you. Thank you.
+
+Agent [starttime: 34:58 - endtime: 35:54]: Thank.
+
+Customer [starttime: 35:54 - endtime: 36:03]: You. Thank you.
+
+Agent [starttime: 36:03 - endtime: 36:35]: Thank. You. Thank. You.
+
+Customer [starttime: 36:35 - endtime: 37:16]: It. Sure. Thank you. Hello. Thanks for having me. Thank.
+
+Agent [starttime: 37:16 - endtime: 37:26]: You. Thank. You. Thank. You. Thank. You. Thank. You.
+
+Customer [starttime: 37:26 - endtime: 38:07]: Thank you. Thank you. Thank you. Thank you. Thank you. Thank you it.
+
+Agent [starttime: 38:07 - endtime: 38:34]: Thank. You. Thank. You. Thank. You. Thank. You.
+
+Customer [starttime: 38:34 - endtime: 39:08]: Thank you. Thank you.
+
+Agent [starttime: 39:07 - endtime: 39:26]: Thank.
+
+Customer [starttime: 39:26 - endtime: 39:56]: You. Thank you. Thank you. Thank you. Thank you. Thank you.
+
+Agent [starttime: 39:56 - endtime: 40:22]: Thank. You. You. Thank. Thank. You. Thank. You. Thank. You. Thank. You.
+
+Customer [starttime: 40:22 - endtime: 40:36]: It. So.
+
+Agent [starttime: 40:35 - endtime: 40:40]: Thank. You.
+
+Customer [starttime: 40:40 - endtime: 40:45]: Thank you.
+
+Agent [starttime: 40:45 - endtime: 40:54]: Thank. You. Thank. You. Thank. You. Thank. You.
+
+Customer [starttime: 40:47 - endtime: 41:10]: Hello. Welcome lecture. my to Its.
+
+Agent [starttime: 41:10 - endtime: 41:19]: I was still checking. Give me some time. Ok, try to log in once again here.
+
+Customer [starttime: 41:19 - endtime: 41:35]: Yeah.
+
+Agent [starttime: 41:35 - endtime: 41:41]: Are you now that able to log into the teams?
+
+Customer [starttime: 41:41 - endtime: 41:49]: I'm not on the side. It's on the side. I'll get trouble. Not the one.
+
+Agent [starttime: 41:49 - endtime: 41:54]: The TP side ID. You are able to log in or not teams.
+
+Customer [starttime: 41:54 - endtime: 42:03]: The TP side on the Microsoft on TPS side. I wasn't having trouble on. It was the one on the Omni size.
+
+Agent [starttime: 42:02 - endtime: 42:08]: Ok, so you are never going to log in on the OME, right? Which is your client.
+
+Customer [starttime: 42:08 - endtime: 42:20]: This one's doing this one doing them to see if my team will work now. And also my Microsoft word.
+
+Agent [starttime: 42:19 - endtime: 42:25]: Ok, try login once again. Let me know.
+
+Customer [starttime: 42:24 - endtime: 42:26]: Ok.
+
+Agent [starttime: 42:26 - endtime: 43:00]: Thank you. Thank.
+
+Customer [starttime: 43:00 - endtime: 43:04]: You. Thank you.
+
+Agent [starttime: 43:04 - endtime: 45:34]: It. Ok. Thank. You. Its. Its. OK.
+
+Customer [starttime: 45:34 - endtime: 45:51]: It. Ok, Thank you.
+
+Agent [starttime: 45:51 - endtime: 46:05]: It.
+
+Customer [starttime: 46:05 - endtime: 46:25]: Ok. Thank you. Still having trouble.
+
+Agent [starttime: 46:25 - endtime: 47:04]: So this is, you are trying to log into the client. This is client environment. Okay, you need to. If your daily performance here is already working, the teams, you need to just log in with your client credential. Here. You are trying to log in with your telephone season. Okay, So if your teams is already logged in outside of the Citrix, you can usually use the televox televo performance team outside of the citrix. Okay.
+
+Customer [starttime: 47:04 - endtime: 47:08]: It's not logged in.
+
+Agent [starttime: 47:08 - endtime: 47:13]: So it was already logged in outside of this twix.
+
+Customer [starttime: 47:13 - endtime: 47:21]: No, I suppose we have 2 teams. One on my team right here. This is not TP side. Okay.
+
+Agent [starttime: 47:21 - endtime: 47:31]: Show me is my TP side show. Can they call on your? Can they call me your profile picture?
+
+Customer [starttime: 47:30 - endtime: 47:32]: Could they call on your profile?
+
+Agent [starttime: 47:32 - endtime: 47:34]: Yes. Could they?
+
+Customer [starttime: 47:34 - endtime: 47:37]: Could they have any further chance?
+
+Agent [starttime: 47:37 - endtime: 47:56]: They can not close it? Please get they can help Close it close. No, no, no camera. Closer camera closer. Showing some close in. Ok, so you have love in here with your telepop comments USA ID as a NC.
+
+Customer [starttime: 47:56 - endtime: 48:09]: OK. How do I have 2 things? Yeah. OK, now show me on others.
+
+Agent [starttime: 48:09 - endtime: 48:10]: Yeah.
+
+Customer [starttime: 48:10 - endtime: 48:14]: This one every time I show the.
+
+Agent [starttime: 48:13 - endtime: 49:20]: Ok, the same. Let me. Let me clear the same ID. You are trying to log in here. Omin side. I understand, but you have to use your client team here. Try to log in with your client ID. Okay, just close this. You are entering Telepahan's COSA ID here. It is not letting you log in here because you are. You are in decline environment. Okay, So your Delhi performance teams will not be able to log in here. Click on sign in. Could everyone sign in? Enter your client ID. Lake. Enter your client username. Okay. What's. That. If you are not aware with your plan username, you need to just contact your supervisor or manager for the same. Do not log in here with your daily performance. USAID. Okay.
+
+Customer [starttime: 49:20 - endtime: 49:26]: So I need to ask. I mean, put in the check right quick. Would I need to ask them for?
+
+Agent [starttime: 49:26 - endtime: 49:35]: This? Yes, The teleperformance here. You are already logged in and again, you are trying to know. and you're blending while London.
+
+Customer [starttime: 49:35 - endtime: 49:45]: Yeah, no, I'm trying to check with them on TT side because I'm not able to check with them on the omniside. So what do I need that I need to get on my omni.
+
+Agent [starttime: 49:45 - endtime: 49:59]: Do you have? Do you have current conventions like, look, your LOV is USC. So do you have the USC conventions?
+
+Customer [starttime: 49:59 - endtime: 50:05]: I don't. I guess I don't know. Uh, yeah, I think so.
+
+Agent [starttime: 50:05 - endtime: 50:11]: So probably log in with this with that credential. OK?
+
+Customer [starttime: 50:11 - endtime: 50:20]: OK, hold on one moment. Please try to. Yeah.
+
+Agent [starttime: 50:19 - endtime: 50:27]: Before login is, just show me the username. Okay, which you have entered. Just show me the username so that I can confirm.
+
+Customer [starttime: 50:26 - endtime: 50:42]: I'll try again.
+
+Agent [starttime: 50:42 - endtime: 50:45]: Thank.
+
+Customer [starttime: 50:45 - endtime: 50:59]: You. Thank you. Thank Thank you. you.
+
+Agent [starttime: 50:58 - endtime: 51:09]: Yes. Try login with that. Ok, Yes. Might we try login with that?
+
+Customer [starttime: 51:09 - endtime: 51:54]: All right, hold on. 2 6. Thank you. Ok. Ok. Ok, very good. Thank you.
+
+Agent [starttime: 51:54 - endtime: 51:57]: Is it working, ma'am?
+
+Customer [starttime: 51:57 - endtime: 52:02]: It's low enough to see if I'm able to check on there one moment.
+
+Agent [starttime: 52:02 - endtime: 52:05]: All right.
+
+Customer [starttime: 52:04 - endtime: 52:09]: Let's see. I'm able to check.
+
+Agent [starttime: 52:09 - endtime: 52:18]: Ok.
+
+Customer [starttime: 52:18 - endtime: 52:30]: Ok, now let's try to work because I was having trouble to work and. See what's going on. Do I sign anything for you?
+
+Agent [starttime: 52:30 - endtime: 52:38]: Yes. Reusing your clients only. Ok, do not use your delivery department here. Id.
+
+Customer [starttime: 52:37 - endtime: 53:24]: Gotcha. Let's try that. Ok. Ok, thank you. Thank you. It. Is the camera still on? Can you see?
+
+Agent [starttime: 53:24 - endtime: 53:28]: Not now? Yes. Yes. I'm able to see.
+
+Customer [starttime: 53:28 - endtime: 53:31]: Ok, I want to put the code in.
+
+Agent [starttime: 53:31 - endtime: 53:43]: Sure.
+
+Customer [starttime: 53:42 - endtime: 54:44]: It's strange. Thank you. It. Thank Ok, you. Thank you. Thank you. Thank you. Ok, so I'm able to do it. Ok, so I'm trying to figure about one more thing while I wasn't able to. Hold. Well, I wasn't able to find my favorites in my, in my my page. I had, like, bootmark. It's not fun anymore. I know. I'm afraid. How do I access it? You know, like the boot marks right here.
+
+Agent [starttime: 54:43 - endtime: 54:49]: Okay, because they contribute that icon.
+
+Customer [starttime: 54:49 - endtime: 55:12]: The 3 dots. Yes. All right. You know.
+
+Agent [starttime: 55:11 - endtime: 55:19]: Because they come now, Mortals.
+
+Customer [starttime: 55:18 - endtime: 55:32]: Mortals, mortals. Yes, sure. Nothing.
+
+Agent [starttime: 55:32 - endtime: 56:00]: Okay. So give me a moment. Can you click on on our previous menu? Can you click on. Favorites? Yes, sir.
+
+Customer [starttime: 55:59 - endtime: 56:05]: Yeah, they're gone. I have, like, a lot of them.
+
+Agent [starttime: 56:05 - endtime: 56:14]: Ok, do one thing there is, there is also a tree that I can put there.
+
+Customer [starttime: 56:14 - endtime: 56:15]: This one.
+
+Agent [starttime: 56:15 - endtime: 56:51]: Yes. Bottom. Okay, give me a moment, please.
+
+Customer [starttime: 56:51 - endtime: 57:40]: Thank. You. Thank you. Thank you. Hello. Thank you so much.
+
+Agent [starttime: 57:40 - endtime: 58:01]: All right. So you can see show favorite bars. So its show bar. There's a bad icon there over the mouse there. Yes. Could. There. Be. There.
+
+Customer [starttime: 58:01 - endtime: 58:03]: Yeah, Okay.
+
+Agent [starttime: 58:02 - endtime: 58:32]: Yes. So this is actually, you're managed by managed by your organization. So you, you cannot enable the favorite bar. Okay, because this is disabled by your tall magician. Okay, so that say you won't be able to. Yes. Is it disabled by your organization? You willization.
+
+Customer [starttime: 58:32 - endtime: 58:35]: What? I mean?
+
+Agent [starttime: 58:35 - endtime: 58:44]: So it will not show. Okay, because it is already disability organization.
+
+Customer [starttime: 58:44 - endtime: 58:49]: Because I had all my favorites in there. So why did it happen to believe all my favorites?
+
+Agent [starttime: 58:49 - endtime: 59:10]: On the left, on the left side, on the left side. Okay, so there is important bookmarks. Okay, so if you want to add any bookmark, just right, click over there and add bookmark. Your bookmark will be there. Okay.
+
+Customer [starttime: 59:10 - endtime: 59:15]: You try to do it.
+
+Agent [starttime: 59:14 - endtime: 59:44]: Suppose suppose you are going to add any bookmark here? Okay, Do one thing just now. Close this. Close this. Close this stand. Okay. All right, click over right click on this on the bookmark. Right click.
+
+Customer [starttime: 59:44 - endtime: 59:45]: Frankly, here.
+
+Agent [starttime: 59:45 - endtime: 00:21]: Yes, yes, yes. Just just stand there. Click there only. Yes. Click it there. Okay, click done. Okay, check whether it is added or not on the bookmas tab on the left side on the left side. It is already added now. Okay, so this is, this is already added. So this is the book mass bar. All right.
+
+Customer [starttime: 00:21 - endtime: 00:28]: Okay. Where other things, Where are they? Under.
+
+Agent [starttime: 00:28 - endtime: 00:36]: Whatever links you want to add here, you need to just add manually, Ok?
+
+Customer [starttime: 00:36 - endtime: 00:43]: I'm saying what happened to the ones I already had? Like, where are they?
+
+Agent [starttime: 00:43 - endtime: 00:46]: I'm sorry.
+
+Customer [starttime: 00:46 - endtime: 00:58]: I had already had knowledge in one of my bookmarks, and I also had, like, over 30 other pages. So you need to just.
+
+Agent [starttime: 00:58 - endtime: 01:25]: Contact your client it team. You need to just contact your client it team because this is your client environment. Okay, so we don't have any access about this. If you are facing an issue on the TP side, we can help you there. Okay, so this is your plan investment. So we do not have any access. You need to just contact your client deity team for the same.
+
+Customer [starttime: 01:25 - endtime: 01:28]: Who is at the UnitedHealthcare site?
+
+Agent [starttime: 01:27 - endtime: 01:32]: Yes. Yes.
+
+Customer [starttime: 01:32 - endtime: 01:40]: Ok. Can I get my track? My ticket number, please?
+
+Agent [starttime: 01:40 - endtime: 01:43]: Yes. Yes. I'm providing the ticket number for this call. All right.
+
+Customer [starttime: 01:43 - endtime: 01:52]: Is there anything else apart from this? No. Can you do a check so I can get to read it, please? Yes.
+
+Agent [starttime: 01:52 - endtime: 02:34]: Sure. Thank you. Give me a moment, please.
+
+Customer [starttime: 02:34 - endtime: 02:49]: Excuse me. Thank Thank you. you.
+
+Agent [starttime: 02:49 - endtime: 02:55]: Okay, I have already created the ticket. Can you note down the ticket number?
+
+Customer [starttime: 02:54 - endtime: 03:04]: Yeah, you can send it from here on this camera right here. Can you send it on here?
+
+Agent [starttime: 03:04 - endtime: 03:08]: Should I spell it?
+
+Customer [starttime: 03:08 - endtime: 03:21]: They usually send it on this. Support this thing right here with the camera on here. They usually send it on a text and I can screenshot it.
+
+Agent [starttime: 03:21 - endtime: 03:33]: You can just pull down the camera. Ok. If your always been resolved, you can just close the camera.
+
+Customer [starttime: 03:33 - endtime: 03:48]: No, I'm trying to get a text on here seeing the text. Like, see, I can pick you. Talk to him. See, I just sent you. Can you text me the number on here? The ticket number.
+
+Agent [starttime: 03:48 - endtime: 03:52]: You need the ticket number, right?
+
+Customer [starttime: 03:52 - endtime: 03:57]: Yes. Can you take the. I'm in Fox.
+
+Agent [starttime: 03:57 - endtime: 04:05]: Alright. Alright. Alright, let me, let me give you. Okay. Just give me a moment.
+
+Customer [starttime: 04:04 - endtime: 04:08]: Okay? Thank you.
+
+Agent [starttime: 04:07 - endtime: 04:13]: Ok, Did you got it? I have already shared.
+
+Customer [starttime: 04:12 - endtime: 04:15]: Yes, that's it. Thank you so much.
+
+Agent [starttime: 04:15 - endtime: 04:20]: You're welcome. Is there anything else apart from this?
+
+Customer [starttime: 04:20 - endtime: 04:28]: No, that's all. Thank you so much. Terrifying about yours.
+
+Agent [starttime: 04:28 - endtime: 05:11]: Yes. Yes. For the bookmarks in your client environment, you need to just contact your applied ID team. Okay, for further assistance. Thank you. Okay, so post this call, I will connect you to a short survey where the first survey will be for the customer satisfaction, where you can read on a scale of 5 to 15 minutes. Very set aside. And the second survey will be for first contactation where you can select option one, which means your resources always be resolved in the first contacts. Ok. OK, so thank you for calling it held support. Have a nice day. Bye bye.
+
+Customer [starttime: 05:11 - endtime: 06:32]: Okay. Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from the scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact press one. If it took multiple contacts to resolve, press 2. If it still has not been resolved, press 3. Fantastic. This time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One. The strongest disagreement. Remember, 7 is strongest agreement. One is strongest disagreement. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

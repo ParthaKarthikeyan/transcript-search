@@ -1,0 +1,156 @@
+Agent [starttime: 00:06 - endtime: 00:12]: Thank you for calling Address Fort. My name is **** ****. How may I assist you?
+
+Speaker 3 [starttime: 00:11 - endtime: 00:26]: Okay. Hi. Good evening. My name is charity and I am from Performance Mania. And I need an assistance in setting up my PC as a first time work at home.
+
+Customer [starttime: 00:25 - endtime: 00:27]: Ok.
+
+Agent [starttime: 00:27 - endtime: 00:42]: No problem. I hate for the ingredients cost to you. Be sure I will surely assist you to do the reason carry. So as you have first sent it, set up on the home. So do you want to set up on the comment for the right?
+
+Speaker 3 [starttime: 00:42 - endtime: 00:46]: Yes. Yes, yes.
+
+Agent [starttime: 00:46 - endtime: 00:51]: Ok, no problem. First of all, may I know your employee ID number?
+
+Speaker 3 [starttime: 00:51 - endtime: 00:59]: Ok, my employee ID number is *******.
+
+Agent [starttime: 00:59 - endtime: 01:11]: Ok, and may I know the higher date? Do I know the higher date.
+
+Speaker 3 [starttime: 01:11 - endtime: 01:21]: I, um, hired. October 7th, ******, which is last year.
+
+Agent [starttime: 01:21 - endtime: 01:27]: May I know the location?
+
+Speaker 3 [starttime: 01:27 - endtime: 01:34]: I am working at 54 4 months.
+
+Agent [starttime: 01:34 - endtime: 01:39]: Okay, May I know the supervisor name?
+
+Speaker 3 [starttime: 01:39 - endtime: 01:53]: So my supervisor's name. So it's ********* ***. But on my DMS, I think I was transferred to me.
+
+Agent [starttime: 01:52 - endtime: 01:57]: Yeah. And may I know the username ID.
+
+Speaker 3 [starttime: 01:57 - endtime: 02:04]: So my job is stop.
+
+Agent [starttime: 02:03 - endtime: 02:15]: Okay. Thank you. Confirms. Okay. And may I know the May I know the issue on the setup for the computer.
+
+Speaker 3 [starttime: 02:15 - endtime: 03:52]: Ok, so before last week, when I tried to find anything, my last name, it is not accepting my returning and access. And the first error that I had since went home. And there was an error. August 8th ****. And I informed one of the available supervisors on the floor at the site and he found the piece and it was sold. And now the issue that I announced when I tried to get the case and the text that we had filed a case that we can try to gather. However, there's an option for me to love me. And when I answer to you may enter my use and password. There is another appeal on my team. Let me show. Let me give you what I'll be doing. Let me show you today. Okay, So the error. So the error appeared. It paid here. We can sign you in with this credential because your domain isn't available. Make sure your device is connected to your organization's network. If you previously signed in on this device with another credential, you can sign in with that credential. So that's the error message.
+
+Customer [starttime: 03:51 - endtime: 03:53]: Ok.
+
+Agent [starttime: 03:53 - endtime: 04:07]: You can also confirm V before log in the computer. Could you connect the VPN UI faster? You need to connect the VPN and then detail it to log in the window.
+
+Speaker 3 [starttime: 04:07 - endtime: 04:15]: So when I try to restart my previous, there's no option to connect the review.
+
+Agent [starttime: 04:15 - endtime: 04:39]: You can just see the right and I open whenever you open the computer and just see the right bottom corner dual motor icon. So just click on their head and then connect the VPN. Which one? And then try to do a motorker on the right bottom side on your screen.
+
+Speaker 3 [starttime: 04:39 - endtime: 04:46]: So before in my screen, please do that before.
+
+Agent [starttime: 04:46 - endtime: 05:07]: Yeah, before login the BMS, you need to connect the VPN so you can just see on their door mode icon. Have you seen dormotor icon on the bottom side? Right bottom side, door icon.
+
+Speaker 3 [starttime: 05:06 - endtime: 05:27]: So the icon that I can see here in my end is network signing. And then, yeah, ESF access and the powerbox on the right side. That's the information that I take.
+
+Agent [starttime: 05:26 - endtime: 05:34]: Okay, please show me the screen. So please put on the link and show me the is great.
+
+Speaker 3 [starttime: 05:34 - endtime: 05:38]: It is. You will attend online.
+
+Agent [starttime: 05:38 - endtime: 06:28]: I'll provide the link. So please open the browser and put on the link and show me the screen. So are you ready? Yeah. M for Mary Y for Yankee, H for Hotel, E for Echo, L for Lima, P for Papa, is for Sara, C for Charlie, R for Romeo, E for your goal, E for your call N for nancy dot com. Myhealthsisting dot com. Forward slash number ******.
+
+Customer [starttime: 06:27 - endtime: 06:30]: That's. It.
+
+Speaker 3 [starttime: 06:30 - endtime: 06:36]: So this is. It's not the one that I use.
+
+Customer [starttime: 06:35 - endtime: 06:38]: Sorry.
+
+Speaker 3 [starttime: 06:38 - endtime: 06:42]: So is this the website that I used to use on my phone?
+
+Agent [starttime: 06:41 - endtime: 06:45]: Yes. Yes.
+
+Speaker 3 [starttime: 06:45 - endtime: 07:08]: Ok, give me a minute. That's me on the phone. Just a moment. So it is mine. Health team health. Dot com. Then forward slash ******. Is that right?
+
+Agent [starttime: 07:07 - endtime: 07:22]: Right.
+
+Speaker 3 [starttime: 07:22 - endtime: 07:29]: Oh, so do I use the installer?
+
+Customer [starttime: 07:28 - endtime: 07:32]: Yes.
+
+Speaker 3 [starttime: 07:31 - endtime: 07:38]: Yes.
+
+Customer [starttime: 07:38 - endtime: 07:49]: It.
+
+Speaker 3 [starttime: 07:49 - endtime: 08:57]: So the code that I will use? Yes. Because there was nothing. It. Uh. Well, how about it? Hello?
+
+Agent [starttime: 08:56 - endtime: 09:33]: Yes. Ok, just give me a Q second. Yeah. So please open the camera and show me the ice cream.
+
+Customer [starttime: 09:33 - endtime: 09:36]: Can. You. See? Now.
+
+Agent [starttime: 09:36 - endtime: 09:42]: You can just open the camera. I'm sorry. This is pain.
+
+Speaker 3 [starttime: 09:42 - endtime: 09:45]: I'll just open my gum.
+
+Customer [starttime: 09:45 - endtime: 10:08]: Yeah. So.
+
+Speaker 3 [starttime: 10:08 - endtime: 10:13]: How is it there? Anything else?
+
+Agent [starttime: 10:12 - endtime: 10:31]: Yes. Please show me the right bottom corner. Yeah. *******, are you going to Dual Reich? Just click on the door. *****.
+
+Speaker 3 [starttime: 10:30 - endtime: 10:32]: One.
+
+Agent [starttime: 10:32 - endtime: 11:10]: Yes. Just wait. Yeah, it's going to connect. Yeah. Put on the USN password one you can put on there capital dot 6 17 and then put on our password.
+
+Speaker 3 [starttime: 11:10 - endtime: 11:33]: Is that cool? Thank you.
+
+Agent [starttime: 11:32 - endtime: 11:37]: Yeah. And then put on a password.
+
+Speaker 3 [starttime: 11:36 - endtime: 11:40]: So I need to.
+
+Agent [starttime: 11:39 - endtime: 12:25]: Yeah. Same tablet 17 and then a password. We just wait.
+
+Speaker 3 [starttime: 12:24 - endtime: 12:40]: Okay. I'm going to.
+
+Customer [starttime: 12:38 - endtime: 12:49]: Thank.
+
+Speaker 3 [starttime: 12:49 - endtime: 14:05]: You. Thank you. Thank you. Thank you. you. you. Thank Thank Thank you. Thank you. Thank you. Thank you. you. Thank you. Thank you. Thank Thank you. How long is it?
+
+Agent [starttime: 14:05 - endtime: 14:35]: Yeah. Just wait. Don't do anything. You can just wait, ma'am. Your system is started.
+
+Speaker 3 [starttime: 14:35 - endtime: 15:55]: Thank you. Thank you. Thank you. Thank you. Thank you. you. Thank Thank Thank you. you. Thank you. Its. Thank. You. you. you. Thank you. Thank Thank Ok. Thank you. Thank you. Thank you.
+
+Customer [starttime: 15:55 - endtime: 16:06]: Thank. You. Thank. You. Thank. You. Thank. You. Thank. You.
+
+Agent [starttime: 16:05 - endtime: 18:13]: Yeah. Please be on the line. Now. I'm going to create a ticket regarding this issue. And you can just wait. Don't do anything because it will take a time for the opening on your computer. Just dealing with. Yeah, you can just wait with your computer having open each and everything. So don't do 20. Even just with 2 to 3 minutes. It will. Please give me the pleasure of Please call me. Yes. Just click on the es. Just click on there. Yes, yes. Click on the yes. Why Yankee for your pay. Yes. Yeah. Now your computer eop. Please say with the left bottom Carlor.
+
+Customer [starttime: 18:13 - endtime: 18:20]: Yeah.
+
+Agent [starttime: 18:20 - endtime: 18:35]: Please tell me if have you control. Yes, please. Ok, yeah. Ok.
+
+Customer [starttime: 18:35 - endtime: 18:47]: Thank.
+
+Speaker 3 [starttime: 18:47 - endtime: 19:05]: You. Thank you. Thank you.
+
+Agent [starttime: 19:05 - endtime: 19:25]: Yeah, it will take our time, sir, for the opening. All the tools. Okay, so you can just note down the ticket number. And after that, if you have any issue on your spin date again, call later again. So, are you ready to note down the ticket number?
+
+Speaker 3 [starttime: 19:25 - endtime: 19:30]: If you're giving me a moment, OK, I'm ******.
+
+Agent [starttime: 19:30 - endtime: 19:48]: I for India. N for Nancy, C for Zarlie. *******.
+
+Customer [starttime: 19:48 - endtime: 19:58]: 9. Conduct. That's. All.
+
+Speaker 3 [starttime: 19:58 - endtime: 20:01]: Yes, I am.
+
+Agent [starttime: 20:01 - endtime: 20:05]: Well, go ahead.
+
+Speaker 3 [starttime: 20:05 - endtime: 20:18]: Yeah. So the digit number is I N T 0314, then *****. Is that right?
+
+Agent [starttime: 20:18 - endtime: 20:22]: Yes, Correct, ma'am.
+
+Speaker 3 [starttime: 20:22 - endtime: 20:26]: Okay, so I'll just wait for this one to do that.
+
+Agent [starttime: 20:26 - endtime: 20:44]: Yeah, you can just wait for time because you are low in the first time. So it will take time for the opening, each and everything. So you can just wait. And after that, have you facing the issue, Then you can call back again.
+
+Speaker 3 [starttime: 20:44 - endtime: 20:47]: Thank you. So that's all.
+
+Agent [starttime: 20:47 - endtime: 20:54]: Yes, ma'am. Is there anything else I may help you.
+
+Speaker 3 [starttime: 20:54 - endtime: 20:57]: No, thank you.
+
+Agent [starttime: 20:57 - endtime: 21:15]: Ok. And the survey. Are you connected to a software survey? Post this call where you can do the service rise gallery 5 to 15 pieces side and the second survey. First contact resolution. Select one. Reach me or uhhuh False contact. Thank you for calling IP home. Have a great day. Thank you. Bye bye.
+
+Customer [starttime: 21:14 - endtime: 22:57]: Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call, enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. We did not get your response. Please try again. How satisfied were you with the assistance you had from the IT specialist on today's call, Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact, press one. If it took multiple contacts to resolve, press 2 if it still has not been resolved, press 3. Fantastic. This time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One. The strongest disagreement. Remember, 7 is strongest agreement. One is strongest disagreement.
+

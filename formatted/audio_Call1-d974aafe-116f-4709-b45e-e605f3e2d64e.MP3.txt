@@ -1,0 +1,128 @@
+Agent [starttime: 00:06 - endtime: 00:11]: Thank you for calling desk. My name is ****. How can I help you?
+
+Customer [starttime: 00:11 - endtime: 00:23]: Hi. Yes. I'm calling because I am trying to log into my citrics for my performance side, and it's giving me an error message saying that my account is lost.
+
+Agent [starttime: 00:23 - endtime: 00:42]: OK, thanks. Giving me a message. That account is lapped. OK, I'm really sorry for the inconvenience that is caused to you. I will surely help you on this. So before that, I just need some information for security verifications. Can you please provide me your payment number?
+
+Customer [starttime: 00:41 - endtime: 00:46]: It's one second. ***.
+
+Agent [starttime: 00:45 - endtime: 00:47]: 81.
+
+Customer [starttime: 00:47 - endtime: 00:49]: 27.
+
+Agent [starttime: 00:49 - endtime: 00:53]: Your full name?
+
+Customer [starttime: 00:52 - endtime: 00:59]: ******* ******.
+
+Agent [starttime: 00:59 - endtime: 01:04]: Like ******* *****. Is that telling?
+
+Customer [starttime: 01:04 - endtime: 01:07]: Yes, that's correct.
+
+Agent [starttime: 01:06 - endtime: 01:14]: And your high date.
+
+Customer [starttime: 01:14 - endtime: 01:16]: I'm sorry. What was that?
+
+Agent [starttime: 01:16 - endtime: 01:20]: You're hiring.
+
+Customer [starttime: 01:20 - endtime: 01:25]: The 29th of.
+
+Agent [starttime: 01:25 - endtime: 01:31]: September. Mmhmm. And the year.
+
+Customer [starttime: 01:31 - endtime: 01:33]: This year.
+
+Agent [starttime: 01:32 - endtime: 01:37]: OK, and what is the name of your supervisor?
+
+Customer [starttime: 01:37 - endtime: 01:47]: Right now, it's I think it's ***** Korea. I don't know who.
+
+Agent [starttime: 01:47 - endtime: 01:55]: Might I think that's another right now? If you don't. No worries. Can you tell me the name of your train? That is possible.
+
+Customer [starttime: 01:55 - endtime: 02:02]: It's ******. ******. Hello?
+
+Agent [starttime: 02:02 - endtime: 02:08]: And the name that you mentioned is *******, right? Because I can see J. Is that you?
+
+Customer [starttime: 02:08 - endtime: 02:24]: Yeah, I go by J. I go by the name J. ******. I didn't know if they had that listed there, but that's what I go by. I go by J.
+
+Agent [starttime: 02:24 - endtime: 02:35]: All right. OK, thank you for the information. It may take me a moment to review all this information. May I put your call on hold for one or 2 minutes?
+
+Customer [starttime: 02:34 - endtime: 02:35]: Yes.
+
+Agent [starttime: 02:35 - endtime: 04:10]: Thank you. Ok, thank you for staying on the call. I really appreciate your patience. So at the check, the account is locked right now. So if you allow me a couple of seconds, I will be unlocking the account. Then you try to log in and check it. That is working for you. Also, have you tried the self service portal to unlock the account? Hello.
+
+Customer [starttime: 04:09 - endtime: 04:12]: I'm sorry. What was the question?
+
+Agent [starttime: 04:12 - endtime: 04:18]: Have you tried the self service portal to unlock or change the password?
+
+Customer [starttime: 04:18 - endtime: 04:21]: No, I didn't. They just told me to call y'all.
+
+Agent [starttime: 04:21 - endtime: 04:41]: No worries, No worries. Ok, that's it. I have unlocked your account. Ok, now try to log in and check if that is working for you.
+
+Customer [starttime: 04:40 - endtime: 04:46]: Oh, my gosh. Now, my keyboard's not working.
+
+Agent [starttime: 04:46 - endtime: 04:49]: To unplug it and plug it back.
+
+Customer [starttime: 04:49 - endtime: 05:04]: Thank you. No, it's not in the working.
+
+Agent [starttime: 05:04 - endtime: 05:11]: Ok, try another port or try to close the fields and relaunch it.
+
+Customer [starttime: 05:11 - endtime: 05:16]: Ok, let me just see. Let me relaunch my system because it was just working.
+
+Agent [starttime: 05:16 - endtime: 05:57]: Ok, you can do that as well. Just launch the system.
+
+Customer [starttime: 05:56 - endtime: 06:29]: Hello? Hello?
+
+Agent [starttime: 06:28 - endtime: 06:38]: Hello.
+
+Customer [starttime: 06:38 - endtime: 06:44]: The system's coming up, so it just came back on from rebooting. So just give me a moment.
+
+Agent [starttime: 06:44 - endtime: 07:50]: Yeah, Yeah. Take your time.
+
+Customer [starttime: 07:50 - endtime: 08:24]: I'm pay for your.
+
+Agent [starttime: 08:23 - endtime: 08:47]: Hello. Thanks. For. Calling. Is it working in the keyboard? Like when you start the system? Yeah. The keyboard.
+
+Customer [starttime: 08:46 - endtime: 08:56]: Is working now. I just got to see if if my account is unlocked. I'm just trying to get into it right now. I'm trying to get to her.
+
+Agent [starttime: 08:55 - endtime: 09:22]: Take your time.
+
+Customer [starttime: 09:22 - endtime: 09:55]: Thank. You very much.
+
+Agent [starttime: 09:55 - endtime: 10:29]: Please. Continue. To. Hold.
+
+Customer [starttime: 10:28 - endtime: 10:31]: I'm almost there.
+
+Agent [starttime: 10:31 - endtime: 10:59]: No, it's *******. Take your time. Just let me know. Ok, so let me log into the set.
+
+Customer [starttime: 10:58 - endtime: 11:02]: Ok? It looks like it's going to let me in now.
+
+Agent [starttime: 11:02 - endtime: 11:05]: Ok, so it's working for you.
+
+Customer [starttime: 11:05 - endtime: 11:08]: Yeah, it's, Yeah, its loading.
+
+Agent [starttime: 11:08 - endtime: 11:14]: All right, all right. So should I consider you that in the all now?
+
+Customer [starttime: 11:14 - endtime: 11:19]: Yeah, everything's resolved. Do you have a.
+
+Agent [starttime: 11:19 - endtime: 11:27]: Ticket number. I'm sorry. Please, go ahead. You're saying something?
+
+Customer [starttime: 11:27 - endtime: 11:29]: Oh, do you have a reference number?
+
+Agent [starttime: 11:29 - endtime: 12:01]: Yeah, I will provide you the reference number. So just allow me one minute. Let me get the ticket for you. Then I will provide you the reference number, mentioning all the things that we have done on the call, including your keyboard as well as the account. Ok. Ok, so, *******, is there anything else apart from this that I can help you with?
+
+Customer [starttime: 12:01 - endtime: 12:06]: No, that was all. That was the only answer that I was telling you.
+
+Agent [starttime: 12:05 - endtime: 12:12]: Ok, so I've created a ticket for you. Just let me know when you're ready to write down the ticket number.
+
+Customer [starttime: 12:12 - endtime: 12:13]: I'm ready.
+
+Agent [starttime: 12:13 - endtime: 12:29]: Ok, so it's Inc. That is India. November Charlie. ******. No No. ***.
+
+Customer [starttime: 12:29 - endtime: 12:30]: 31.
+
+Agent [starttime: 12:30 - endtime: 12:50]: Yes. ***. ***. Ok, let me debate it one more time. So it's inc. *********.
+
+Customer [starttime: 12:50 - endtime: 12:52]: Yeah.
+
+Agent [starttime: 12:52 - endtime: 13:20]: OK, so, *******, I would connect you to a short survey for this call with the first survey for the customer satisfaction. When on scale of 5 to 15 means very satisfied. And the second survey is for the first contact resolution, then we can select one, which means you're worth this. ******. First contact. Thank you for calling at the health desk. Have a great day head. *******, take care. Bye bye.
+
+Customer [starttime: 13:20 - endtime: 14:35]: You too. Bye bye. Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact, press one. If it took multiple contacts to resolve. Fantastic. This time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it. Made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One. The strongest disagreement. Remember, 7 is strongest agreement. One is strongest disagreement. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

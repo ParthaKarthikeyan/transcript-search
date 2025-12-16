@@ -1,0 +1,124 @@
+Customer [starttime: 00:15 - endtime: 00:18]: Thanks for calling. My name is.
+
+Agent [starttime: 00:18 - endtime: 00:23]: How can I assist you today? Hi. This is **** from health net provider.
+
+Customer [starttime: 00:23 - endtime: 00:30]: Service line. I cannot log in.
+
+Agent [starttime: 00:30 - endtime: 00:38]: Ok, so as I understood that you are unable to log in and are you getting any specific error message while you're trying to log in?
+
+Customer [starttime: 00:38 - endtime: 00:47]: Yeah. You saw the temporary password that I'm able to let in.
+
+Agent [starttime: 00:47 - endtime: 01:07]: So you mean your password is not accepting, right? It is not letting in? Yes. Ok, no worries. Sorry for the inconvenience because you do this, we'll definitely help you out. And before posting further, could you please help me with your BMS? ID?
+
+Customer [starttime: 01:06 - endtime: 01:12]: Um, *******.
+
+Agent [starttime: 01:12 - endtime: 01:18]: So just to make sure I have *******. Right.
+
+Customer [starttime: 01:18 - endtime: 01:19]: Yes. Perfect.
+
+Agent [starttime: 01:19 - endtime: 01:25]: Ok, and it may take me a moment to reach your information. Can I place your call on hold for the same?
+
+Customer [starttime: 01:25 - endtime: 01:26]: Yes, sure.
+
+Agent [starttime: 01:26 - endtime: 01:26]: Thank you.
+
+Customer [starttime: 01:26 - endtime: 01:43]: Please be on hold.
+
+Agent [starttime: 01:28 - endtime: 02:23]: [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] Yes. Thanks for being on hold. Please confirm your first and last name.
+
+Customer [starttime: 02:23 - endtime: 02:31]: Hold on. Thank you. Hold on, sir. Just stay in the line. Thank you.
+
+Agent [starttime: 02:30 - endtime: 02:35]: Sorry. Are you able to log in now?
+
+Customer [starttime: 02:35 - endtime: 02:36]: No, no, Yeah.
+
+Agent [starttime: 02:36 - endtime: 02:46]: Please confirm. Yeah. Just confirm your first and last name.
+
+Customer [starttime: 02:45 - endtime: 02:47]: **** ******.
+
+Agent [starttime: 02:47 - endtime: 03:04]: Okay, great. And please verify your higher date. Like EAN month.
+
+Customer [starttime: 03:03 - endtime: 03:06]: September ****.
+
+Agent [starttime: 03:06 - endtime: 03:12]: Perfect, ma'am. Can you please confirm your supervisor's name?
+
+Customer [starttime: 03:12 - endtime: 03:14]: I'm ********.
+
+Agent [starttime: 03:14 - endtime: 04:00]: Great. Thank you so much for the verification. Let me check your account first. Whether it is locked out or not. Please bear with me. Yes. Thanks for being on hold. And upon checking. Yes, your account is perfectly fine. It was not locked and it is enabled. Only could you please try to log in once again with your same old password and let me know if you are facing still any difficulties.
+
+Customer [starttime: 04:00 - endtime: 04:02]: Sure. Just.
+
+Agent [starttime: 04:02 - endtime: 04:06]: Ok.
+
+Customer [starttime: 04:06 - endtime: 04:11]: The previous password or the temporary password.
+
+Agent [starttime: 04:11 - endtime: 04:15]: So you have the temporary password with you now?
+
+Customer [starttime: 04:15 - endtime: 04:16]: Yes.
+
+Agent [starttime: 04:16 - endtime: 04:23]: So recently your password got. I mean, updated, right?
+
+Customer [starttime: 04:22 - endtime: 04:23]: Yes.
+
+Agent [starttime: 04:23 - endtime: 04:39]: Ok, Ok, try once with your. Actually, I can see that you have already updated your password. If you have already updated, please log in with your updated password.
+
+Customer [starttime: 04:38 - endtime: 04:43]: Yeah, I will use the temporary password.
+
+Agent [starttime: 04:42 - endtime: 04:52]: Ok, then once try to log in using the temporary password. If it is still same, we'll reset your password. No worries.
+
+Customer [starttime: 04:51 - endtime: 05:06]: Ok, just hold on.
+
+Agent [starttime: 04:59 - endtime: 05:08]: Hello.
+
+Customer [starttime: 05:08 - endtime: 05:55]: Welcome to my lecture. Hello. Thanks for having me. Hello. Welcome to my. Lecture. Sorry, but I'm not able to log in using the temporary password.
+
+Agent [starttime: 05:54 - endtime: 05:59]: So what is the error message that you're getting?
+
+Customer [starttime: 05:59 - endtime: 06:06]: Yep. It shows incorrect password.
+
+Agent [starttime: 06:06 - endtime: 07:07]: Ok, no worries. I will reset your password just a second. And I also would like to inform you that you have an option to reset your password using our password reset link. And this can be accessible from your open network and it can be accessible from your personal device. So I will share that link. And next time you can just use that link to update your password. Reset your password from your end. It's just simple. Ctssup support dot ont dot app. Backwards. Less password reset. So I'm going to reset it now. And just a second.
+
+Customer [starttime: 07:07 - endtime: 08:11]: Let's see. Yeah, I'm supposed to do. Yeah, yeah, I'm looking for myself a lot. I'm going to leave it. I'm looking out somebody. Somebody.
+
+Agent [starttime: 08:11 - endtime: 09:33]: Yes. Thanks for being on hold. And could you please note down your new password? Hello? Still there? Yes. The new password would be lowercase Y for yellow. And uppercase E for echo. And lowercase S for Sam. Number 5. And uppercase K for kilo. An uppercase S for Sam. An uppercase T for tango. Number 5. An uppercase N for November. An uppercase K for kilo and lowercase X for X ray and uppercase S for Sam. That's it. Please follow the password criteria and update your password and let me know if you are facing any difficulties.
+
+Customer [starttime: 09:33 - endtime: 10:00]: Just to confirm it's Y for young. For case B for echo lowercase S for Sam. 5 uppercase T for Kalo. Uppercase S for some upper case T for tango 5 uppercase N for November for case T for Kelo. Lower case X for x ray upper case X.
+
+Agent [starttime: 10:00 - endtime: 10:12]: Perfect. Yes. Please use the same password as your current password and temporary password and update your password and log in with your updated password and let me know.
+
+Customer [starttime: 10:12 - endtime: 10:15]: Thank you so much.
+
+Agent [starttime: 10:15 - endtime: 12:49]: Yeah, you're welcome. Yes. Thanks for being on hold still there.
+
+Customer [starttime: 12:49 - endtime: 12:51]: Uh, hello. The agent is currently.
+
+Agent [starttime: 12:51 - endtime: 12:59]: On the password. Ok, thanks for update. And please let me know once you're back. Ok?
+
+Customer [starttime: 12:59 - endtime: 13:03]: Ok, thank. Hello. Hello.
+
+Agent [starttime: 13:03 - endtime: 13:07]: Yes, ****.
+
+Customer [starttime: 13:07 - endtime: 13:10]: Thank you for assisting me. I'm able to let you know.
+
+Agent [starttime: 13:10 - endtime: 13:16]: Great. Sounds really good. And is there anything else I can do to help apart from this?
+
+Customer [starttime: 13:16 - endtime: 13:18]: No.
+
+Agent [starttime: 13:18 - endtime: 13:30]: Yes. **** and I also would like to provide one ticket number regarding this issue. And if you have any further difficulties to log in your account, you just use this ticket as your reference. Ok?
+
+Customer [starttime: 13:30 - endtime: 13:32]: Yeah. Ok, just.
+
+Agent [starttime: 13:32 - endtime: 14:21]: Yeah. Just a second, please. Yes, ****, Thank you so much for being on hold. Could you please note down your ticket number?
+
+Customer [starttime: 14:21 - endtime: 14:27]: Yep. Go on.
+
+Agent [starttime: 14:26 - endtime: 14:43]: Yeah. The ticket number would be R for Romeo E for Echo Q for Queen. *********.
+
+Customer [starttime: 14:43 - endtime: 14:45]: Thank you.
+
+Agent [starttime: 14:44 - endtime: 15:04]: Ok. And ****, one more thing. I would like to connect. One shot. We post this call for service for customer satisfaction weren'tified to 15 satisfied and second service for first contact resolution where you can select to one, which means your issue was resolved in the first contact. It was nice talking to you. Thank you for contacting. I tell the support. Have a great day. Take care. Bye bye.
+
+Customer [starttime: 15:04 - endtime: 15:09]: Thank you. Bye bye. Thanks for giving.
+
+Agent [starttime: 15:09 - endtime: 15:10]: Us a few minutes of your time to.
+

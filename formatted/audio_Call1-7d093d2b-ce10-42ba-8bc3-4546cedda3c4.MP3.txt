@@ -1,0 +1,104 @@
+Speaker 1 [starttime: 00:08 - endtime: 00:15]: Thank you for contacting test support. My name is ******. How can I help you today?
+
+Speaker 3 [starttime: 00:15 - endtime: 00:27]: Hello. This is *****. My name is ****. I'm calling with Wellcare. I was trying to log into my AWS extended PCP and it will not load.
+
+Speaker 1 [starttime: 00:27 - endtime: 00:42]: Okay, so as I can understand, you're unable to log into the AWS site, Ma'am. Am I getting any error message? While I'm just trying to log into the AWS?
+
+Speaker 3 [starttime: 00:42 - endtime: 00:48]: It said cannot open.
+
+Speaker 1 [starttime: 00:48 - endtime: 01:00]: I'm really sorry for the inconvenience cost to you, ma'am. I'll definitely help you with that. So can you please help me with your BMS ID?
+
+Speaker 3 [starttime: 01:00 - endtime: 01:02]: Do what?
+
+Speaker 1 [starttime: 01:01 - endtime: 01:05]: UBS ID. Ma'am.
+
+Speaker 3 [starttime: 01:04 - endtime: 01:11]: Sorry. 8 7.
+
+Speaker 1 [starttime: 01:11 - endtime: 01:25]: Thank you so much for the confirmation. And can you please help me with your first and last name? Your first and last name, ma'am?
+
+Speaker 3 [starttime: 01:24 - endtime: 01:26]: **** ********.
+
+Speaker 1 [starttime: 01:26 - endtime: 02:10]: Thank you so much for the confirmation, ma'am. So, ma'am, can you please do one thing? Can you please unplug all the cables from the back of your CPU and hold the power button for 30 seconds and repack it back again? Please unplug all the cables, including the power cable as well. Thank. You.
+
+Speaker 2 [starttime: 02:10 - endtime: 02:32]: Thank you.
+
+Speaker 1 [starttime: 02:32 - endtime: 02:45]: Thank.
+
+Speaker 2 [starttime: 02:45 - endtime: 03:17]: You. Thank you. Thank you. Thank you. Thank you. Thank it.
+
+Speaker 1 [starttime: 03:17 - endtime: 03:44]: Thank. You. You. Thank. Thank. You.
+
+Speaker 2 [starttime: 03:44 - endtime: 04:34]: Thank you. Thank you. Thank you. Thank very much. you Thank you. Thank you.
+
+Speaker 1 [starttime: 04:34 - endtime: 04:46]: Thank.
+
+Speaker 2 [starttime: 04:46 - endtime: 05:03]: You. Thank you. Thank you. Thank you. Ok.
+
+Speaker 1 [starttime: 05:03 - endtime: 06:35]: Thank. You. Very. Much. Okay. Let's. Stop.
+
+Speaker 2 [starttime: 06:35 - endtime: 07:00]: This. Another commander said. It.
+
+Speaker 1 [starttime: 07:00 - endtime: 07:20]: Ok. Thank. You. Thank. You. Thank. You.
+
+Speaker 2 [starttime: 07:20 - endtime: 11:24]: Ok. Thank you. Thank. You. Thank you. Thank you. Thank you. Thank you. Ok. Thank you. It's.
+
+Speaker 1 [starttime: 11:24 - endtime: 25:51]: Thank. You. Thank. You. Thank. You. Thank you so much. And *******, ma'am, are you doing? Are you doing the powdery? Hello? Hello, ma'am, is still there. Hello? Hello? Mama is still there. Are we still connected? Please let me know if you still need assistance. I've entered anything from you. Would you still like to get assistance? The ma'am. I'm still there. Yeah, ma'am. So have you done the troubleshooting?
+
+Speaker 3 [starttime: 25:51 - endtime: 25:54]: I still have it.
+
+Speaker 1 [starttime: 25:53 - endtime: 26:18]: Yes, ma'am. Can you please try to reflug it back?
+
+Speaker 2 [starttime: 26:18 - endtime: 26:49]: Thank. You. Thank you. Thank you.
+
+Speaker 1 [starttime: 26:48 - endtime: 26:53]: Hello. Thanks. Calling. For.
+
+Speaker 2 [starttime: 26:53 - endtime: 27:23]: Thank you.
+
+Speaker 1 [starttime: 27:23 - endtime: 27:24]: Thank. You.
+
+Speaker 2 [starttime: 27:24 - endtime: 28:47]: Thank you. Thank. You. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank. You.
+
+Speaker 1 [starttime: 28:46 - endtime: 28:53]: Thank. You.
+
+Speaker 2 [starttime: 28:53 - endtime: 29:05]: Thank.
+
+Speaker 1 [starttime: 29:05 - endtime: 29:32]: You. Thank. You. Thank. You. Thank.
+
+Speaker 2 [starttime: 29:32 - endtime: 31:13]: You. Thank you very much. It. Thank you. Thank you. Thank you. Thank you. Thank you. Thank. You.
+
+Speaker 1 [starttime: 31:12 - endtime: 31:30]: Thank. You.
+
+Speaker 2 [starttime: 31:29 - endtime: 31:36]: Hello. Hello. Hello.
+
+Speaker 1 [starttime: 31:35 - endtime: 33:47]: Please. Stay. On. The. Line. Thank. You.
+
+Speaker 2 [starttime: 33:47 - endtime: 34:16]: Thank you. Thank you. Its.
+
+Speaker 1 [starttime: 34:16 - endtime: 34:34]: Thank. You. Thank.
+
+Speaker 2 [starttime: 34:34 - endtime: 35:11]: You.
+
+Speaker 1 [starttime: 35:10 - endtime: 35:50]: Thank. You. Thank. You. Thank. You. Yes, ma'am. Hello.
+
+Speaker 3 [starttime: 35:50 - endtime: 35:54]: OK, I think I opened.
+
+Speaker 1 [starttime: 35:53 - endtime: 36:02]: Yeah. So you have all the cables back And can you please try to log into the AWS? Ma'am, are you able to log in?
+
+Speaker 3 [starttime: 36:02 - endtime: 36:04]: Yes, sir. It opened.
+
+Speaker 1 [starttime: 36:04 - endtime: 36:17]: OK, Perfect, ma'am. So your issue got is all right. Are you able to log in, ma'am?
+
+Speaker 3 [starttime: 36:17 - endtime: 36:20]: Yes, sir. It opened.
+
+Speaker 1 [starttime: 36:20 - endtime: 37:00]: Perfect, ma'am. So can you just please allow me a moment? I'll give a ticket number for this. So, ma'am, apart from this, is there anything else that I can help you with? Yes, ma'am. So can you please note down the ticket number? Yes, ma'am. The ticket number would be Inc. I as in India N as in November C as in Charlie. *********.
+
+Speaker 3 [starttime: 37:00 - endtime: 37:07]: OK, that was inc. *********.
+
+Speaker 1 [starttime: 37:07 - endtime: 37:13]: Yes, ma'am. That's correct. So apart from this, is there anything else that I can help you with?
+
+Speaker 3 [starttime: 37:13 - endtime: 37:14]: No, sir.
+
+Speaker 1 [starttime: 37:14 - endtime: 37:37]: Thank you so much, ma'am. So, ma'am, I would connect you to a short survey Post this call with the first service for the customer satisfaction where you can read it on a scale of 5 to one where finance means very satisfied and the second survey for the first contract resolution wherein you can select one, which means that issue got all in the first contact. Thank you for contacting us. I have to support. Have a great day ahead. Bye, ma'am.
+
+Speaker 3 [starttime: 37:37 - endtime: 38:55]: You too. Bye bye. Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist On today's call? Enter from the scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact press one. If it took multiple contacts to resolve press 2 if it still has not been resolved. Fantastic this time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One. The strongest disagreement. Remember, 7 is strongest agreement. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

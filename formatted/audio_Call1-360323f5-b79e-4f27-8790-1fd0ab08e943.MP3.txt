@@ -1,0 +1,76 @@
+Agent [starttime: 00:07 - endtime: 00:13]: Hi. Thank you for calling. What idea of the support? My name is? ****** ****** is due today.
+
+Customer [starttime: 00:13 - endtime: 00:26]: Hi. I was just wondering call recently, but it got disconnected, but essentially, I was told to call today to get an update on my ticket. I've got a reference number for you.
+
+Agent [starttime: 00:26 - endtime: 00:29]: Telling me that.
+
+Customer [starttime: 00:29 - endtime: 00:42]: Yep. So it's I for India N for November C for Charlie. *********.
+
+Agent [starttime: 00:42 - endtime: 00:50]: I am C says ********. Confirm your first and your last name and your bill number, please.
+
+Customer [starttime: 00:49 - endtime: 01:06]: First name is ******. Last name is ****. BMS. Number is ******. I also have a conversation reference. I was told to quote that as well.
+
+Agent [starttime: 01:06 - endtime: 03:19]: No problem, sweetie. Second, let me check with this ticket and I'll let you know. Hold on. Thank. You. Hello. Could you just tell me the name of your campaign? Current campaign?
+
+Customer [starttime: 03:19 - endtime: 03:57]: My current campaign is NHS England V T B S. OK.
+
+Agent [starttime: 03:57 - endtime: 04:05]: Hello. Thank you for being online. Could you just tell me that previous was Netwest?
+
+Customer [starttime: 04:05 - endtime: 04:07]: Say that again? Sorry.
+
+Agent [starttime: 04:07 - endtime: 04:12]: Your previous was Netwest?
+
+Customer [starttime: 04:12 - endtime: 04:36]: No, that's the thing. My campaign has always been in NHS, but for some reason, it switched. That's why the problem arose. Hence why I couldn't log into my VPN. Because the campaign switch should still be on NHS. Yes, but you are. Yeah. Go ahead. Sorry.
+
+Agent [starttime: 04:36 - endtime: 04:42]: So previously, you're walking with necklace. And right now you're working with NHS, right? Uses ****.
+
+Customer [starttime: 04:42 - endtime: 06:14]: New campaign? No, I've always been with NHS. You've always been in care. Yeah, but someone switched me for some reason, and it should not happen.
+
+Agent [starttime: 06:13 - endtime: 06:31]: Oh, thank you for being online. Hello? Yeah, so. your ticket is with the system support team. So they're working on this ticket. So you will get the update for the ticket owner, so I'll request you to beat. Okay.
+
+Customer [starttime: 06:30 - endtime: 06:35]: How long do I have to wait? Would you reckon? Or when should I call back?
+
+Agent [starttime: 06:35 - endtime: 06:49]: You can just call back after one or 2 hours because you will get the updates on ticket name. So it's told already with systems of support, so it will take time.
+
+Customer [starttime: 06:49 - endtime: 06:55]: Sorry. How would I get the updates? Because the only way for me to get updates is really by cooling.
+
+Agent [starttime: 06:55 - endtime: 07:02]: Can you can call after time for hours or you can just call after 2 to 3.
+
+Customer [starttime: 07:02 - endtime: 07:08]: Pull off the 2 to 3 hours, Ok? No problem.
+
+Agent [starttime: 07:07 - endtime: 07:10]: Yes.
+
+Customer [starttime: 07:10 - endtime: 07:13]: When I call back, I want to quote again.
+
+Agent [starttime: 07:13 - endtime: 07:28]: Yeah. When you call back, you can just provide this ticket number to the next representative and he or she will just check with the dictate. If there is any update on the ticket mentioned by the team, they will inform you. OK?
+
+Customer [starttime: 07:28 - endtime: 07:41]: 10 problem? Yeah. You said anything else had? Yeah. Sorry. I also had a conversation reference. You told me to quote as well, if that's any help.
+
+Agent [starttime: 07:41 - endtime: 09:18]: Yeah. Yeah. I'll share the conversation reference. Hold on. Let me create that and we'll share with you. Okay, give me a second. So please be here. I'm still getting the ticket. We'll share the reference number. Okay, so please be here on this call.
+
+Customer [starttime: 09:18 - endtime: 09:24]: I also have another reference number for you. I was thought to provide.
+
+Agent [starttime: 09:24 - endtime: 09:27]: Tell me.
+
+Customer [starttime: 09:27 - endtime: 09:41]: So it's a conversation reference. It's I for India m for mother s for sugar. *********.
+
+Agent [starttime: 09:41 - endtime: 11:42]: Hold on. I'll check. Give me a second. Okay, I'll just check and let you know. Hold on. Okay. I have already created the ticket. Get the reference number. So just have a note of that reference. That's I m s. I India m Mary. S m zero zero.
+
+Customer [starttime: 11:41 - endtime: 11:43]: ***.
+
+Agent [starttime: 11:42 - endtime: 11:47]: ****.
+
+Customer [starttime: 11:47 - endtime: 11:50]: And what's this reference number?
+
+Agent [starttime: 11:50 - endtime: 12:10]: This is a reference number of this call. It's nothing more than that that, like we had the conversation about the ticket update. So this is the reference number. And for the ticket, I have already updated the ticket that you just call back for the same concern. And I just told you to wait for the updates. So I've already mentioned on this ticket only.
+
+Customer [starttime: 12:10 - endtime: 12:21]: Ok, no problem. And just to ask, because obviously I should be in work. Will my team leader? I'm pretty sure she's on the ticket as well, but will she be able to see the updates as well? Yes, Yes.
+
+Agent [starttime: 12:21 - endtime: 12:26]: Is your team leader again able to see the update from the ticket?
+
+Customer [starttime: 12:26 - endtime: 12:35]: That's fine. All right, then. Yeah, I'll pull back in 2 to 3 hours.
+
+Agent [starttime: 12:34 - endtime: 12:48]: Okay. One more thing. After this call, I'll connect to a short survey of steel 52 and farming. That is 5. So please have survey. And thank you so much. Thank you for calling my ideal support. Have a great day. Here. Take you. Bye. Bye.
+
+Customer [starttime: 12:48 - endtime: 12:49]: Thanks. Bye.
+

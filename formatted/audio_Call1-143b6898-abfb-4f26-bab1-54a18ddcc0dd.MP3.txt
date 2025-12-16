@@ -1,0 +1,242 @@
+Speaker 2 [starttime: 00:06 - endtime: 00:07]: You for calling it home?
+
+Speaker 1 [starttime: 00:07 - endtime: 00:08]: Agent Support.
+
+Speaker 2 [starttime: 00:08 - endtime: 00:09]: My name is *****.
+
+Speaker 1 [starttime: 00:09 - endtime: 00:11]: How may I help you today?
+
+Speaker 2 [starttime: 00:11 - endtime: 00:24]: Hi, *****. I was just on the phone to you for an hour. You estimated my case to get me a new PC. But you weren't responding to me.
+
+Speaker 1 [starttime: 00:24 - endtime: 00:39]: OK, I think it was someone else. I just received your call right now, and your voice is breaking. So please confirm me. How could I help you today? So you have any ticket number or anything?
+
+Speaker 2 [starttime: 00:38 - endtime: 01:19]: There's no ticket number. I was on the phone. So you're calling for an hour, so I'm not going to do it all. My name is ***** ****. My BMS ID is *******. Okay, I explained that all I have 5 ports in my the USB ports in my PC and only one is working and he goes to me. He's going to escalate it and get me a new PC and he goes to me. Wait on the line. I weigh it on the line for an hour and he did it. He just stopped replying. I could hear him breathing where he wasn't talking to me, so I don't want to do it all again. I just need to know. Has my new PC been audited?
+
+Speaker 1 [starttime: 01:19 - endtime: 01:29]: Ok, let me just go ahead and check your concern with the concern team. Whether it's been posted or what rest. I really apologize for the inconvenience because we'll show you my best.
+
+Speaker 2 [starttime: 01:29 - endtime: 01:31]: To help you out on this.
+
+Speaker 1 [starttime: 01:31 - endtime: 02:36]: So just give me a moment. I'm just trying to find the ticket if it's been created just a moment. And you said only one of the USB port is working. Is that correct?
+
+Speaker 2 [starttime: 02:36 - endtime: 03:16]: Yes. Only one is working the rest and not working. I've done everything. Every troubleshooting. I've even tried a different headset. It was in the headset. It was just a part because they worked in my laptop. He told me to reboot, restart, sent me a link. He's done everything with me and he goes, I'll get you a new one sent over. And I said, Okay, I'll wait on the line and an hour passed and he didn't even respond. So I'm only ringing back to know. Has it been sent out or will it be processed? Because, yeah, everything else? I come.
+
+Speaker 1 [starttime: 03:15 - endtime: 03:26]: Okay, I'll just check on it. And earlier, may I know when you have called? Like you have called for this today itself or you have called before that as well.
+
+Speaker 2 [starttime: 03:25 - endtime: 03:34]: I called just today. Just OK.
+
+Speaker 1 [starttime: 03:33 - endtime: 03:53]: Uh. And could you please confirm me how many ports are there in the front? There are, like, 2 ports in the front and 3 at the back.
+
+Speaker 2 [starttime: 03:53 - endtime: 03:55]: 2 at the front. 3 in the back.
+
+Speaker 1 [starttime: 03:55 - endtime: 04:26]: Yes. Okay. And only one is working. Okay, Just a moment. Please tell.
+
+Speaker 2 [starttime: 04:26 - endtime: 05:12]: Me just pulling up the details on this.
+
+Speaker 1 [starttime: 05:12 - endtime: 05:21]: I back to the team, so I'm just waiting for their response. And you.
+
+Speaker 2 [starttime: 05:21 - endtime: 05:22]: Told me.
+
+Speaker 1 [starttime: 05:22 - endtime: 05:25]: Yeah, that was one of our agents.
+
+Speaker 2 [starttime: 05:24 - endtime: 05:34]: So got it.
+
+Speaker 1 [starttime: 05:34 - endtime: 05:39]: And could you please confirm me with the PC tag number?
+
+Speaker 2 [starttime: 05:39 - endtime: 05:46]: Yeah. T *****.
+
+Speaker 1 [starttime: 05:45 - endtime: 07:27]: *****. Ok. Just. A. Moment. Please stay on the line. All right. What I'm also going to do. I'm going to send you a link on your phone. I've already.
+
+Speaker 2 [starttime: 07:27 - endtime: 07:43]: Done this. I don't. I've already done this. I've already done this. Okay? I'm frustrated now. I've already done this link to switch the pause, restart the PC. I've done every troubleshooting instead.
+
+Speaker 1 [starttime: 07:42 - endtime: 07:48]: Okay, And you don't have the ticket number with you?
+
+Speaker 2 [starttime: 07:48 - endtime: 07:52]: No, My trainer told me that it doesn't matter if I don't have one reason.
+
+Speaker 1 [starttime: 07:52 - endtime: 07:57]: Ok, All right.
+
+Speaker 2 [starttime: 07:57 - endtime: 08:16]: I know it's not your fault. And I'm sorry, but not that if you, I was on the phone for an hour with that guy, he wasted an hour of my time. You know what I mean? Like, I'm just like, I'm the best because I'm working. But, I mean, like, I'm just waiting. I just needed a response. And like, after all, again, I'm not all of.
+
+Speaker 1 [starttime: 08:16 - endtime: 08:38]: You again? Okay. And please repeat your asset, the PC tag number once again.
+
+Speaker 2 [starttime: 08:38 - endtime: 09:25]: Let me just double check here. One second. Sure. I'll just check in now on a second. So sure. ******.
+
+Speaker 1 [starttime: 09:25 - endtime: 09:30]: That would be T ******.
+
+Speaker 2 [starttime: 09:30 - endtime: 09:38]: Yeah, sorry. I think I gave the wrong one.
+
+Speaker 1 [starttime: 09:38 - endtime: 09:46]: And could you please confirm me the port that is working right now? Is that on the front or is that on the back?
+
+Speaker 2 [starttime: 09:45 - endtime: 09:55]: It's the back hole. The only one on the back is working. Okay.
+
+Speaker 1 [starttime: 09:55 - endtime: 10:02]: All right. And right now, could you please confirm me? Is your mouse or is your keyboard connected on that one?
+
+Speaker 2 [starttime: 10:02 - endtime: 10:03]: Mouse is.
+
+Speaker 1 [starttime: 10:03 - endtime: 10:15]: Only mouse is connected. And have you tried connecting your mouse on any other port?
+
+Speaker 2 [starttime: 10:15 - endtime: 10:17]: Yeah, Friday? Yes.
+
+Speaker 1 [starttime: 10:17 - endtime: 10:20]: OK, and still no light comes up.
+
+Speaker 2 [starttime: 10:20 - endtime: 10:40]: Yeah, no, I only work from that last one. And unless they do send me a new one and they send me a new headset as well for you. Because my headset does get damaged. It's, it's not. It was, it was working before, but it's a bit damaged and its ability. So if they send me in UPC, you can send me in your headset.
+
+Speaker 1 [starttime: 10:39 - endtime: 10:44]: Okay? And you said your headset is also damaged.
+
+Speaker 2 [starttime: 10:44 - endtime: 11:09]: It's not damaged. It's just a bit loose. You know, when I put it over my ears, it's not damaged for it. It's like it doesn't stay oak. You know, the mouthpiece mouthpiece. Sorry, it doesn't stay up.
+
+Speaker 1 [starttime: 11:09 - endtime: 13:03]: Thank you. Thank you. Thank. You. OK? So I have posted this to the claim. I'm just waiting for the response. I'm still waiting for the response from the team.
+
+Speaker 2 [starttime: 13:03 - endtime: 13:26]: Kindly be online. No.
+
+Speaker 1 [starttime: 13:26 - endtime: 13:33]: And could you please also confirm me? When was the last time the USB ports were working?
+
+Speaker 2 [starttime: 13:33 - endtime: 13:36]: Before loans. Today is around one o'clock.
+
+Speaker 1 [starttime: 13:35 - endtime: 13:41]: Okay, and after that, have you also tried restarting the computer as well?
+
+Speaker 2 [starttime: 13:40 - endtime: 13:47]: Yeah, I'll review it. They restarted. They held it for 30 seconds. Turn it on and off 4 times.
+
+Speaker 1 [starttime: 13:47 - endtime: 15:15]: Okay. Thank you. Thank you. Just waiting for the response from the team. Please stay on the line. And is this a new PC that you have received or it's an old one?
+
+Speaker 2 [starttime: 15:15 - endtime: 15:26]: When you say new old, you mean, is it one that I had? I think I've had, I got an upgrade, I think sometime last year, but it's like a smaller one.
+
+Speaker 1 [starttime: 15:25 - endtime: 15:29]: Okay, So you got this last year?
+
+Speaker 2 [starttime: 15:28 - endtime: 16:10]: Yeah, I think so. Yeah, last year. Okay.
+
+Speaker 1 [starttime: 16:10 - endtime: 17:01]: Thank. You. Very. Much. So *** is just checking on this. Please stay on the line. No. Problem. And you have also checked the devices on your personal device as well.
+
+Speaker 2 [starttime: 17:01 - endtime: 17:48]: Yeah. So they work on my personal device? Yeah, try anything.
+
+Speaker 1 [starttime: 17:47 - endtime: 18:07]: I'm sure you. OK? I would also need to take some picture of your devices, so I'm going to post it further to the UK team. The UKD Who?
+
+Speaker 2 [starttime: 18:07 - endtime: 18:08]: Would be creating the.
+
+Speaker 1 [starttime: 18:08 - endtime: 18:15]: But for that, I would need to take that video session so I could take the picture of that.
+
+Speaker 2 [starttime: 18:14 - endtime: 18:16]: Yeah, that's fine.
+
+Speaker 1 [starttime: 18:16 - endtime: 18:21]: All right, So please do provide me with your phone number on which I could send you the link.
+
+Speaker 2 [starttime: 18:21 - endtime: 18:30]: Yeah. Zero 7. Ok, 44.
+
+Speaker 1 [starttime: 18:29 - endtime: 18:32]: Ok.
+
+Speaker 2 [starttime: 18:31 - endtime: 18:37]: ***. OK ****.
+
+Speaker 1 [starttime: 18:36 - endtime: 18:52]: 28. OK, I'm going to send you this link with this link. I would have access for your phone camera so I would advise you to please make sure you close any of your personal or confidential information. So nothing yet recorded over the session.
+
+Speaker 2 [starttime: 18:52 - endtime: 18:57]: Yeah, that's right.
+
+Speaker 1 [starttime: 18:57 - endtime: 19:02]: All right, I'll send you the link. Once you receive it. Please open that link and allow.
+
+Speaker 2 [starttime: 19:02 - endtime: 19:04]: Access to your camera.
+
+Speaker 1 [starttime: 19:04 - endtime: 19:10]: Mmhmm.
+
+Speaker 2 [starttime: 19:10 - endtime: 19:12]: Is it cleared via email or?
+
+Speaker 1 [starttime: 19:12 - endtime: 19:17]: No, That would be a text message on your phone number.
+
+Speaker 2 [starttime: 19:17 - endtime: 19:26]: OK. Yeah, I've not received it yet. I'll repeat the.
+
+Speaker 1 [starttime: 19:26 - endtime: 19:34]: Number. Once again, that would be 74. ********.
+
+Speaker 2 [starttime: 19:34 - endtime: 19:36]: No, ****.
+
+Speaker 1 [starttime: 19:35 - endtime: 19:57]: Ok, that's my bat. Just give me a moment. Let me just send it to you. Once again.
+
+Speaker 2 [starttime: 19:57 - endtime: 20:00]: I'll send you the link.
+
+Speaker 1 [starttime: 19:59 - endtime: 20:03]: Kindly check.
+
+Speaker 2 [starttime: 20:02 - endtime: 20:33]: Mmhmm. Just waiting on it now. Sure. Still not received it. You want to try by email? Maybe?
+
+Speaker 1 [starttime: 20:33 - endtime: 20:39]: Yeah, I'll surely send it to you over the email. Please provide me with your email.
+
+Speaker 2 [starttime: 20:38 - endtime: 21:25]: I'm on ***** **@*****.***. Just a moment.
+
+Speaker 1 [starttime: 21:25 - endtime: 21:42]: Thank. You. All right? I'll send you the link. Once you receive it, please open that link and allow access to your camera.
+
+Speaker 2 [starttime: 21:42 - endtime: 22:03]: Ok, let me check this one. Sure. Ok, I'll receive it on. This is the.
+
+Speaker 1 [starttime: 22:03 - endtime: 22:26]: CPU that you have? Okay. Yeah. Can you show me the tag number on this CPU? OK, could you please move your phone camera near? OK, can you show me the cables? Data connected right now?
+
+Speaker 2 [starttime: 22:26 - endtime: 22:38]: At the moment, this is the keyboard. And these 2, here is the, that's the mouse at the back. And this one is the.
+
+Speaker 1 [starttime: 22:38 - endtime: 22:43]: Ok, so could you please show me your mouse?
+
+Speaker 2 [starttime: 22:43 - endtime: 22:47]: Showing the light as it. Mouse. That's the mouse.
+
+Speaker 1 [starttime: 22:47 - endtime: 22:52]: Ok, we have power on the mouse. And can you show me the keyboard?
+
+Speaker 2 [starttime: 22:52 - endtime: 22:54]: Yeah, there is a keyboard.
+
+Speaker 1 [starttime: 22:54 - endtime: 23:02]: Could you please try pressing the caps lock or anything? Do we get any light on the keyboard?
+
+Speaker 2 [starttime: 23:02 - endtime: 23:05]: No light.
+
+Speaker 1 [starttime: 23:04 - endtime: 23:18]: Ok, so there's no light on the keyboard. Ok, could you please try to, OK, that's fine. Let me just post this. And what about the headset you were saying? Could you please show me?
+
+Speaker 2 [starttime: 23:17 - endtime: 23:22]: Yeah. So this is the head. This is the one I've got at the moment.
+
+Speaker 1 [starttime: 23:22 - endtime: 24:00]: So when I lift this and I put it on my head, this just drops. Okay, so it can't be replaced. That's fine. Well, yeah, because for the headset, it won't be able to go with the replacement or the headset, because this is something you could say won't be considered as an issue if it's working fine. So for the final, Yeah, for the CPU, I'm going to post this further. I've already collected the images. So can you be online? Yeah. And by the time I'm doing this, may I please place the call on hold for a minute or 2?
+
+Speaker 2 [starttime: 24:00 - endtime: 24:01]: Yeah, that's it.
+
+Speaker 1 [starttime: 24:01 - endtime: 24:03]: Please, ******, I'll just get back to you. Thank you.
+
+Speaker 2 [starttime: 24:03 - endtime: 24:20]: Thank you.
+
+Speaker 1 [starttime: 24:05 - endtime: 27:01]: [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] Thank. [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] You for being on hold. I appreciate your time and patience.
+
+Speaker 2 [starttime: 27:00 - endtime: 27:01]: Mmhmm.
+
+Speaker 1 [starttime: 27:01 - endtime: 27:11]: All right, So I've already posted this issue to the concern team just waiting for the response on this. So as soon as I get a response, I'll just update you with the same.
+
+Speaker 2 [starttime: 27:11 - endtime: 27:12]: Yeah, that's fine. Thank you.
+
+Speaker 1 [starttime: 27:12 - endtime: 27:19]: All right, please stay on the line, and I'll be putting the call back on hold. Once I get a response, I'll just get back to you.
+
+Speaker 2 [starttime: 27:18 - endtime: 27:27]: Please stay the on line. Thank you. You're welcome.
+
+Speaker 1 [starttime: 27:22 - endtime: 31:29]: [MUSIC] [MUSIC] [MUSIC] Hello? [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] To. Welcome. My. Lecture. [MUSIC] [MUSIC] Hello? [MUSIC] Yeah. [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] You for being on hold. I appreciate your time and patience. All right, I'm checking this with the team. I've already got the response. So can you please stay online? Let me just confirm Whatever.
+
+Speaker 2 [starttime: 31:29 - endtime: 31:31]: They will guide us with.
+
+Speaker 1 [starttime: 31:31 - endtime: 31:33]: Please stay on line.
+
+Speaker 2 [starttime: 31:33 - endtime: 31:39]: Thank you.
+
+Speaker 1 [starttime: 31:35 - endtime: 31:41]: [MUSIC]
+
+Speaker 2 [starttime: 31:39 - endtime: 31:57]: Hello.
+
+Speaker 1 [starttime: 31:47 - endtime: 31:59]: [MUSIC]
+
+Speaker 2 [starttime: 31:58 - endtime: 32:03]: Welcome lecture. my to
+
+Speaker 1 [starttime: 31:59 - endtime: 32:27]: [MUSIC] [MUSIC] [MUSIC]
+
+Speaker 2 [starttime: 32:26 - endtime: 32:40]: Hello.
+
+Speaker 1 [starttime: 32:40 - endtime: 33:22]: Thanks. For. Calling. [MUSIC] [MUSIC] You for being on hold. I appreciate your time and patience. OK, so you'll be getting a call from one of the agents from the UK team. You're also going to connect with you. Also, just confirm me. Have you tried swapping the ports like, have you tried connecting all the devices at the back of your CPU?
+
+Speaker 2 [starttime: 33:22 - endtime: 33:39]: Yes. I've tried everything. Yes. OK. Is it? Are they ringing me now? 780? Is that?
+
+Speaker 1 [starttime: 33:39 - endtime: 35:40]: The one? Yeah, that must be him calling you. All right, So I've checked this with the team that you're saying.
+
+Speaker 2 [starttime: 35:40 - endtime: 35:41]: To drop the call.
+
+Speaker 1 [starttime: 35:41 - endtime: 35:51]: So I'm going to drop this call now and you're already connected with the end user, the person from the UK. So they are going to assist you further.
+
+Speaker 2 [starttime: 35:51 - endtime: 35:52]: And post the call.
+
+Speaker 1 [starttime: 35:52 - endtime: 35:58]: The call would be redirected to a survey within the first service for customer satisfaction on the scale of 15.
+
+Speaker 2 [starttime: 35:57 - endtime: 35:58]: Satisfaction.
+
+Speaker 1 [starttime: 35:58 - endtime: 36:05]: And thank you for choosing your major support. You have a wonderful day ahead.
+
+Speaker 2 [starttime: 36:04 - endtime: 39:20]: Thanks for giving us a few minutes of your time to complete the IT HelpDesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. We did not get your response. Please try again. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. We did not get your response. Please try again. If your issue was resolved in one contact press one. If it took multiple contacts to resolve press 2 If it still has not been resolved, Press 3. We did not get your response. Please try again. If your issue was resolved in one contact press one. If it took multiple contacts to resolve, press 2 If it still has not been resolved, press 3. We did not get your response. Please try again This time. Enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One The strongest disagreement. Remember 7 is strongest agreement. One is strongest disagreement. We did not get your response. Please try again this time. Enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One The strongest disagreement. Remember 7 is strongest agreement. One is strongest disagreement. We did not get your response. Please try again.
+

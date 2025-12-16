@@ -1,0 +1,120 @@
+Speaker 1 [starttime: 00:09 - endtime: 00:15]: You for contacting it? Health desk. My name is *****. How may I help you?
+
+Speaker 2 [starttime: 00:15 - endtime: 00:22]: Hi, *****. I can't connect to be able to get. And that's why I'm calling you.
+
+Speaker 1 [starttime: 00:22 - endtime: 00:31]: Ok, so sorry for the inconvenience, ma'am. May I know. Is there any other you're getting on the screen while connecting a global product? Well, let's.
+
+Speaker 2 [starttime: 00:30 - endtime: 00:52]: Yeah. So connection failed. The root tool adapter was not set up correctly due to a deal was protected soon. If the issue versus try restarting your system. I tried that. I tried restarting the system twice. Yeah, it's still showing the same.
+
+Speaker 1 [starttime: 00:52 - endtime: 00:58]: Ok, so still, you're getting the same, right?
+
+Speaker 2 [starttime: 00:58 - endtime: 01:19]: Just a moment. Sorry. Yeah, that was the error that was showing me a couple of times, even after restarting the system. So I just tried it again. Yeah, it's still the same. It just keeps loading, but nothing's happening.
+
+Speaker 1 [starttime: 01:19 - endtime: 01:29]: Ok, so sorry for the inconvenience, ma'am. I haven't tried to resolve an issue. Can you please help me with your BMS number? Your employer ID.
+
+Speaker 2 [starttime: 01:28 - endtime: 01:34]: Yeah, it's *******.
+
+Speaker 1 [starttime: 01:33 - endtime: 02:02]: Ok, so it will take me a moment to review information. May I put you a on hold for the same?
+
+Speaker 2 [starttime: 02:02 - endtime: 02:13]: That's so funny.
+
+Speaker 1 [starttime: 02:13 - endtime: 03:00]: I'm. Yeah. Thank you so much for being on hold. Hello?
+
+Speaker 2 [starttime: 02:59 - endtime: 03:00]: Yeah, sure.
+
+Speaker 1 [starttime: 03:00 - endtime: 03:06]: Go ahead. Yeah. May I know your name, please? Your first and last name for verification?
+
+Speaker 2 [starttime: 03:06 - endtime: 03:12]: Yeah, absolutely. So it should be unaccounted or XXXA.
+
+Speaker 1 [starttime: 03:12 - endtime: 03:17]: Yeah, that's correct. And who is the supervisor?
+
+Speaker 2 [starttime: 03:17 - endtime: 03:20]: Its nausea.
+
+Speaker 1 [starttime: 03:20 - endtime: 03:24]: And let me know you're hiring it, ma'am.
+
+Speaker 2 [starttime: 03:24 - endtime: 03:26]: I'm sorry.
+
+Speaker 1 [starttime: 03:26 - endtime: 03:30]: May I know your hiring date?
+
+Speaker 2 [starttime: 03:29 - endtime: 03:42]: My hiring date? Well, that was, uh, the day I started was May 12, ****.
+
+Speaker 1 [starttime: 03:41 - endtime: 03:52]: But it's not 12, ma'am. So can you please reconfirm the month and year once again, what is the month and year?
+
+Speaker 2 [starttime: 03:51 - endtime: 03:55]: May **** ** April 2025?
+
+Speaker 1 [starttime: 03:55 - endtime: 04:03]: No, it's not. April. May is correct. And let you know your job description, please.
+
+Speaker 2 [starttime: 04:02 - endtime: 04:09]: Oh, just a moment. I am Customer relations.
+
+Speaker 1 [starttime: 04:09 - endtime: 04:27]: Ok, and help me with your site, location, your office location. Ok, thank you so much for providing this information. And I just want to confirm that your username will be jagged dot 4 5, right?
+
+Speaker 2 [starttime: 04:27 - endtime: 04:29]: Yes, that's correct.
+
+Speaker 1 [starttime: 04:29 - endtime: 04:38]: OK, ma'am. And may I know what is the username for your global product?
+
+Speaker 2 [starttime: 04:37 - endtime: 04:41]: Username for my global product? What you need.
+
+Speaker 1 [starttime: 04:41 - endtime: 04:50]: What credentials are you are using to connect your global Protect. What username and password are you using to get in?
+
+Speaker 2 [starttime: 04:50 - endtime: 05:02]: Oh, that would be my. The VW email and password.
+
+Speaker 1 [starttime: 05:01 - endtime: 05:08]: What is the email, ma'am? What email are you entering your global?
+
+Speaker 2 [starttime: 05:07 - endtime: 05:15]: Yeah. Extern dot annoped. ****** at a w dot.
+
+Speaker 1 [starttime: 05:15 - endtime: 05:26]: Ok, so, yeah, you're not using jugs dot 45 at teleperformance Username teleperformance usa dot com. It has a different username, right?
+
+Speaker 2 [starttime: 05:26 - endtime: 05:35]: Yes. So for global protect, we use VW.
+
+Speaker 1 [starttime: 05:35 - endtime: 06:24]: Okay, thank you for providing this information. Just give me a moment. I'm looking at the account. Yeah, thank you for being online. So can you just help me with the error message again? What is the error you're getting there on your screen?
+
+Speaker 2 [starttime: 06:23 - endtime: 06:41]: Okay, so the error message connection failed. The virtual adapter was not set up correctly due to a delay. Global product will try again soon if the issue says by restarting your system.
+
+Speaker 1 [starttime: 06:40 - endtime: 06:55]: Ok, so you're getting added that the connection has been failed and the virtual adapter was not set up due to delay. Can you please reconfirm it once again? Yes.
+
+Speaker 2 [starttime: 06:55 - endtime: 06:58]: Yes, that's correct.
+
+Speaker 1 [starttime: 06:57 - endtime: 07:02]: That's correct. Can you please reconfirm the added once again, ma'am?
+
+Speaker 2 [starttime: 07:02 - endtime: 07:16]: Yeah, Okay, so it says connection failed. The virtual adapter was not set up correctly due to a deal. Local protect will try again soon. If the issue processes, try restarting your system.
+
+Speaker 1 [starttime: 07:16 - endtime: 07:59]: And you have restarted your system for multiple times, right? OK, so just do that, ma'am. Perform the power drain once. So just plug out every cable from your CPU. Plug out the line cable, the power cable and everything, every cable from your CPU. Then click on the CPU power button for 25 to 30 seconds. Just do a long quest for 30 seconds, then release it and wait for 34 minutes. And then try to log. Assemble all the cables again and then try to log in again in a system and check whether you're getting the same error or not. Ok.
+
+Speaker 2 [starttime: 07:59 - endtime: 08:09]: So you want me to restart it by after disconnecting everything and connecting it back, right?
+
+Speaker 1 [starttime: 08:09 - endtime: 08:20]: Yeah. OK, I'm so sorry for the inconvenience causing you, ma'am.
+
+Speaker 2 [starttime: 08:20 - endtime: 09:40]: This is fine to help you. I do appreciate it. Everything. Like how disconnected everything. I'm not taking my attention. No. Breakfast.
+
+Speaker 1 [starttime: 09:39 - endtime: 09:46]: Let's. See?
+
+Speaker 2 [starttime: 09:46 - endtime: 10:37]: When we started. Here. OK, so I have restarted the system. Ok, let me try. Let me try to go back again.
+
+Speaker 1 [starttime: 10:36 - endtime: 10:55]: OK, ma'am.
+
+Speaker 2 [starttime: 10:55 - endtime: 11:23]: Okay. Okay. So it looks like it has connected.
+
+Speaker 1 [starttime: 11:23 - endtime: 12:03]: OK, it's working fine now. OK, check it properly. Let me know, ma'am. Ok.
+
+Speaker 2 [starttime: 12:03 - endtime: 13:00]: OK. So it looks like everything is working perfect.
+
+Speaker 1 [starttime: 13:00 - endtime: 13:13]: OK, so it's working fine. Perfect. Now it's working fine. Yes. OK, ma'am. So, is there anything else I can do to help you other than this?
+
+Speaker 2 [starttime: 13:13 - endtime: 13:16]: That's it. May I please get the ticket number?
+
+Speaker 1 [starttime: 13:16 - endtime: 15:26]: Yeah, just hold on. I'll provide you a ticket number for the same. OK, give me a moment, please. Hello. Thanks. For. Calling. Thank you so much for being online. Hello.
+
+Speaker 2 [starttime: 15:26 - endtime: 15:30]: Yes, please.
+
+Speaker 1 [starttime: 15:29 - endtime: 15:35]: Yeah. So please note down the ticket number, ma'am. Are you ready?
+
+Speaker 2 [starttime: 15:34 - endtime: 15:39]: Yes. I'm ready.
+
+Speaker 1 [starttime: 15:39 - endtime: 16:17]: You for being online? Let me know once you're ready, please go ahead. Yeah. So the ticket number will be. I as in India N as in November C as in Charlie. *********. I repeat. Inc. *********. Did you get it? Yes. Ok, And is there anything else I can do to help you? Apart from this?
+
+Speaker 2 [starttime: 16:17 - endtime: 16:20]: No, that actually.
+
+Speaker 1 [starttime: 16:20 - endtime: 16:56]: OK, ma'am. So post this call. I'll connect you to a short survey where you can date our services on a scale of 5 to one where 5 is very satisfied in the first survey. And in the second survey you can select one here. In the second survey, one means your issue has been resolved in first content. So before disconnecting the call, just listen to the ivy carefully and please provide us good rating. The survey really matters for me for this month. So please attempt the survey. I'm requesting to you and thank you for contacting. It helps Have a great day and goodbye. And please attempt the survey member. Bye.
+
+Speaker 2 [starttime: 16:56 - endtime: 18:38]: Of course. Thank you so much. Bye. Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from the scale of one to 5 with 5 being very satisfied and one thank you. If your issue was resolved in one contact press one. If it took multiple contacts to resolve. Fantastic this time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One The strongest disagreement. Remember, 7 is strongest agreement. One is strongest disagreement. We did not get your response. Please try again this time. Enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, 7 is the strongest agreement. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

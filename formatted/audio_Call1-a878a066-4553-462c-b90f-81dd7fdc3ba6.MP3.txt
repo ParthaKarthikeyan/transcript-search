@@ -1,0 +1,218 @@
+Speaker 1 [starttime: 00:05 - endtime: 00:12]: Thank you for calling center Ivy helmets. My name is **** ****. How may I assist you?
+
+Speaker 2 [starttime: 00:12 - endtime: 00:43]: Yes, ma'am. I was calling in today because for some reason my computer keeps locking me off saying my internet connection is failed. I have internet through spectrum. I have good internet. Everything else in my house that's connected with the internet such as the phone or my other computer and stuff. It's not knocking off, but only this keep knocking off. OK?
+
+Speaker 1 [starttime: 00:43 - endtime: 00:51]: May I know where you're trying to log in on the computer and where you're getting the error message? Is it a VPN?
+
+Speaker 2 [starttime: 00:51 - endtime: 01:33]: I'm getting. I'm getting it at multiple places. I'm getting it on the Citrix workspace When I sign into UHC. Uh, also, when I was able to get through UAC and I tried to sign in on my other side, the GI side, I couldn't even sign in there. It was telling me that. Hold on. Let me look at it because I had sent it to my supervisor. All the messages I had done. This. Hold on.
+
+Speaker 1 [starttime: 01:33 - endtime: 01:39]: Meanwhile, please provide me your message.
+
+Speaker 2 [starttime: 01:37 - endtime: 02:00]: *******. It says cannot find the file. It can, uh, connection. Citrix Workspace app will try to reconnect. Then it says the connection to CCUS. UHC would lost. Then it just was. Give me a spinning thing.
+
+Speaker 1 [starttime: 02:00 - endtime: 02:23]: Ok. Hi. Confirm your VMS ID. That's *******. Right.
+
+Speaker 2 [starttime: 02:22 - endtime: 02:24]: Yes.
+
+Speaker 1 [starttime: 02:23 - endtime: 02:29]: Please confirm your full name.
+
+Speaker 2 [starttime: 02:28 - endtime: 02:30]: ******* ******.
+
+Speaker 1 [starttime: 02:30 - endtime: 02:39]: Also provide me your login username.
+
+Speaker 2 [starttime: 02:39 - endtime: 02:52]: Uh, login username. That's the hold on. That's a harley dot 81 at teleperforms usa dot com.
+
+Speaker 1 [starttime: 02:52 - endtime: 03:08]: Thank you, *******. Now, *******, can you please provide me your contact number so I can send a camera link to you on it?
+
+Speaker 2 [starttime: 03:08 - endtime: 03:10]: Say that again.
+
+Speaker 1 [starttime: 03:10 - endtime: 03:22]: Please provide me your contact number so I can send a camera link to you on it.
+
+Speaker 2 [starttime: 03:22 - endtime: 03:30]: My contact number is *********.
+
+Speaker 1 [starttime: 03:29 - endtime: 03:55]: Thank you. I will be sending you a camera on this number. You will be receiving the link on your phone in a text message. Please connect to the link and show me your computer screen. It will be a video session. So hide your confidential data with the camera. I repeat your number. It is *********.
+
+Speaker 2 [starttime: 03:54 - endtime: 04:06]: Yeah. ***. Sorry. **********.
+
+Speaker 1 [starttime: 04:06 - endtime: 04:34]: Thank. You. Did. You receive the link?
+
+Speaker 2 [starttime: 04:34 - endtime: 04:37]: I'm opening it up.
+
+Speaker 1 [starttime: 04:37 - endtime: 04:48]: Ok.
+
+Speaker 2 [starttime: 04:47 - endtime: 05:17]: You need that money. That's how they did. Its car. Who are you talking to? Who are you talking to about? Who are you talking to about? Because this last time I checked, I paid you annuals 7 days. I'm on the phone. Bye. Yes, ma'am. That's my screen.
+
+Speaker 1 [starttime: 05:16 - endtime: 05:23]: Ok, now please log out from your citrus. Please sign out.
+
+Speaker 2 [starttime: 05:22 - endtime: 05:24]: It's done out.
+
+Speaker 1 [starttime: 05:24 - endtime: 06:11]: Yes, ma'am. Also close your all other applications. Done now. Yes. Thank you. Now please do a right click on the screen. Click on session. Do not open the VDI. Close the VDI. Please do not open the VIII. Right click session and click on Announce Now. After 30 seconds you will need to again click on announce now. Ok.
+
+Speaker 2 [starttime: 06:11 - endtime: 06:13]: After what?
+
+Speaker 1 [starttime: 06:12 - endtime: 06:19]: Seconds After 30 seconds.
+
+Speaker 2 [starttime: 06:19 - endtime: 06:23]: I don't know if you're saying 13 or 30. Just tell me when to do it again.
+
+Speaker 1 [starttime: 06:23 - endtime: 06:46]: Yeah, sure. I'll let you know.
+
+Speaker 2 [starttime: 06:46 - endtime: 06:53]: Oh, my big. So hurts. Jesus.
+
+Speaker 1 [starttime: 06:53 - endtime: 07:21]: Please do a right click and announce again. Thank you. Thank. You.
+
+Speaker 2 [starttime: 07:21 - endtime: 07:46]: Hello.
+
+Speaker 1 [starttime: 07:45 - endtime: 08:10]: I'm connected on the line. Thank you. No. Please do a right click again and click on or announce.
+
+Speaker 2 [starttime: 08:09 - endtime: 08:24]: Ok.
+
+Speaker 1 [starttime: 08:24 - endtime: 08:47]: Please connect the camera link. Tell your show. What. Now? Please do a right click and shut down the computer.
+
+Speaker 2 [starttime: 08:47 - endtime: 08:57]: None. It just shuts while the blue light's still on. Right? So it's shutting out completely.
+
+Speaker 1 [starttime: 08:56 - endtime: 09:17]: Ok, no worries, but I guess the box. There. You. Go now. From the back of your CPU box. Remove the power cable and the Internet cable.
+
+Speaker 2 [starttime: 09:17 - endtime: 09:42]: All right. I'm sitting this phone down. OK, Thank you. All that. OK one. Let's see. Yeah. All right. Both of those have been unflugged successfully. Okay.
+
+Speaker 1 [starttime: 09:42 - endtime: 09:54]: Now, the other end of the same Internet cable is connected to your WiFi box directly. Or are you using any external booster in between?
+
+Speaker 2 [starttime: 09:53 - endtime: 09:56]: No, it's just a direct connect.
+
+Speaker 1 [starttime: 09:56 - endtime: 10:05]: Ok, then please remove the internet cable from your wifi box as well and turn off the wi fi box.
+
+Speaker 2 [starttime: 10:05 - endtime: 10:07]: All right, give me a moment.
+
+Speaker 1 [starttime: 10:07 - endtime: 10:13]: Sure.
+
+Speaker 2 [starttime: 10:13 - endtime: 10:31]: I'm going to talk to you. All right? Ok, Ok.
+
+Speaker 1 [starttime: 10:31 - endtime: 10:38]: Now, let the devices be off for a while. I'll let you know when you have to turn them on, OK?
+
+Speaker 2 [starttime: 10:38 - endtime: 10:40]: All right.
+
+Speaker 1 [starttime: 10:40 - endtime: 12:26]: Thank you. Just to let you know I'm connected on the line. Thank you. I'm so connected on the line. Thank you. Ok, Now, first you will need to turn on your wifi box only turn it on. Do not connect the internet cable to it. Only turn it on.
+
+Speaker 2 [starttime: 12:25 - endtime: 12:28]: All right, give me a minute.
+
+Speaker 1 [starttime: 12:27 - endtime: 12:36]: Thank you.
+
+Speaker 2 [starttime: 12:36 - endtime: 12:44]: All right. It's coming on.
+
+Speaker 1 [starttime: 12:44 - endtime: 13:54]: Once the wifi box is completely up, please let me know. I'm connected on the line. Thank you. Ok, Yes. Now please add the internet cable to your wifi box.
+
+Speaker 2 [starttime: 13:54 - endtime: 13:58]: OK, I have the Internet cable. Ok?
+
+Speaker 1 [starttime: 13:58 - endtime: 14:15]: OK, now, please connect the other end to the computer. Connect the power cable as well to the computer and turn on the computer.
+
+Speaker 2 [starttime: 14:09 - endtime: 14:33]: Hello. Welcome to my. Lecture. It. OK, Why turn it back on?
+
+Speaker 1 [starttime: 14:32 - endtime: 14:41]: Yes. Turn on the computer.
+
+Speaker 2 [starttime: 14:38 - endtime: 15:44]: Thank. You very much. Thank. You. Very much. OK, it has came back in the.
+
+Speaker 1 [starttime: 15:43 - endtime: 16:00]: OK, then Talicia, please reconnect the camera link because I'm not able to see a computer to reconnect the link and show me the computer, please.
+
+Speaker 2 [starttime: 16:00 - endtime: 16:08]: Ok, I'm still on there, but I don't see a real allowed thing. So I'm going to have to end it and go back into the text again.
+
+Speaker 1 [starttime: 16:07 - endtime: 16:20]: Yes. Completely close the link and open the link again.
+
+Speaker 2 [starttime: 16:19 - endtime: 16:29]: Dummy is very bad. Is that you? All right? I'm back in.
+
+Speaker 1 [starttime: 16:28 - endtime: 16:45]: OK, now please do a right click and click on configuration. Configuration.
+
+Speaker 2 [starttime: 16:45 - endtime: 16:46]: Which one?
+
+Speaker 1 [starttime: 16:46 - endtime: 16:51]: Under the session, there is a configuration. Click on configuration, please.
+
+Speaker 2 [starttime: 16:51 - endtime: 16:54]: Oh, configuration.
+
+Speaker 1 [starttime: 16:53 - endtime: 17:23]: Yeah. Now take the camera close to it as I require the host name of your computer. Yeah. NTD B as a Bravo 88584, Alpha zero E one 5. Ok, now let me try to connect to your computer. Ok, allow me a few moments, please.
+
+Speaker 2 [starttime: 17:23 - endtime: 17:26]: All right, Do you guys?
+
+Speaker 1 [starttime: 17:26 - endtime: 18:06]: Thank you. Ok. Ok, I'm connected to your computer. Now let me have a look.
+
+Speaker 2 [starttime: 18:06 - endtime: 18:08]: Yes, ma'am.
+
+Speaker 1 [starttime: 18:08 - endtime: 19:05]: Thank you. Please log in into your VDI. Now.
+
+Speaker 2 [starttime: 19:05 - endtime: 19:07]: Say that again.
+
+Speaker 1 [starttime: 19:06 - endtime: 19:10]: Login in the VDI, please.
+
+Speaker 2 [starttime: 19:10 - endtime: 19:13]: All right.
+
+Speaker 1 [starttime: 19:13 - endtime: 20:45]: Thank you. Just to let you know I'm connected on the line. Thank you. I'm connected on the line. Thank you. Ok, as I see that, you have logged in in the video now. OK, is it just the US stop?
+
+Speaker 2 [starttime: 20:45 - endtime: 20:50]: Yeah. Now you see it at the top the of connection? I don't know why it keeps.
+
+Speaker 1 [starttime: 20:50 - endtime: 20:52]: This item.
+
+Speaker 2 [starttime: 20:51 - endtime: 20:53]: Yeah.
+
+Speaker 1 [starttime: 20:53 - endtime: 21:11]: *******, let me tell you that this is not because of your internet. This error comes for us as well. It is just like it's an issue with the desktop itself. So it happens with us as well. For that, we just need to relaunch the desktop again. That's all.
+
+Speaker 2 [starttime: 21:11 - endtime: 21:14]: If you could get it whenever.
+
+Speaker 1 [starttime: 21:14 - endtime: 21:24]: Yeah, that is no problem with that. You can just relaunch the deck of multiple times if you get this error.
+
+Speaker 2 [starttime: 21:24 - endtime: 22:29]: Keep on getting while you. Yeah, I keep on getting while I'm in class and stuff. And that's kind of disturbing. Getting knocked on. Have to resign back into, like almost 35, almost literally 35 apps and stuff. And now I'm still, I'm missing stuff in training day and we've got to get on calls and stuff tomorrow.
+
+Speaker 1 [starttime: 22:29 - endtime: 25:05]: Didn't. Let's wait for it. Wait for everything until it gets loaded up. Ok, check for your applications. Now. Let me see if you have a sentinel on the start menu on that one moment, please. No, that is lower. Ok, check for your applications whether they work or not.
+
+Speaker 2 [starttime: 25:04 - endtime: 25:14]: Hey, Hello. I'm here, but I can't find up. There you go. I couldn't find my mouth for a minute.
+
+Speaker 1 [starttime: 25:13 - endtime: 25:16]: Ok.
+
+Speaker 2 [starttime: 25:15 - endtime: 26:17]: Let's see here.
+
+Speaker 1 [starttime: 26:17 - endtime: 26:59]: I'm connected on the line. Thank you. Is it working fine?
+
+Speaker 2 [starttime: 26:59 - endtime: 27:10]: This is one of the things I have to get into. I'm waiting because it's supposed to make a call and then, OK, it'll let me know whether it's doing it now.
+
+Speaker 1 [starttime: 27:10 - endtime: 27:13]: Mmhmm.
+
+Speaker 2 [starttime: 27:12 - endtime: 27:52]: Ok, that's set up. Now I have to go back and set up all my other stuff. It. So once I get it all set up again, if it does set it again and knock me out, I had to reboot or cut off and start all over again.
+
+Speaker 1 [starttime: 27:52 - endtime: 27:55]: Yes, you will need to.
+
+Speaker 2 [starttime: 27:55 - endtime: 28:09]: Oh, no. I will not be doing that all day. Let me go over here and see my number right now. You say they're not me Who moved down? Oh, yeah. Instead of just.
+
+Speaker 1 [starttime: 28:09 - endtime: 28:31]: Instead of just a normal reboot, you can do a announce what we have done right now. The announce 3 times in 30 seconds of interval. Only just do an ounce. Now 3 times in 30 seconds of interval. And then in the last, you can restart the computer, that's all.
+
+Speaker 2 [starttime: 28:30 - endtime: 29:00]: Yeah, it's getting into all these apps all over again doing that all day. Like I told, we literally got to get almost into 35 apps. Before we can get started, we got to go to Microsoft. Check. Give them Microsoft. We got to go to T, my TP platform. We got to do all the UAC stuff for Jacobs. And all of this meant that keeps knocking me out. And I said we do all of that.
+
+Speaker 1 [starttime: 29:00 - endtime: 29:20]: Yes, we can understand that it's very thick to open all of the apps again.
+
+Speaker 2 [starttime: 29:20 - endtime: 29:34]: Hello.
+
+Speaker 1 [starttime: 29:34 - endtime: 29:55]: Welcome. To. My. Lecture.
+
+Speaker 2 [starttime: 29:54 - endtime: 30:12]: Hello. Thanks for calling.
+
+Speaker 1 [starttime: 30:12 - endtime: 30:20]: Seems like its working, right? *******.
+
+Speaker 2 [starttime: 30:20 - endtime: 30:25]: I'm just letting my supervisor know that. Yeah, me out.
+
+Speaker 1 [starttime: 30:25 - endtime: 30:37]: Sure. I'll provide you a ticket number as well for thislicia. If, in case it happens again, please do let us know with this ticket number. Ok?
+
+Speaker 2 [starttime: 30:37 - endtime: 30:39]: All right.
+
+Speaker 1 [starttime: 30:38 - endtime: 30:45]: Thank you kindly. Please have a note of the ticket number.
+
+Speaker 2 [starttime: 30:44 - endtime: 30:48]: I'm ready. I am seeing.
+
+Speaker 1 [starttime: 30:47 - endtime: 30:51]: ***.
+
+Speaker 2 [starttime: 30:50 - endtime: 30:55]: Yes.
+
+Speaker 1 [starttime: 30:52 - endtime: 30:57]: ******.
+
+Speaker 2 [starttime: 30:57 - endtime: 31:00]: All right.
+
+Speaker 1 [starttime: 30:59 - endtime: 31:04]: OK, is there anything else I can help you with?
+
+Speaker 2 [starttime: 31:04 - endtime: 31:07]: No, I'm done.
+
+Speaker 1 [starttime: 31:06 - endtime: 31:19]: Ok, Thank you. ******* and I will be connecting you to a short survey. Posted this call ready for surveys for customer satisfaction. And on this scale of 5 to one where 5 minutes. Very satisfied. And the second service for first contact is.
+

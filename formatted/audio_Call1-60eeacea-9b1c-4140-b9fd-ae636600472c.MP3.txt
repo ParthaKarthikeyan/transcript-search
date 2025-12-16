@@ -1,0 +1,68 @@
+Speaker 2 [starttime: 00:08 - endtime: 00:13]: My name is ******.
+
+Speaker 1 [starttime: 00:13 - endtime: 00:16]: Hello? Are you there?
+
+Speaker 2 [starttime: 00:16 - endtime: 00:20]: Yes, you are. Audible. How can I assist you today?
+
+Speaker 1 [starttime: 00:20 - endtime: 00:36]: Yeah, this is **** ******. I work with TP. Yes, I am having login problems. I get a message that says my account is locked. I need to get it unlocked. Please.
+
+Speaker 2 [starttime: 00:36 - endtime: 00:48]: No problem. Can you please help me with your BMS account number to proceed further?
+
+Speaker 1 [starttime: 00:44 - endtime: 00:51]: *******.
+
+Speaker 2 [starttime: 00:50 - endtime: 00:55]: Ok, help me with your full name.
+
+Speaker 1 [starttime: 00:55 - endtime: 01:02]: **** * A R Y Last name. *******. H A R W E L L.
+
+Speaker 2 [starttime: 01:01 - endtime: 01:23]: Thank you so much for the confirmation. It may take me a moment to review this details. Please be online. Thank you.
+
+Speaker 3 [starttime: 01:20 - endtime: 01:55]: Hello? Yeah. Please continue to hold. Your business is to us. important Please continue to hold. Hello. I'm doing this. Hello? Hello? Hello.
+
+Speaker 2 [starttime: 01:55 - endtime: 02:11]: You for being online? I appreciate your patience. So upon checking the ad tool, I found your account is logged to unlock your account. We need to proceed with the security check. Questions. Help me with your higher date mania.
+
+Speaker 1 [starttime: 02:11 - endtime: 02:19]: That is January 29th, ****.
+
+Speaker 2 [starttime: 02:19 - endtime: 02:25]: Ok, help me with your supervisor name.
+
+Speaker 1 [starttime: 02:25 - endtime: 02:36]: Um, ****** ******. And she got a second last night, which I don't have in front of me.
+
+Speaker 2 [starttime: 02:35 - endtime: 02:41]: Ok, help me with your site. Location.
+
+Speaker 1 [starttime: 02:41 - endtime: 02:46]: Please. Remote in the United States.
+
+Speaker 2 [starttime: 02:46 - endtime: 02:59]: Thank you so much for the information proceeding with account. And look, stay with me.
+
+Speaker 3 [starttime: 02:59 - endtime: 03:16]: Can you tell me what you're trying to do?
+
+Speaker 2 [starttime: 03:16 - endtime: 03:21]: OK? Unlocked your account. Could you please give it a try?
+
+Speaker 1 [starttime: 03:21 - endtime: 03:43]: Ok. Ok, we're good. Ok, so give me an I and C number. That will be good.
+
+Speaker 2 [starttime: 03:42 - endtime: 03:48]: Yeah, I have a request number for you. REQ number. Let me know once you're ready to note it.
+
+Speaker 1 [starttime: 03:48 - endtime: 03:50]: I'm ready.
+
+Speaker 2 [starttime: 03:50 - endtime: 04:19]: So it's R E Q Romeo, Echo. Quebec ***. ***. OK, ***. Could you please repeat that for me?
+
+Speaker 1 [starttime: 04:14 - endtime: 04:27]: ******. R A Q *********.
+
+Speaker 2 [starttime: 04:27 - endtime: 04:38]: Yeah, it's re Q Romeo Echo.
+
+Speaker 1 [starttime: 04:37 - endtime: 04:40]: Yeah. Keep going.
+
+Speaker 2 [starttime: 04:40 - endtime: 04:46]: Yeah, it's R. Romeo. Yeah, *****.
+
+Speaker 1 [starttime: 04:46 - endtime: 04:55]: R Romeo quality *********.
+
+Speaker 2 [starttime: 04:54 - endtime: 05:01]: Yeah, that's correct, sir. Is there anything else that I can help you with apart from this?
+
+Speaker 1 [starttime: 05:01 - endtime: 05:05]: That's it. I'm just go to work now. OK, Thank you for your assistance.
+
+Speaker 2 [starttime: 05:05 - endtime: 05:38]: You have. All right, Yeah. Thank you. And I would suppose this call. I will connect you to a short survey with the first survey for customer satisfaction, wherein we can read on a scale of **** ** very satisfied. And the second survey is for first contact resolution wherein you can select one, which means your issue was resolved in first contact. Is that OK for you? Hello? Sounds good. Thank you. Thank you for calling support. Have a great day. Bye bye. Take care.
+
+Speaker 1 [starttime: 05:38 - endtime: 05:39]: You too.
+
+Speaker 2 [starttime: 05:39 - endtime: 05:42]: Thank you.
+
+Speaker 3 [starttime: 05:42 - endtime: 07:07]: Thanks for giving us a few minutes of your time to complete the IT helps desk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call, Enter from the scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. We did not get your response. Please try again. How satisfied were you with the assistance you had from the IT specialist on today's call, Enter from a scale of one to 5 with 5 being very satisfied and one thank you. If your issue was resolved in one contact press one. If it took multiple contacts to read. Fantastic this time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it. Made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One the strongest disagreement. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

@@ -1,0 +1,136 @@
+Speaker 1 [starttime: 00:06 - endtime: 00:13]: You for calling it support. My name is ******** *****. How may I help you today?
+
+Speaker 2 [starttime: 00:12 - endtime: 00:25]: Hello. Good morning. My CPU. WAHA is not working. It's not. OK. Fine, ma'am.
+
+Speaker 1 [starttime: 00:24 - endtime: 00:32]: Uh, may I know, what is the error message you are getting when you try to start your computer?
+
+Speaker 2 [starttime: 00:32 - endtime: 00:48]: Yes, I'm trying to restart it. And then there's a good amount that is coming inside the CTU and it's not open. Ok.
+
+Speaker 1 [starttime: 00:48 - endtime: 00:55]: Fine. From your concern is that you are getting on from the CPU and it's not turning on. Am I right?
+
+Speaker 2 [starttime: 00:55 - endtime: 00:59]: Yes. From my ICP.
+
+Speaker 1 [starttime: 00:59 - endtime: 01:04]: Fine. Can you help me with your BMS number? Your employer ID number.
+
+Speaker 2 [starttime: 01:04 - endtime: 01:32]: Um, *******. Thank you. It. Ok, fine, ma'am.
+
+Speaker 1 [starttime: 01:31 - endtime: 01:37]: Uh, may I know your first name and the last name?
+
+Speaker 2 [starttime: 01:37 - endtime: 01:42]: Please. ***** **** ******. Thank.
+
+Speaker 1 [starttime: 01:42 - endtime: 01:57]: You can you please unplug all the cables from the back of the CPU, including the power cable as well. And then press and hold the power button for.
+
+Speaker 2 [starttime: 01:57 - endtime: 01:59]: 30 seconds.
+
+Speaker 1 [starttime: 01:58 - endtime: 02:06]: And then reflect the cable and restart the system.
+
+Speaker 2 [starttime: 02:06 - endtime: 02:26]: OK, yeah. I called the bottom at the backside of the computer, right? Yes. And then I'll.
+
+Speaker 1 [starttime: 02:26 - endtime: 02:31]: Try and hold the power button for 30 seconds.
+
+Speaker 2 [starttime: 02:31 - endtime: 02:34]: Ok, away.
+
+Speaker 1 [starttime: 02:33 - endtime: 03:05]: Unplug each and every cable, including the power cable as well. Hello.
+
+Speaker 2 [starttime: 03:05 - endtime: 03:38]: Welcome to my lecture. Hello. Welcome to my lecture. I think there is the same issue.
+
+Speaker 1 [starttime: 03:38 - endtime: 04:26]: Fine. Can you please press and hold the power button for 30 seconds and then the battery system. Do the hard reboot of your system and then restart it?
+
+Speaker 2 [starttime: 04:26 - endtime: 04:39]: Yes. And so I tried to hard review this view and after 30 seconds, I opened it up It. Ok, thank you.
+
+Speaker 1 [starttime: 04:39 - endtime: 04:48]: And is this the new CPU? Have you got any replacement for the CPU?
+
+Speaker 2 [starttime: 04:48 - endtime: 05:01]: This is not new. I think 3 months ago, 3 months ago. Thank you. Or I forget the exact one. Fine, ma'am.
+
+Speaker 1 [starttime: 05:01 - endtime: 05:06]: And can you help me with the serial number for the CPU?
+
+Speaker 2 [starttime: 05:06 - endtime: 05:20]: Serial number of CPU?
+
+Speaker 1 [starttime: 05:13 - endtime: 05:22]: Hello.
+
+Speaker 2 [starttime: 05:22 - endtime: 05:56]: my lecture. Welcome to It. Excuse me. Hello? Yes, please. The general number is *****. 5 one.
+
+Speaker 1 [starttime: 05:56 - endtime: 06:09]: Fine. Thank. You. Please take an connected. I'm escalating your issue to Noval 2 team just waiting for my team to respond.
+
+Speaker 2 [starttime: 06:09 - endtime: 06:21]: Thank you.
+
+Speaker 1 [starttime: 06:21 - endtime: 06:30]: And beep sound is coming from the CPU. Am I right? Yes.
+
+Speaker 2 [starttime: 06:30 - endtime: 07:09]: Thank you.
+
+Speaker 1 [starttime: 07:09 - endtime: 07:23]: Ma'am, can you please check the serial number once again and let me know. For. A. While.
+
+Speaker 2 [starttime: 07:22 - endtime: 07:35]: OK, its b. Its boy its b like boy and then 4 zeros and then e.
+
+Speaker 1 [starttime: 07:35 - endtime: 07:49]: Ma'am, that is not the serial number for the CPO. Ma'am. That will be the 10 digit number for the serial number.
+
+Speaker 2 [starttime: 07:49 - endtime: 08:12]: Ok, let me try this one. DA. I EV 10 U. G *****.
+
+Speaker 1 [starttime: 08:12 - endtime: 09:07]: Thank. You. Please stay connected. I have escalated your issue to a available team just waiting for my team to respond. And may I know your login procedure? You are using a VPN machine or the VDI machine.
+
+Speaker 2 [starttime: 09:07 - endtime: 09:11]: V machine. It's VDI.
+
+Speaker 1 [starttime: 09:11 - endtime: 09:27]: Thank. You. And can you please verify your address? Your home address.
+
+Speaker 2 [starttime: 09:26 - endtime: 09:44]: Blackened malago tree. Brandi 171 that was born. Thank you.
+
+Speaker 1 [starttime: 09:44 - endtime: 11:46]: Please stay connected. I've escalated the issue. I'm just waiting for my team to respond. And can you help me with your contact number?
+
+Speaker 2 [starttime: 11:39 - endtime: 11:53]: ***********.
+
+Speaker 1 [starttime: 11:53 - endtime: 12:03]: I'm so sorry, ma'am. Can you please repeat that? Once again? I'm proceeding for the CPU replacement. And please help me with your contact number.
+
+Speaker 2 [starttime: 12:03 - endtime: 12:33]: OK? No problem. It's ***********. Thank you.
+
+Speaker 1 [starttime: 12:33 - endtime: 12:43]: Please allow me a moment. I'm proceeding for the CPU replacement. Give me a second for that.
+
+Speaker 2 [starttime: 12:43 - endtime: 13:21]: Ok, thank you so much. Thank you.
+
+Speaker 1 [starttime: 13:21 - endtime: 14:03]: Please. Line. The. On. Stay.
+
+Speaker 2 [starttime: 14:03 - endtime: 14:13]: Thank you.
+
+Speaker 1 [starttime: 14:13 - endtime: 15:59]: You're. Welcome. You for your time and patience. Can you help me with your supervisor name?
+
+Speaker 2 [starttime: 15:50 - endtime: 17:24]: Hello. Welcome to my lecture. Thank you.
+
+Speaker 1 [starttime: 17:24 - endtime: 17:54]: Thank. You. Very. Much. You for your time and patience. Please bring online. I'm still working on it.
+
+Speaker 2 [starttime: 17:53 - endtime: 19:46]: Yeah, sure. Thank you.
+
+Speaker 1 [starttime: 19:46 - endtime: 24:15]: Hello. Thanks. For. Calling. Thank you for your time and patience. Please be online. I'm still working on it. Thank you for your time and patience. Please be online. I'm still working on it. Yes, ma'am. Are you there?
+
+Speaker 2 [starttime: 24:14 - endtime: 24:16]: Yes, I'm here.
+
+Speaker 1 [starttime: 24:16 - endtime: 25:58]: Thank you, ma'am. Please stay connected. I'm still working on it. Thank you for your time and patience. Please make a note for the ticket number for the VDI CPU replacement. Ok. It's going to be I as in India. OK N as in November. C as in Charlie.
+
+Speaker 2 [starttime: 25:58 - endtime: 26:01]: Ok.
+
+Speaker 1 [starttime: 25:59 - endtime: 26:04]: ***.
+
+Speaker 2 [starttime: 26:03 - endtime: 26:08]: I'm very sorry. Can you repeat that again?
+
+Speaker 1 [starttime: 26:07 - endtime: 26:20]: Yeah, it's Inc. I for India and for November C for Charlie. ***.
+
+Speaker 2 [starttime: 26:20 - endtime: 26:23]: Ok.
+
+Speaker 1 [starttime: 26:21 - endtime: 26:32]: ***. ***.
+
+Speaker 2 [starttime: 26:31 - endtime: 26:33]: ***. Yes.
+
+Speaker 1 [starttime: 26:33 - endtime: 26:50]: Number 3. Number 2. Number 8. Ok. It will take around 2 to 3 business days to ship the location. The new VDI CPO.
+
+Speaker 2 [starttime: 26:49 - endtime: 26:51]: Ok, thank you.
+
+Speaker 1 [starttime: 26:51 - endtime: 26:58]: Thank you so much. Is there anything else apart from this I can help you with.
+
+Speaker 2 [starttime: 26:57 - endtime: 27:00]: Um, none.
+
+Speaker 1 [starttime: 27:00 - endtime: 27:23]: Fine. Thank you so much. Before I let you go, I will connect you to a short survey post. We have a survey for the customer satisfaction. In a scale of 5 children. 5 means very satisfied and second service is for the first contact resolution. You can select one which means your issue are resolving first contact.
+
+Speaker 2 [starttime: 27:22 - endtime: 27:24]: Ok, thank you so much.
+
+Speaker 1 [starttime: 27:24 - endtime: 27:29]: Thank you for contacting it. Help us Have a nice day.
+
+Speaker 2 [starttime: 27:28 - endtime: 29:26]: Thank you. Thank you. Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from the scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact, press one. If it took multiple contacts to resolve press 2 if it still has not been resolved, press 3. Fantastic. This time. Enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it. Made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One The strongest disagreement. Remember, 7 is strongest agreement. One is strongest disagreement. We did not get your response. Please try again this time. Enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One The strongest disagreement.
+

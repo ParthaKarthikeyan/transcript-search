@@ -1,0 +1,76 @@
+Speaker 1 [starttime: 00:06 - endtime: 00:12]: For calling ID home. My name is ****. How may I assist you today?
+
+Speaker 2 [starttime: 00:12 - endtime: 00:23]: Hello. I'm trying to log on to this, but it's 11 bucks out, and I'll tell you what it says now. Sorry.
+
+Speaker 1 [starttime: 00:22 - endtime: 00:27]: I'm sorry, Miss. Can you please come again? Where are you trying to log in?
+
+Speaker 2 [starttime: 00:27 - endtime: 00:40]: Yeah, sorry. I'm trying to log into the computer to log on, but it's another locked out of the actual desktop when I log in with me. Username and password.
+
+Speaker 1 [starttime: 00:40 - endtime: 00:47]: Ok, can you, like, help me with your BMS number?
+
+Speaker 2 [starttime: 00:46 - endtime: 00:54]: Yeah, it is *******.
+
+Speaker 1 [starttime: 00:53 - endtime: 01:01]: Thank you. Allow me a moment. Ok, may I know your first name and last name?
+
+Speaker 2 [starttime: 01:01 - endtime: 01:04]: Yeah, it's ****** *******.
+
+Speaker 1 [starttime: 01:04 - endtime: 01:13]: Thank you. So what's the exact error message comes when you try to log in?
+
+Speaker 2 [starttime: 01:13 - endtime: 01:34]: So when I was trying to log in, I was putting my username or password. It said I've got locked out. So when I tried to log in through any connect, you know, through the VPN, it keeps saying authentication filed. OK, so I'm just completely locked.
+
+Speaker 1 [starttime: 01:34 - endtime: 01:41]: Out of the computer. Can you please verify me a higher date?
+
+Speaker 2 [starttime: 01:41 - endtime: 01:50]: And I think it's a 17th of February ****.
+
+Speaker 1 [starttime: 01:50 - endtime: 01:54]: May I know your supervisor name?
+
+Speaker 2 [starttime: 01:54 - endtime: 01:57]: Georgia Dot.
+
+Speaker 1 [starttime: 01:57 - endtime: 02:01]: Can you work for which campaign?
+
+Speaker 2 [starttime: 02:01 - endtime: 02:03]: Not west.
+
+Speaker 1 [starttime: 02:03 - endtime: 02:08]: Ok, and what username you use for login?
+
+Speaker 2 [starttime: 02:07 - endtime: 02:11]: ******* *******.
+
+Speaker 1 [starttime: 02:11 - endtime: 02:39]: Please stay connected. Checking with your account. And there is also a new update. So always log into the VPN first, then only to the system. Ok, now you will not be able to get into the system until you log into VPN. Ok, I'm pulling up your profile and I will check it. Let me put your call on hold for 2 minutes while I check on this information.
+
+Speaker 2 [starttime: 02:38 - endtime: 02:40]: Yeah, no problem.
+
+Speaker 1 [starttime: 02:40 - endtime: 05:16]: Thank you. Please stay connected. Hello. Hello. Thank you for being all in, miss. Thank you for your patience. I have unlocked your account. You can try to log in now and check it, but to the VPN first, then to the system.
+
+Speaker 2 [starttime: 05:16 - endtime: 05:19]: Yeah. You were to study your wallet. Try?
+
+Speaker 1 [starttime: 05:19 - endtime: 05:51]: Yeah, yes, you can check it. Please try to the VPN first because you need to connect with that because it changed for everyone from. Yesterday. If there's an update.
+
+Speaker 2 [starttime: 05:51 - endtime: 05:55]: Yeah. And mouth. Thank you.
+
+Speaker 1 [starttime: 05:55 - endtime: 05:59]: Both the VPN and the system.
+
+Speaker 2 [starttime: 05:59 - endtime: 06:03]: Yes, VPN and the actual computer. Yes.
+
+Speaker 1 [starttime: 06:03 - endtime: 06:08]: Perfect. So anything else apart from this I can do to help?
+
+Speaker 2 [starttime: 06:08 - endtime: 06:10]: No, that was everything. Thank you.
+
+Speaker 1 [starttime: 06:10 - endtime: 06:16]: Thank you. I've created an incident number for the call reference. Please note it down.
+
+Speaker 2 [starttime: 06:16 - endtime: 06:20]: OK, one moment.
+
+Speaker 1 [starttime: 06:20 - endtime: 06:34]: Yeah, its Inc. I as in Indigo N as in November C. As in Charlie. *********.
+
+Speaker 2 [starttime: 06:34 - endtime: 06:41]: So I N C *********.
+
+Speaker 1 [starttime: 06:41 - endtime: 06:45]: Yes. Correct. Was I able to resolve your issue today?
+
+Speaker 2 [starttime: 06:45 - endtime: 06:47]: Yes, that's everything. Thank you.
+
+Speaker 1 [starttime: 06:47 - endtime: 06:52]: Thank you. And anything else. Apart from this, I can do to help.
+
+Speaker 2 [starttime: 06:52 - endtime: 06:54]: No, that's it. Thank you.
+
+Speaker 1 [starttime: 06:54 - endtime: 07:20]: Thank you, Miss. I would connect you now to a very short survey Post this call where the first survey is for customer satisfaction on scale of 5 to 15 means way satisfied. And the second survey is for first contact resolution. You can select one which means your issue carry information was resolved in first contact with me. Thanks for contacting it. Health desk support. Have a great day. Bye bye. Take care. Thank you. Have a wonderful day.
+
+Speaker 2 [starttime: 07:20 - endtime: 08:23]: Thank you so much. Thank you. Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from a scale of one to 5 with 5 being very satisfied and one very thank you. If your issue was resolved in one contact press one. If it took multiple times. Fantastic this time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One the strongest disagreement. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

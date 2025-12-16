@@ -1,0 +1,196 @@
+Speaker 2 [starttime: 00:06 - endtime: 00:13]: Thank you for calling ID. Home agent support. My name is *****. How may I help you today?
+
+Speaker 1 [starttime: 00:12 - endtime: 00:20]: Yeah, my name is ****. I was speaking to somebody just a minute together. When the call drops. I'm just trying to see if I can pick back up.
+
+Speaker 2 [starttime: 00:20 - endtime: 00:29]: Sure, I'll help you. Please do. Let me know. How may I help you today and really apologize for the inconvenience first?
+
+Speaker 1 [starttime: 00:29 - endtime: 00:48]: No, Absolutely. Basically, I got a new phone. And ever since I got a new phone, I am unable to sign into service now to put in tickets or anything. So he's telling me that my 6 digit code from the application is incorrect. I'm not sure how to fix it.
+
+Speaker 2 [starttime: 00:48 - endtime: 00:53]: Ok, don't worry. Just check one again and I'll guide you on this before that.
+
+Speaker 1 [starttime: 00:53 - endtime: 00:56]: Could you please confirm me the name and your.
+
+Speaker 2 [starttime: 00:55 - endtime: 00:59]: PMS ident once again.
+
+Speaker 1 [starttime: 00:59 - endtime: 01:06]: My name is ****** ******, and the band ID is *******.
+
+Speaker 2 [starttime: 01:05 - endtime: 01:20]: All right. Thank you so much for that information. And could you please confirm me recently? Did you change your phone or anything like that?
+
+Speaker 1 [starttime: 01:20 - endtime: 01:22]: Yeah, I did get a new phone.
+
+Speaker 2 [starttime: 01:22 - endtime: 01:28]: OK, and did you got the MFA setup done for your account for your teleper performance?
+
+Speaker 1 [starttime: 01:28 - endtime: 01:43]: Yeah. You guys helped me set it up last week. You guys helped me set it up, but we couldn't get it to work. They sent me over to GSI Tech Support or ADG and they couldn't have me to call you guys again.
+
+Speaker 2 [starttime: 01:42 - endtime: 01:49]: Okay. And could you please confirm me? Like what username do you use to sign into the service now?
+
+Speaker 1 [starttime: 01:49 - endtime: 01:55]: Yeah, its **** dot o dot walden. Atperformers usa dot com.
+
+Speaker 2 [starttime: 01:55 - endtime: 02:08]: All right, So when you put in that, put in the email and does it ask you for enter a code over there?
+
+Speaker 1 [starttime: 02:08 - endtime: 02:25]: No, it pops up Once I put it in, it pops up with the toad on the screen that I have to type into the authentication. OK, And then after that, it asked me for a 6 digit code from the app. And the 6 code doesn't work. It just says it's incorrect.
+
+Speaker 2 [starttime: 02:25 - endtime: 03:08]: OK, all right, just give me a minute. Let me just check your account, please. Just a moment. Also, what I'm going to do. I'm going to provide you with the link. I would like you to please open this link on your work. computer on your browser so we could check further on this. So just a moment. Let me just create one for you. OK? I've got the link. The link is myhealthscreen dot com.
+
+Speaker 1 [starttime: 03:08 - endtime: 03:11]: Is that N Y? And what was that for that?
+
+Speaker 2 [starttime: 03:11 - endtime: 03:34]: It's my help. M Y h for Hotel E for Echo. L for Lima. Yes, myhealthscreen dot com. After that, put a slash and then type in the number. The number is ******.
+
+Speaker 1 [starttime: 03:33 - endtime: 03:42]: ***. It wants me to download something.
+
+Speaker 2 [starttime: 03:41 - endtime: 03:46]: Yes. Please go ahead and download that.
+
+Speaker 1 [starttime: 03:45 - endtime: 03:47]: Download it.
+
+Speaker 2 [starttime: 03:47 - endtime: 03:54]: Yes. Allow that.
+
+Speaker 1 [starttime: 03:54 - endtime: 03:57]: What is this going to do?
+
+Speaker 2 [starttime: 03:57 - endtime: 04:04]: With this, I would have access for your computer, so I'll be able to troubleshoot on it. So.
+
+Speaker 1 [starttime: 04:04 - endtime: 04:14]: That's it.
+
+Speaker 2 [starttime: 04:14 - endtime: 04:26]: So, yeah, before taking this video session, I would advise you to please make sure that you close any of your personal or confidential information so nothing gets recorded over the session.
+
+Speaker 1 [starttime: 04:26 - endtime: 04:28]: Yeah, everything's closed.
+
+Speaker 2 [starttime: 04:28 - endtime: 04:47]: All right, That's wonderful. Just your screen then. OK, could you show me your service now, page?
+
+Speaker 1 [starttime: 04:47 - endtime: 04:54]: Where? You're trying to log it. The page for it.
+
+Speaker 2 [starttime: 04:54 - endtime: 05:06]: Yes. Please open your service. Now.
+
+Speaker 1 [starttime: 05:06 - endtime: 05:07]: You want me to sign into it?
+
+Speaker 2 [starttime: 05:07 - endtime: 05:12]: Yes. Please go ahead and sign into this.
+
+Speaker 1 [starttime: 05:12 - endtime: 05:25]: Let me use. This to the news is the ability to authenticate.
+
+Speaker 2 [starttime: 05:24 - endtime: 05:26]: Ok.
+
+Speaker 1 [starttime: 05:26 - endtime: 05:31]: And get the code, which it says it is. *****.
+
+Speaker 2 [starttime: 05:31 - endtime: 05:37]: Ok, are you getting this code from your teleper performance account?
+
+Speaker 1 [starttime: 05:37 - endtime: 05:39]: Yeah.
+
+Speaker 2 [starttime: 05:39 - endtime: 05:44]: Do you also have your censure account as well?
+
+Speaker 1 [starttime: 05:44 - endtime: 05:46]: Yeah, I have one here.
+
+Speaker 2 [starttime: 05:46 - endtime: 05:50]: Could you please put in the one that's for the censure account?
+
+Speaker 1 [starttime: 05:50 - endtime: 05:57]: Private transfer. Let's see. Yeah, it didn't work there.
+
+Speaker 2 [starttime: 05:57 - endtime: 06:01]: OK, please click on. Try another way to verify.
+
+Speaker 1 [starttime: 06:01 - endtime: 06:08]: Turn another way you see that or the email that I'm going to check.
+
+Speaker 2 [starttime: 06:08 - endtime: 06:13]: Do you have your access to your email for the teleper performance?
+
+Speaker 1 [starttime: 06:12 - endtime: 06:18]: I've never checked the total performance email before, so I don't understand.
+
+Speaker 2 [starttime: 06:18 - endtime: 06:23]: OK, please click on. Continue over here.
+
+Speaker 1 [starttime: 06:22 - endtime: 06:24]: Continue.
+
+Speaker 2 [starttime: 06:24 - endtime: 07:09]: OK, Still the same. OK, just give me a moment. Let me just help you on this. Please authenticate the sign in. OK, I would also need to verify your account details. So could you please confirm me with your date of higher?
+
+Speaker 1 [starttime: 07:09 - endtime: 07:12]: 12 12 ****.
+
+Speaker 2 [starttime: 07:11 - endtime: 07:17]: Ok, could you please confirm me your client name and your supervisor name?
+
+Speaker 1 [starttime: 07:17 - endtime: 07:23]: It's either USA Gov or GSA or **** *******. She did not survive.
+
+Speaker 2 [starttime: 07:23 - endtime: 08:03]: All right. Thank you so much for that information. Now what I want you to do, I want you to please open your authenticator app. Ok, once you open your authenticator app on the top, there is an ad icon, the addition symbol. You need to click on that. And you need to select the option for ad work or school account. Sure. Ok, now it must be asking whether you need to sign in or you just scan. Please click on scan QR code and just scan the QR code that is showing you on your screen right now. Okay. Yeah. So once this account.
+
+Speaker 1 [starttime: 08:03 - endtime: 08:05]: Added successfully.
+
+Speaker 2 [starttime: 08:05 - endtime: 08:08]: What does it say?
+
+Speaker 1 [starttime: 08:08 - endtime: 08:13]: You said an account added successfully as soon as I stand it.
+
+Speaker 2 [starttime: 08:12 - endtime: 08:16]: Okay, OK, so there would be a bump.
+
+Speaker 1 [starttime: 08:16 - endtime: 08:33]: On your side. Let me just put that in. Successfully set up and registered. OK?
+
+Speaker 2 [starttime: 08:33 - endtime: 09:06]: Now, let's try with your service. Now, Once again, we will try to open your service. Now, an incognito first just to make sure. Please go ahead and try it in this incognito. Use your teleper performance account.
+
+Speaker 1 [starttime: 09:06 - endtime: 09:34]: Yep. I just wanted to. Ok, let me try to see. Is it incorrect? Ok.
+
+Speaker 2 [starttime: 09:34 - endtime: 09:39]: Ok, just OK.
+
+Speaker 1 [starttime: 09:39 - endtime: 09:40]: For me.
+
+Speaker 2 [starttime: 09:40 - endtime: 09:54]: No, that's OK. I'm going to check this with my team because this needs to be checked with the service note. So let me just confirm this with my team first.
+
+Speaker 1 [starttime: 09:54 - endtime: 10:29]: Please. Stay. On. The. Line. Yeah, I'm still here.
+
+Speaker 2 [starttime: 10:28 - endtime: 12:21]: Okay. Thank you. Thank. You. Thank you. Thank you. Thank. You. Thank you. Okay. I've already posted this to my team, just waiting for their response. Hello? Hello. And may I know since how long you're facing this issue?
+
+Speaker 1 [starttime: 12:21 - endtime: 12:25]: It's been a few weeks. Few.
+
+Speaker 2 [starttime: 12:25 - endtime: 12:26]: Ok?
+
+Speaker 1 [starttime: 12:26 - endtime: 12:48]: Yes. I just have a lady to get in there.
+
+Speaker 2 [starttime: 12:48 - endtime: 14:08]: Thank much. you very I'm still waiting for the team to respond. Kindly be online. And by the time I'm waiting for the response, I please leave the call on hold for a minute or 2. By the time I'm waiting for the response, may I please place the call on hold for a minute or 2. Yeah, please be online. I'll just get back to you.
+
+Speaker 1 [starttime: 14:07 - endtime: 17:12]: Ok. Hello. Welcome. To. [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] My. Lecture. [MUSIC] Hello. Welcome. To. My. [MUSIC] Lecture. [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC]
+
+Speaker 2 [starttime: 17:12 - endtime: 17:33]: You for being on hold? I appreciate your time and patience. Yeah. *******, could you please confirm me? As I can see, this is a censure service. Now that you are using, are you sure that you would be using a teleper performance ID over here or censure account?
+
+Speaker 1 [starttime: 17:33 - endtime: 17:37]: That's the only way to tell for it.
+
+Speaker 2 [starttime: 17:37 - endtime: 17:39]: Could you please try using?
+
+Speaker 1 [starttime: 17:39 - endtime: 17:41]: The center one, if you want.
+
+Speaker 2 [starttime: 17:41 - endtime: 17:47]: Yeah, please try using the same over here. Yes.
+
+Speaker 1 [starttime: 17:46 - endtime: 17:50]: Yeah. Let me try on here. That could be the issue.
+
+Speaker 2 [starttime: 17:50 - endtime: 17:58]: Let's say yes, because have you tried with the censure account once.
+
+Speaker 1 [starttime: 17:58 - endtime: 18:12]: Since. Just a second. I'll give it a go. Just log down.
+
+Speaker 2 [starttime: 18:11 - endtime: 18:19]: You still need to log in again. Once.
+
+Speaker 1 [starttime: 18:19 - endtime: 18:23]: Asking it says teleperformance or here it has to be teleper performance.
+
+Speaker 2 [starttime: 18:22 - endtime: 18:55]: Yes. Still, I would advise you to just try with the censure. It could be a possibility that this could also be causing this issue. Ok, just try to open this in. Yeah, just try opening this in incognito.
+
+Speaker 1 [starttime: 18:55 - endtime: 19:06]: There's the same thing about what you'll use. Right?
+
+Speaker 2 [starttime: 19:06 - endtime: 19:08]: Please continue to.
+
+Speaker 1 [starttime: 19:08 - endtime: 19:18]: Hold.
+
+Speaker 2 [starttime: 19:18 - endtime: 19:19]: Ok, let me know.
+
+Speaker 1 [starttime: 19:18 - endtime: 19:21]: That's what it gives you every time you get.
+
+Speaker 2 [starttime: 19:21 - endtime: 20:26]: Ok, let me just take a picture of this error message. Hello. lecture. my Welcome to OK, I've got hold with one of the level 2 agents. So for their response. Ok, so, ******, I've checked with the level 2 team. Are you there?
+
+Speaker 1 [starttime: 20:25 - endtime: 20:27]: Yeah, I'm here.
+
+Speaker 2 [starttime: 20:26 - endtime: 21:02]: Yeah. So just check this with the level team. Yeah, right now, the level 2 team tools on which they check the accounts. It's not working as of now. So they're asking you to call us back after some time. So once the tool would be up, they would be able to help you further on this. So what I will do, I will create a ticket for this, and I'll provide you with a ticket number. I would advise you to please try calling us back after half an hour with that same ticket number. So we would be escalated further with the level 2 and check with it.
+
+Speaker 1 [starttime: 21:02 - endtime: 21:04]: 7. Half an hour.
+
+Speaker 2 [starttime: 21:04 - endtime: 21:28]: Yes. Try calling us back after half an hour. So once the tool would be back up, the level 2 team would be able to check your account and further whatever we need to do on your account, we'll be able to do that. So I'll provide that. Yeah, I'll provide you with the ticket number so you can write down the ticket number.
+
+Speaker 1 [starttime: 21:27 - endtime: 21:33]: Sure. What is it?
+
+Speaker 2 [starttime: 21:33 - endtime: 21:50]: All right, The ticket number going to be I for Indigo N for Nancy C for Charlie. *********.
+
+Speaker 1 [starttime: 21:50 - endtime: 21:51]: I got it.
+
+Speaker 2 [starttime: 21:51 - endtime: 22:28]: All right. So please do give us a call back after half an hour, and then we'll check this further with our level 2 team. So once if their tool would be up, they would guide us further. What further needs to be done on this and whether we need to check with the censure team or whatever we'll need to do, they will guide us further on this. Correct. So please do. Please do give us a call back with the same ticket number and we'll further check on this also. And apart from this, is there anything else I may help you with today?
+
+Speaker 1 [starttime: 22:28 - endtime: 22:30]: That'll be it. Thank you so much.
+
+Speaker 2 [starttime: 22:29 - endtime: 22:49]: All right. You're most welcome. And post the call. The call would be redirected to a survey within the first service for customer satisfaction on the scale of 52 and 5 satisfied and the second service for first contact resolution wherein you can select one If you got a resolution on your first product and thank you for choosing it. Home agent support. You have a wonderful day ahead.
+
+Speaker 1 [starttime: 22:49 - endtime: 22:55]: You. Too. Thanks for giving us a few minutes of your time.
+

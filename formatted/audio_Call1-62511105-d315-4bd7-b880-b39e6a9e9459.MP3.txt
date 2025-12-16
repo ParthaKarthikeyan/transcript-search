@@ -1,0 +1,136 @@
+Speaker 2 [starttime: 00:05 - endtime: 00:13]: Hello. My name is *****. How may I help you today?
+
+Speaker 3 [starttime: 00:13 - endtime: 00:24]: I have a problem with my city. It keeps on blinking. However, it will not. Power on to the money.
+
+Speaker 2 [starttime: 00:24 - endtime: 00:37]: Not an issue. I do apologize for the inconvenience caused to you, Miss, and I will be surely assisting you with the same. So as I understood, you're having issues with the PC. That is why you're calling in, right?
+
+Speaker 3 [starttime: 00:37 - endtime: 00:44]: Yes, it's on the CPU. It's just the power just keeps blinking and.
+
+Speaker 2 [starttime: 00:44 - endtime: 00:48]: Is there any noise? It sounds like this.
+
+Speaker 3 [starttime: 00:47 - endtime: 00:50]: It has a noise.
+
+Speaker 2 [starttime: 00:50 - endtime: 00:54]: Like beep, beep, beep. Beat.
+
+Speaker 3 [starttime: 00:54 - endtime: 00:58]: Yes, it dates.
+
+Speaker 2 [starttime: 00:58 - endtime: 01:15]: Not an issue, ma'am. I do apologize for the inconvenience caused to you. I will be surely assisting you with the same. So as I understood, you're having issues with the PC. It is making deep noises and it's not working properly.
+
+Speaker 3 [starttime: 01:14 - endtime: 01:18]: Yes, that's correct.
+
+Speaker 2 [starttime: 01:18 - endtime: 01:26]: Ok, can you please tell me your BMS number?
+
+Speaker 3 [starttime: 01:23 - endtime: 01:28]: *******.
+
+Speaker 2 [starttime: 01:28 - endtime: 01:38]: Ok, and just to make sure this is your first call to it Help desk for the PC issues that you're facing today, right?
+
+Speaker 3 [starttime: 01:38 - endtime: 01:40]: Yes. It's just today.
+
+Speaker 2 [starttime: 01:40 - endtime: 01:49]: No, I got it. I'm just making sure that this is your first call to it. Help desk about it today.
+
+Speaker 3 [starttime: 01:48 - endtime: 01:53]: Yes. OK, first of all.
+
+Speaker 2 [starttime: 01:52 - endtime: 02:03]: OK, ma'am. Got you. Is it possible? Can you do one thing? Unplug all the cables that are connected to your PC? And let me know.
+
+Speaker 3 [starttime: 02:03 - endtime: 02:05]: Connect my cables to the PC.
+
+Speaker 2 [starttime: 02:05 - endtime: 02:13]: You mean, no, no. Disconnect all the cables that are connected to your PC.
+
+Speaker 3 [starttime: 02:12 - endtime: 02:19]: Cables. OK. Including the router.
+
+Speaker 2 [starttime: 02:19 - endtime: 02:31]: Or everything. Power cable, monitor, PC, whatever is connected. There should be not a single cable to the packaging that. Yeah.
+
+Speaker 1 [starttime: 02:30 - endtime: 03:03]: OK. It. All right. Thank you.
+
+Speaker 3 [starttime: 03:02 - endtime: 03:11]: Ok, All of the cable services come up now.
+
+Speaker 2 [starttime: 03:10 - endtime: 03:21]: Hello? Yes, ma'am. Now do one thing. Press the powered button for 30 seconds.
+
+Speaker 3 [starttime: 03:21 - endtime: 03:24]: Power button for 30 seconds, right?
+
+Speaker 2 [starttime: 03:24 - endtime: 03:51]: Yes.
+
+Speaker 1 [starttime: 03:50 - endtime: 04:01]: Thank you. Thank you.
+
+Speaker 2 [starttime: 04:01 - endtime: 04:08]: Now remove this and just put the power cable back. OK?
+
+Speaker 3 [starttime: 04:08 - endtime: 04:09]: All the cables.
+
+Speaker 2 [starttime: 04:09 - endtime: 04:13]: Yeah, and no, just the power cable.
+
+Speaker 3 [starttime: 04:13 - endtime: 04:29]: Power cable.
+
+Speaker 1 [starttime: 04:29 - endtime: 04:40]: OK.
+
+Speaker 3 [starttime: 04:40 - endtime: 04:46]: So bring it under as well.
+
+Speaker 2 [starttime: 04:46 - endtime: 04:57]: No worries, ma'am. This is your PC. That is not working. Fine. We have to replace your PC. Can you let me know? Are you a VPN user or a VDI user?
+
+Speaker 3 [starttime: 04:57 - endtime: 04:59]: Yes, I'm going to be there.
+
+Speaker 2 [starttime: 04:59 - endtime: 06:21]: Ok, no worries. I will be replacing your PC so that you can get a new one. Please be with me. Ok?
+
+Speaker 3 [starttime: 06:21 - endtime: 06:23]: I have a question.
+
+Speaker 2 [starttime: 06:23 - endtime: 06:26]: Yes, ma'am.
+
+Speaker 3 [starttime: 06:25 - endtime: 06:30]: Yes, it will be billed or the city will be billed for me.
+
+Speaker 2 [starttime: 06:30 - endtime: 06:33]: Yes, ma'am. On my house.
+
+Speaker 3 [starttime: 06:32 - endtime: 06:34]: Ok, thank you.
+
+Speaker 2 [starttime: 06:34 - endtime: 06:41]: Not an issue, ma'am. Is it possible you can tell me, what is your home address, please?
+
+Speaker 3 [starttime: 06:41 - endtime: 06:54]: Ok, that will be ******. Rock Bargo, D U R O K and then D A G A.
+
+Speaker 2 [starttime: 06:54 - endtime: 07:07]: Let's read it for you, OK? It's 8 30 Lumb compound. Lipata Mingle CTC ****.
+
+Speaker 3 [starttime: 07:07 - endtime: 07:18]: OK, yes. That's the old name for my address. But yes, it's still valid. So you can use that one.
+
+Speaker 2 [starttime: 07:18 - endtime: 07:23]: I can use this address, right? That is on our end.
+
+Speaker 3 [starttime: 07:23 - endtime: 07:28]: Yes, it's still valid. You can use that one for the actual.
+
+Speaker 2 [starttime: 07:28 - endtime: 07:46]: OK, The cell phone number that you're using is *********.
+
+Speaker 3 [starttime: 07:40 - endtime: 07:47]: ********** ****** it. Can.
+
+Speaker 2 [starttime: 07:47 - endtime: 07:50]: You repeat it, Please. I didn't catch you.
+
+Speaker 3 [starttime: 07:50 - endtime: 08:03]: Ok, so. *****. Mmhmm ******.
+
+Speaker 2 [starttime: 08:03 - endtime: 08:15]: Can you let me know your serial number from S tag number from the PC?
+
+Speaker 3 [starttime: 08:15 - endtime: 08:36]: So the serial number, it will be a l it Z for Victor. ******.
+
+Speaker 2 [starttime: 08:35 - endtime: 09:02]: ***. No worries, ma'am. Please hold on with me. I will be replacing this. OK, and just switching on the time frame. It's 24 to 48 hours. So within the next 2 days you will be getting it delivered at the address that I chose verified with you. Ok?
+
+Speaker 3 [starttime: 09:02 - endtime: 10:08]: You will be providing also a ticket number. Reference number, right? A ticket number in, OK.
+
+Speaker 1 [starttime: 10:08 - endtime: 11:25]: It. Hello?
+
+Speaker 2 [starttime: 11:24 - endtime: 11:29]: Yes, ma'am. I am still with you. I am still working on it.
+
+Speaker 3 [starttime: 11:29 - endtime: 11:34]: I was just checking as well. Nobody is nobody.
+
+Speaker 2 [starttime: 11:34 - endtime: 11:48]: Yeah, that is fine. I'm already done. Just raising the moms. I'm sending you email to your manager. It's going to take a minute or more.
+
+Speaker 3 [starttime: 11:47 - endtime: 12:37]: Ok, Thank you. Mmhmm.
+
+Speaker 2 [starttime: 12:37 - endtime: 12:43]: Hello, ma'am. Thank you for being on call. Please note down the ticket number.
+
+Speaker 3 [starttime: 12:43 - endtime: 12:45]: OK, thank you.
+
+Speaker 2 [starttime: 12:45 - endtime: 13:20]: Let me know once you're ready, I'm ready. Give me a minute. OK? It's India. November Charlie. *********.
+
+Speaker 3 [starttime: 13:19 - endtime: 13:34]: Ok, let me verify if its correct. So I have here. India. November Charlie. *********. You got it.
+
+Speaker 2 [starttime: 13:34 - endtime: 13:39]: Right, ma'am. Anything else you need any help?
+
+Speaker 3 [starttime: 13:39 - endtime: 13:42]: All right, Thank you. That's it. Thank you so much.
+
+Speaker 2 [starttime: 13:42 - endtime: 14:07]: No worries, ma'am. So, ma'am, post this call. I'm just going to connect to the short survey with the first survey for customer satisfaction where you can get the service on the scale of 5 to 15 means you're very satisfied in the second service. Regarding first contact resolution where you can read the service as number one, which means I've given you the resolution in the first contact. Thank you for reaching out to it helps a blessed day. Goodbye.
+
+Speaker 3 [starttime: 14:07 - endtime: 15:12]: All right. Thank you. Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact, press one. If it took multiple contacts to resolve press 2. If it still has not been resolved. Fantastic this time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

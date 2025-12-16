@@ -1,0 +1,156 @@
+Speaker 1 [starttime: 00:12 - endtime: 00:17]: It home in support. My name is *****. How may I help you?
+
+Speaker 2 [starttime: 00:17 - endtime: 00:20]: How are you doing?
+
+Speaker 1 [starttime: 00:19 - endtime: 00:23]: Hello. Can you hear me?
+
+Speaker 2 [starttime: 00:22 - endtime: 00:25]: Yes. Can you hear me?
+
+Speaker 1 [starttime: 00:25 - endtime: 00:30]: Yes, I can hear you. How can I help you today?
+
+Speaker 2 [starttime: 00:30 - endtime: 01:05]: I was calling. I was trying to. I had received my new monitor. Friday afternoon, and I was trying to get it sick. And I don't know if I'm doing something wrong or am I missing anything, but it still won't connect with the other computer. It keeps saying something about no cable cord. I'm not so sure I'm not doing it right.
+
+Speaker 1 [starttime: 01:04 - endtime: 01:28]: Okay, So you just received a replacement monitor and it is still showing no input signal, right? Yeah. Okay. No worries, ma'am. I do get your concern. I'm really sorry for the inconvenience that you're facing, and I will try my best to help you out in this issue. Can you just confirm me? Are you a new hire?
+
+Speaker 2 [starttime: 01:28 - endtime: 01:31]: Yes, I am.
+
+Speaker 1 [starttime: 01:30 - endtime: 01:45]: Okay, ma'am. Do you have the ticket number for the replacement of the monitor?
+
+Speaker 2 [starttime: 01:45 - endtime: 01:58]: Yes. *********.
+
+Speaker 1 [starttime: 01:57 - endtime: 02:10]: Ok, can you tell me your employment ID number?
+
+Speaker 2 [starttime: 02:05 - endtime: 02:19]: *******.
+
+Speaker 1 [starttime: 02:19 - endtime: 02:24]: Can you tell me your full name?
+
+Speaker 2 [starttime: 02:23 - endtime: 02:26]: ****** *****.
+
+Speaker 1 [starttime: 02:25 - endtime: 04:48]: Okay, ma'am, I do get your concern. I just need to verify some security text on my site. Can I please put your call on hold for 2 minutes? [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] Hello. [MUSIC] [MUSIC] Welcome. To. My. Lecture. Thank you so much for staying on. Holy ma'am. Can you hear me?
+
+Speaker 2 [starttime: 04:48 - endtime: 04:51]: Yes, I can hear you.
+
+Speaker 1 [starttime: 04:51 - endtime: 04:52]: Ma'am.
+
+Speaker 2 [starttime: 04:52 - endtime: 05:00]: Like cable. So, yes, I hear you.
+
+Speaker 1 [starttime: 05:00 - endtime: 05:11]: Yeah. As I was able to check the previous ticket, one of the monitors. It was not showing you any power light, right?
+
+Speaker 2 [starttime: 05:11 - endtime: 05:18]: It'll come on, but it's not going. Hold on. Let me turn it back on.
+
+Speaker 1 [starttime: 05:18 - endtime: 05:22]: Mmhmm.
+
+Speaker 2 [starttime: 05:22 - endtime: 05:50]: It's not going no further than, but its saying, Hold on. It's pulling back on. No cable. Yeah. Isn't it Cable not connected. Which is? I have the cable cord, but I don't have another place to connect the cable.
+
+Speaker 1 [starttime: 05:50 - endtime: 06:14]: Okay, No worries, ma'am. In that case, I'll check this issue for you. I need to send you in this wheeling. It is a video session provided by Teleperformance for the users working from home, by which you can exactly show me your screen with the help of your cell phone. Okay. Can you please confirm me with your cell phone number?
+
+Speaker 2 [starttime: 06:09 - endtime: 06:18]: **********.
+
+Speaker 1 [starttime: 06:18 - endtime: 06:23]: I'm sending it right now. It will be a text message.
+
+Speaker 2 [starttime: 06:23 - endtime: 06:44]: OK. They go to the camera.
+
+Speaker 1 [starttime: 06:43 - endtime: 06:49]: Make sure that you're hiding any confidential information.
+
+Speaker 2 [starttime: 06:49 - endtime: 06:52]: OK?
+
+Speaker 1 [starttime: 06:51 - endtime: 06:57]: Yeah. Can you show me the cards now? The key?
+
+Speaker 2 [starttime: 06:56 - endtime: 07:21]: Um. See, it says missing the cable correl, which is, I have that, but I don't have a place to put it at on the router. Okay, This is what I kept telling.
+
+Speaker 1 [starttime: 07:20 - endtime: 07:37]: Can you show me the other end of the cable that is connected to the monitor? Show me that cable the other end this month? No, ma'am. The one that is not working. There is a cable connected on that monitor, right?
+
+Speaker 2 [starttime: 07:37 - endtime: 07:42]: I don't have a cable. I don't have it connected. You tell me I put it in right here.
+
+Speaker 1 [starttime: 07:42 - endtime: 07:49]: Yes, ma'am. Just cable. Can you show me the other end of this cable? The other end?
+
+Speaker 2 [starttime: 07:49 - endtime: 07:58]: Um. You come.
+
+Speaker 1 [starttime: 07:58 - endtime: 08:08]: No, ma'am. This is a different cable. There is a cable connected to this monitor, right? The one that is not working.
+
+Speaker 2 [starttime: 08:08 - endtime: 08:14]: I don't have the the only cable you're talking about this table right here.
+
+Speaker 1 [starttime: 08:14 - endtime: 08:28]: No, ma'am. Can you show us on the back of the monitor? No. The back of the monitor that is not working. Yeah, this cable. Yeah, this is the display cable, right?
+
+Speaker 2 [starttime: 08:27 - endtime: 08:31]: Don't need it. I don't understand what you're saying, sir.
+
+Speaker 1 [starttime: 08:31 - endtime: 08:44]: Ma'am, this cable that is connected here. Can you show me the other end of this cable that needs to be connected to the CPU.
+
+Speaker 2 [starttime: 08:43 - endtime: 08:55]: I'm connected to this one this month, sir. I need to take that apart because I have another one here.
+
+Speaker 1 [starttime: 08:55 - endtime: 09:06]: Okay, Can you show me this cable that you're having another cable?
+
+Speaker 2 [starttime: 09:06 - endtime: 09:08]: Can you tell this right here?
+
+Speaker 1 [starttime: 09:08 - endtime: 09:15]: Yeah. Can you please show me the type of cable? This is.
+
+Speaker 2 [starttime: 09:13 - endtime: 09:37]: Hello. Welcome to my lecture.
+
+Speaker 1 [starttime: 09:37 - endtime: 10:03]: Mardi. Yes, this is this report. And the other one is ATMI. Okay, Yeah. You need to use this cable, ma'am, You can remove the cable from the monitor, the one that is connected and use this cable. Please take your time.
+
+Speaker 2 [starttime: 10:03 - endtime: 10:37]: Hello? Yep, that is. Thank you. Ok, so where would, where did this one go? I plugged it in the back. Okay.
+
+Speaker 1 [starttime: 10:37 - endtime: 10:52]: Okay, yeah. This then goes to the CPU, the route of or the thin plant. You need to connect it to.
+
+Speaker 2 [starttime: 10:52 - endtime: 11:11]: I don't know. Where it's supposed to go to because is no.
+
+Speaker 1 [starttime: 11:11 - endtime: 11:59]: Can you show me the. OK, The VDA is connected. And the display photo is also connected. Okay, ma'am, can you show me the back of the monitor? The one that is working for you? Please show me that monitor because I need to check the type of table that is having. Okay, it's connected with VDA cable. Okay, No worries. Now show me the ZPO again. No worries, ma'am. Show me the ZPO again.
+
+Speaker 2 [starttime: 11:58 - endtime: 12:00]: Okay.
+
+Speaker 1 [starttime: 12:00 - endtime: 12:19]: Mom, please remove the black cable. The bottom cable. Please remove it. Don't remove the blue one. Only remove the black cable. Yeah, this one. Exactly. This one. Please remove it.
+
+Speaker 2 [starttime: 12:19 - endtime: 12:20]: Okay.
+
+Speaker 1 [starttime: 12:20 - endtime: 12:41]: Okay. Now you can connect the other monitor to the sport. Okay, please connect it. Okay, Take your time. Please check. Now if it is working or not.
+
+Speaker 2 [starttime: 12:41 - endtime: 12:54]: Oh, OK.
+
+Speaker 1 [starttime: 12:54 - endtime: 12:54]: And it works.
+
+Speaker 2 [starttime: 12:54 - endtime: 13:00]: No problem doing the same thing. Um, one moment.
+
+Speaker 1 [starttime: 13:00 - endtime: 13:31]: Take your time. Oh, ma'am, I cannot see your screen. Yes, I can see it now. Okay? Yes, they are both working now.
+
+Speaker 2 [starttime: 13:31 - endtime: 13:40]: Wrong correlation. Ok, so with this, this extra code I can unfold, correct?
+
+Speaker 1 [starttime: 13:40 - endtime: 13:47]: Yes. Yes. Because we were using 2 codes on a single monitor. Yeah, you can unplug it. No worries.
+
+Speaker 2 [starttime: 13:47 - endtime: 13:50]: Okay, Okay.
+
+Speaker 1 [starttime: 13:49 - endtime: 13:57]: Yeah, I know both of them are working now. No worries, ma'am. Is there anything else I can help you with?
+
+Speaker 2 [starttime: 13:57 - endtime: 13:58]: That'll be it.
+
+Speaker 1 [starttime: 13:58 - endtime: 14:07]: Thank you. Okay, ma'am, you can close the camera on hold. Please stay connected on the call. Okay, let me create a ticket number for you.
+
+Speaker 2 [starttime: 14:06 - endtime: 14:08]: Okay?
+
+Speaker 1 [starttime: 14:07 - endtime: 14:27]: Yeah. You can also provide that to your ******, our supervisor. I'm grading a ticket number. Please allow me a moment.
+
+Speaker 2 [starttime: 14:26 - endtime: 14:56]: Hello? Hello? Hello. Hello. Hello. Who's going? What else? We're.
+
+Speaker 1 [starttime: 14:56 - endtime: 15:13]: OK, ma'am, please note down the ticket number whenever you're ready. It's Phi as an indigo.
+
+Speaker 2 [starttime: 15:13 - endtime: 15:14]: Uhhuh n.
+
+Speaker 1 [starttime: 15:14 - endtime: 15:27]: As in November C. As in Charlie. *******.
+
+Speaker 2 [starttime: 15:26 - endtime: 15:30]: Oh, you said ***.
+
+Speaker 1 [starttime: 15:29 - endtime: 15:47]: Oh, no, ma'am. Let me just repeat it again. After inc its ***. *****. Yeah, after that, it's ***.
+
+Speaker 2 [starttime: 15:46 - endtime: 15:49]: Uhhuh.
+
+Speaker 1 [starttime: 15:47 - endtime: 15:58]: ***.
+
+Speaker 2 [starttime: 15:51 - endtime: 15:59]: ************.
+
+Speaker 1 [starttime: 15:58 - endtime: 16:02]: That's absolutely correct, ma'am.
+
+Speaker 2 [starttime: 16:02 - endtime: 16:05]: Ok.
+
+Speaker 1 [starttime: 16:05 - endtime: 16:29]: Ma'am. So before I hang up the call, I just need to tell you that I'll be connecting you to a short survey post this call, but the first survey is for customer satisfaction. We're on a scale of 5 to 15. Means that you're way satisfied, and the second survey will first contact and solution in which you can select one. That means our issue has been resolved in the first contact. Thank you for contacting it. Support. Have a great day ahead, ma'am.
+
+Speaker 2 [starttime: 16:29 - endtime: 16:35]: Thanks for giving us a few minutes of your time to complete the it helpdesk survey your feedback.
+

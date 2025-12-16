@@ -1,0 +1,54 @@
+Customer [starttime: 00:09 - endtime: 01:17]: Hello. Thank you for calling ID and blue support. My name is ****** *****. How may I help you? Hello. I'm audible, and I'm a sitting *******. Can you hear me? Yes, I can hear you. This is from performance benefits. And I didn't need assistance without accessing. I forgot the password. Ok, so just before you proceed to the troubleshooting parts, I need to verify your details. Can you proceed with that? Ok, Ok, can you help me with your BMS? ID *******. Ok, and just let me know your full name. I'm ***** Rather. Okay, and just help me with your higher date.
+
+Agent [starttime: 01:16 - endtime: 01:18]: Um.
+
+Customer [starttime: 01:18 - endtime: 01:26]: April 19th. Sorry. Can you repeat again? April 19th 2.
+
+Agent [starttime: 01:25 - endtime: 01:28]: ****.
+
+Customer [starttime: 01:27 - endtime: 02:06]: Uh, the year is April ******. Ok, I got you. Got you. Just help me with your supervisor name. There I am anyway. Ok, so I need to verify detail from my end as well. So for that, may I put you on a hold for 2 minutes? Sure. Ok, so can you please be online? Thank you.
+
+Agent [starttime: 02:01 - endtime: 03:35]: Hello. Welcome to my lecture. Okay. Thank you. Thank. You. Thank you. Hello. Welcome to my lecture. Hello. my Welcome to lecture. Hello. Welcome lecture. to my Hello. Hello.
+
+Customer [starttime: 03:35 - endtime: 04:44]: Thank you for being online. So as as I understand, you are facing an issue related to your password like you are unable to log into your PC. Right? Am I right? Am I OK? So like, can you let me know what exactly error message you are getting on your screen while I log into your EC. Okay, so yesterday, actually, I changed my password to the. OK, then when I start, Yeah, I just forget the password that I inflicted yesterday. Ok, my analysis. Ok, Ok, so you are a VDI user, right? Yes, sir. Ok, so I am checking from the back end. So just allow me 4 minutes. So till then, please be your online. Once I'll unlock your account, I'll get back to you. Ok, Thank you.
+
+Agent [starttime: 04:43 - endtime: 07:28]: You're. Welcome. Thank you. Hello. Welcome. To. My. Lecture. Hello. Welcome to my lecture. Hello. Welcome to my lecture. Thank. You. Thank you very much. Thank. You. Thank very much. you Thank. You. Thank you very much. You're. Welcome. Thank you. Thank. You. Thank. You. Thank. You. Thank. You. Thank you. Thank you. Thank you. Thank you. Hello. Welcome lecture. to my Hello. Thanks for calling.
+
+Customer [starttime: 07:28 - endtime: 09:12]: So thank you for being online. So as we I have resetted your passwords. So once you read, ready to note down the password, just do let me know and make sure once you, once you reset the password, once you have login with this password, you have to create the new password that's contained. The 15 character. Include the uppercase lowercase And also you need to mentioned alphanumerical letter so that it will be the strong password. So just let me know once you need to know the one time password. Yes, sir. I'm ready. Ok, you're ready. So that is. Lower case T as Tango. Lower case T as tango P as lowercase P as Papa. Hello. Got it. Uppercase J as. Uppercase uppercase *** as Julu. *** and Juul for J. Yes J for Zebra. OK, number 5. Uppercase S as *****. Number 5.
+
+Agent [starttime: 09:12 - endtime: 09:14]: All right.
+
+Customer [starttime: 09:13 - endtime: 10:19]: Uppercase J as Juliet. Uppercase P as Papa. Uppercase D as Delta. Uppercase E as Echo. A lowercase ki as Kilo. Lowercase X as x ray. Got it? Yes. So this is then just try to log in and just let me know. Are you done or not? Let me try to do that. Ok, please do log in and just let me know till then I'm here.
+
+Agent [starttime: 10:18 - endtime: 10:47]: You're. Welcome. Thanks for calling.
+
+Customer [starttime: 10:47 - endtime: 10:51]: Yes, I'm there. Just let me know.
+
+Agent [starttime: 10:50 - endtime: 11:01]: Are. You. Logged. In.
+
+Customer [starttime: 11:01 - endtime: 11:31]: I'm still here. I don't get you. Can you repeat again? Hello? Am I audible? Yes, sir. I'm so sorry to hold on for a moment. Ok, please, please take your time.
+
+Agent [starttime: 11:31 - endtime: 11:54]: Thank you. Hello. Welcome lecture. my to
+
+Customer [starttime: 11:54 - endtime: 13:39]: I know, sir. I was hunting with it. Ok, have you logged in? No, sir. What error is that? Like in name? In what it is showing in Vantage. Yeah. Invented not in name or password. Okay, invalid. So just make sure you are putting the correct password. So you want me to repeat one more time? All right. OK, lower case T as Tango. OK, lowercase P as Papa. Uppercase ***. As Zulu. 5. Number 5. Uppercase S Sierra. OK. And number 5. Uppercase J as Gela Gmail and uppercase P As Papa Again. Uppercase D as a Delta. OK. Uppercase E as Echo.
+
+Agent [starttime: 13:39 - endtime: 13:45]: Ok.
+
+Customer [starttime: 13:44 - endtime: 14:40]: Lowercase K as Kilo Ok X as lowercase as X ray Verify, sir, that is lowercase P E and capital letter Z type 5 s Time J for Juliet G is jumping. Uppercase G is in uppercase. Yes, sir. Upper base J for Juliet. Upper base P for Peter. Uppercase D for delta upper Kate E for echo K. Small letter K for small letters 3. Yes. Just try to log in with this. Just let me know what it is for you. Actually.
+
+Agent [starttime: 14:39 - endtime: 15:14]: One moment. Ok, thank. You very much. Thank. You. Thank you.
+
+Customer [starttime: 15:13 - endtime: 15:20]: One moment, sir. Ok.
+
+Agent [starttime: 15:20 - endtime: 16:44]: Thank. You. Thank you. Okay. Thank you. Thank you. Thank. You very much. Thank. You. Thank. You.
+
+Customer [starttime: 16:44 - endtime: 18:02]: Thank you for being online. Just do. Let me know. Have you logged in? Thank you for having me, sir. I don't need to change the password. Ok, now you're changing your password, right? You're logged in. It means yes, sir. Ok, so once you change the password, like make sure that include the 15 characters, uppercase, lowercase included, and alphanumeric as well. So once your password is done, just do let me know. Is there okay to change the password? Have you have you changed the password? Yes, sir. Ok, so like now your issue is resolved, right? That is correct. Okay. Okay, so, okay. So be online. I'll give. I will give you the ticket number for our interaction so that you can show to you, supervisor and all. So till then, please be online. Thank you. Bye bye.
+
+Agent [starttime: 17:52 - endtime: 22:20]: Hello. Welcome to my lecture. Hello. Welcome. To. My. Lecture. Hello. Welcome to my lecture. Hello. Welcome to my lecture. Thank. You. Thank you. Hello. Welcome to my lecture. Thank. You. Thank much. you very Hello. Welcome to my lecture. Hello. lecture. my to Welcome Hello. Hello. Thank. You. Thank you. Thank much. very you Hello. Hello. Hello. Hello. Thank. You. Thank you. Thank you. Hello. Welcome to my lecture. Hello. Welcome lecture. my to Hello. Welcome to my lecture. Hello. Welcome lecture. my to Hello. Thank you for calling. Hello. lecture. my Welcome to Thank. You. Thank you. Hello. Thanks calling. for Hello. Welcome to my lecture.
+
+Customer [starttime: 22:20 - endtime: 22:45]: Oh, thank you for being online. So just let me know once you're ready to note down the ticket number. Ok R as in Romeo. E as echo Q as Q as cubic ****.
+
+Agent [starttime: 22:45 - endtime: 22:48]: All right.
+
+Customer [starttime: 22:46 - endtime: 23:36]: ****. OK, ***. So, so anything else that you want me to help? No. Okay, suppose this call. I'll correct a short survey where you can where you can rate where I'd kind of post this call. I'll connect to a short survey Post this call where the first survey is for the customer satisfaction where you can rate on the scale of a 5 to when we are 5 means very satisfied. And the second survey is for the first contact resolution where you can select one, which means your issue was resolved in the first contact. Thank you. Bye. Thank you for calling IDL, please. Thanks for giving us a few minutes of your time to complete the it helpd desk survey.
+

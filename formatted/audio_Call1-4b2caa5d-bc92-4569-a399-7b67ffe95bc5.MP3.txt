@@ -1,0 +1,104 @@
+Speaker 2 [starttime: 00:09 - endtime: 00:11]: You for contacting me? Support.
+
+Speaker 1 [starttime: 00:11 - endtime: 00:15]: My name is ma'am. How may I assist you today?
+
+Speaker 2 [starttime: 00:15 - endtime: 00:30]: Hi. I understand earlier regarding I was missing on my statement. I'm saying we're able to put the codes, but now I'm giving a proxy a 13.
+
+Speaker 1 [starttime: 00:30 - endtime: 00:36]: Sure, getting a proxy error where you're getting that, ma'am.
+
+Speaker 2 [starttime: 00:36 - endtime: 00:38]: In Microsoft teams.
+
+Speaker 1 [starttime: 00:38 - endtime: 00:51]: On the Microsoft teams. OK, so when you try to log in on the Microsoft teams, you are getting that proxy error.
+
+Speaker 2 [starttime: 00:50 - endtime: 01:08]: Yes, it'll tell me to log in. And once I put my email, it says proxy authentication is please check your proxy configuration and try again with the code. ****.
+
+Speaker 1 [starttime: 01:08 - endtime: 01:31]: OK, ma'am, No need to worry about it. I apologize for this inconvenience caused to, and I'm here to help you out to check this issue and I will try my best to get it resolved as soon as possible. Ma'am, you are saying that you called earlier with someone. So do you have any ticket number for that call?
+
+Speaker 2 [starttime: 01:31 - endtime: 01:41]: No. I was showing them this one and then my phone died. No worries. Just right now. Then.
+
+Speaker 1 [starttime: 01:41 - endtime: 01:48]: No worries, ma'am. I will check all the things. Can I have your BMS ident number, please?
+
+Speaker 2 [starttime: 01:47 - endtime: 01:56]: Yes. *******.
+
+Speaker 1 [starttime: 01:56 - endtime: 02:19]: Yes. OK, *******. That's right, ma'am. Ok, may I have your full name, please?
+
+Speaker 2 [starttime: 02:18 - endtime: 02:24]: *****.
+
+Speaker 1 [starttime: 02:24 - endtime: 02:30]: Ok, Ms. *****, can you help me with your username.
+
+Speaker 2 [starttime: 02:30 - endtime: 02:38]: Dot 1766?
+
+Speaker 1 [starttime: 02:38 - endtime: 03:14]: You verify me the details of your account, ma'am, So that you called earlier for some issue. Just give me one minute, please. So I can check the account status and the history so I can try to find out your call details of the last one. Thanks.
+
+Speaker 2 [starttime: 03:13 - endtime: 03:21]: Hello.
+
+Speaker 1 [starttime: 03:21 - endtime: 03:27]: Welcome. To. My. Lecture.
+
+Speaker 2 [starttime: 03:25 - endtime: 03:39]: Thank.
+
+Speaker 1 [starttime: 03:39 - endtime: 04:02]: You. Thank. You OK, ma'am? Thank you for patiently waiting on the line here. So as I can just check with your call history, I can find our ticket details here. And there was mentioned that the TP tools and the folder are missing. Right. Ma'am.
+
+Speaker 2 [starttime: 04:01 - endtime: 04:13]: Yes, he was able to put the folders. There are 2 piece folders and now is there, but I just can't log into teams.
+
+Speaker 1 [starttime: 04:13 - endtime: 04:26]: Ok, so the folders is available. Now, just only the issue with the login of the teams.
+
+Speaker 2 [starttime: 04:25 - endtime: 04:38]: Hello. Welcome lecture. my to
+
+Speaker 1 [starttime: 04:38 - endtime: 04:47]: Ok, ma'am, can you please let me know one thing. You are using the application to log in or the browser.
+
+Speaker 2 [starttime: 04:47 - endtime: 04:49]: The application.
+
+Speaker 1 [starttime: 04:49 - endtime: 05:14]: On the application. OK. Do you have a VPN computer, ma'am? Or the VDI?
+
+Speaker 2 [starttime: 05:13 - endtime: 05:14]: VPN.
+
+Speaker 1 [starttime: 05:14 - endtime: 05:37]: It's a VPN computer. Okay, that's fine. I'm just checking with your accesses, ma'am. Just give me a moment. Have one license. Ok, Are you able to log in on the team's application on this computer previously?
+
+Speaker 2 [starttime: 05:37 - endtime: 05:40]: Yes, it is working earlier today.
+
+Speaker 1 [starttime: 05:40 - endtime: 06:15]: Ok, but as for update, ma'am, the team's application will not working anymore without an E 3 license. As I can just check here with your license, you have F one license only for the debt. So can you please try to log in your teams on the browser?
+
+Speaker 2 [starttime: 06:09 - endtime: 06:54]: Hello. Hello. Hello. Hello. Hello. Welcome to my lecture.
+
+Speaker 1 [starttime: 06:54 - endtime: 06:59]: Are you trying to log anything in the browser, ma'am?
+
+Speaker 2 [starttime: 06:59 - endtime: 07:15]: Yes. It's just loading.
+
+Speaker 1 [starttime: 07:15 - endtime: 07:31]: Ok.
+
+Speaker 2 [starttime: 07:31 - endtime: 07:57]: It. I believe it's going through for the browsing.
+
+Speaker 1 [starttime: 07:57 - endtime: 08:09]: Open the browser a new tab and type their portal atro office dot com or you can just simply type things dot microsoft dot com.
+
+Speaker 2 [starttime: 08:08 - endtime: 08:12]: I'm sorry. What is that?
+
+Speaker 1 [starttime: 08:12 - endtime: 08:18]: Teams dot microsoft dot com.
+
+Speaker 2 [starttime: 08:18 - endtime: 08:23]: In another pass.
+
+Speaker 1 [starttime: 08:22 - endtime: 08:28]: Another pass? No. You have to use the same password. No.
+
+Speaker 2 [starttime: 08:28 - endtime: 08:31]: Oh, just another in another tab.
+
+Speaker 1 [starttime: 08:31 - endtime: 08:46]: Yeah, just on another tab.
+
+Speaker 2 [starttime: 08:45 - endtime: 08:56]: Thank you.
+
+Speaker 1 [starttime: 08:56 - endtime: 09:20]: Thank. You. Thank. You. Thank. Thank. You. You. Thank. You.
+
+Speaker 2 [starttime: 09:20 - endtime: 09:33]: It.
+
+Speaker 1 [starttime: 09:32 - endtime: 09:34]: Ok.
+
+Speaker 2 [starttime: 09:34 - endtime: 09:58]: Thank you. Thank you.
+
+Speaker 1 [starttime: 09:58 - endtime: 10:04]: Are you able to access it, ma'am?
+
+Speaker 2 [starttime: 10:03 - endtime: 10:11]: Yes. For teams. I was able to access through the browser.
+
+Speaker 1 [starttime: 10:11 - endtime: 10:58]: Ok, so through the browser, you can able to access it? Yes. OK, ma'am. So you can use things on the browser for the now because the E 3 license is not available in your access. If you're supposed to be used to teams application, so check with the supervisor. They need to raise a ticket for E 3 license.
+
+Speaker 2 [starttime: 10:58 - endtime: 11:03]: One moment, I'm just going to tell you real quick.
+
+Speaker 1 [starttime: 11:03 - endtime: 11:03]: Ok.
+

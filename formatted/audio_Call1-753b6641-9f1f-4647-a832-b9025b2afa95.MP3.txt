@@ -1,0 +1,198 @@
+Agent [starttime: 00:07 - endtime: 00:13]: Thank you for calling board. My name is ****. How may I assist you?
+
+Customer [starttime: 00:13 - endtime: 00:23]: Hello. My name is ***, and I was trying to log into my BMS, but my password isn't working.
+
+Agent [starttime: 00:23 - endtime: 00:58]: Okay. Showed you facing the password. Am I right? Your password as agenda showed your password in prevent. So do you want to reset the password? Am I right? Okay. No problem. I'd be great for the inconvenience cause to you. Be assured, I certainly assist you to the result. So first of all, may I know your employer ID number?
+
+Customer [starttime: 00:53 - endtime: 01:01]: *******.
+
+Agent [starttime: 01:01 - endtime: 01:07]: OK, ma'am. And may I know your name?
+
+Customer [starttime: 01:06 - endtime: 01:12]: ***** *********.
+
+Agent [starttime: 01:12 - endtime: 01:20]: Okay. And may I know the supervisor name?
+
+Customer [starttime: 01:20 - endtime: 01:30]: That one? I'm not sure.
+
+Agent [starttime: 01:30 - endtime: 01:38]: Sorry. Ma'am. Hello. I'm.
+
+Customer [starttime: 01:38 - endtime: 01:40]: Sorry. Can you?
+
+Agent [starttime: 01:40 - endtime: 01:52]: Yeah. Could you provide me the supervisor name.
+
+Customer [starttime: 01:51 - endtime: 01:58]: Pedal? Hello.
+
+Agent [starttime: 01:57 - endtime: 02:41]: Okay. And may I know the location? Okay. And may I know the supervisor name? Sorry. May I know the higher date? Sorry, ma'am. I'm asking the higher date.
+
+Customer [starttime: 02:41 - endtime: 02:44]: Oh, October 30th.
+
+Agent [starttime: 02:44 - endtime: 03:22]: In which year. In which er. Y for Yankee? E for Echo? A for Alpha R for Romeo, I was in the ear. Um. You can just provide with me the complete higher date. So please provide me with the ER.
+
+Customer [starttime: 03:22 - endtime: 03:26]: After 30 years.
+
+Agent [starttime: 03:25 - endtime: 03:36]: After what? He t. And then.
+
+Customer [starttime: 03:35 - endtime: 03:39]: I'm sorry. I can't understand.
+
+Agent [starttime: 03:39 - endtime: 03:59]: You can just derive the complete You can just complete the provide the higher date Y for Yankee E for Echo A for Alpha R for Romeo? Yes.
+
+Customer [starttime: 03:59 - endtime: 04:02]: A while.
+
+Agent [starttime: 04:02 - endtime: 04:16]: And just no down, ma'am. What? I'm asking Y for yellow E for Echo A for Alpha R for Romeo.
+
+Customer [starttime: 04:16 - endtime: 04:20]: And what are you asking me that for? I'm sorry.
+
+Agent [starttime: 04:19 - endtime: 04:28]: I'm asking the E 2021 2022 **** **** you have joined the company in which 8.
+
+Customer [starttime: 04:28 - endtime: 04:31]: Dollars would be.
+
+Agent [starttime: 04:31 - endtime: 04:40]: Yeah. Thank you. And may I know the username?
+
+Customer [starttime: 04:40 - endtime: 04:50]: ********* dot ** * at telephone us dot com.
+
+Agent [starttime: 04:50 - endtime: 07:12]: Yeah. Thank you for the confirmations. It may take me a moment to review influenza. May I put your call on hold? Thank. You. Yeah, Thank you for being on hold. I really appreciate your time and business. So please note on the new password.
+
+Customer [starttime: 07:11 - endtime: 07:14]: I'm sorry.
+
+Agent [starttime: 07:14 - endtime: 07:24]: Please note down the temporary password.
+
+Customer [starttime: 07:24 - endtime: 07:32]: You said. Are you ready?
+
+Agent [starttime: 07:31 - endtime: 07:46]: Lowercase C for Charlie. Uppercase is for hotel.
+
+Customer [starttime: 07:45 - endtime: 07:49]: Uppercase is.
+
+Agent [starttime: 07:48 - endtime: 08:01]: Yeah. Is for hotel. and and again, uppercase H for hotel.
+
+Customer [starttime: 08:00 - endtime: 08:04]: A purchase P for Pop.
+
+Agent [starttime: 08:03 - endtime: 08:54]: Yes. Aparcas P for Papa. D for Delta number 8 d for Delhi. Number 8. Uppercase M for Mary. Lowercase. If F for Frankie. Uppercase V for Victor. Uppercase J 4.
+
+Customer [starttime: 08:54 - endtime: 08:57]: G.
+
+Agent [starttime: 08:57 - endtime: 09:10]: V for week 10. V for Victoria.
+
+Customer [starttime: 09:10 - endtime: 09:12]: Ok, upper.
+
+Agent [starttime: 09:12 - endtime: 09:31]: Upper against J for Juliet. Number 4. Uppercase N for Nancy. Okay. So please confirm the password. Let me.
+
+Customer [starttime: 09:31 - endtime: 09:34]: Try it.
+
+Agent [starttime: 09:34 - endtime: 09:39]: First, please repeat the password for the confirmation.
+
+Customer [starttime: 09:38 - endtime: 09:41]: You said to repeat it.
+
+Agent [starttime: 09:41 - endtime: 09:45]: Yeah. Believe if you didn't confirm me.
+
+Customer [starttime: 09:45 - endtime: 10:00]: Can you repeat it for me one more time. So I can write it down? Sorry.
+
+Agent [starttime: 10:00 - endtime: 10:08]: You are not knocked down.
+
+Customer [starttime: 10:08 - endtime: 10:23]: Lower 18. Can you repeat the password on me, please?
+
+Agent [starttime: 10:23 - endtime: 10:56]: Cool. Lowercase C for Charlie. Capital is for hotel. And again, Capital is for Hotel Capital. P for Papa. Capital D for Delta number 8. Capital M for Mary. Lowercase Air F for Frank T. Aparcase V for Victor. Aparcase J for Juliet number 4. Uppercase N for Nancy. So please try.
+
+Customer [starttime: 10:56 - endtime: 11:19]: To 4 case. 2. Upper case. A 2 p uppercase. B uppercase. M uppercase. F lowercase. Z uppercase. J Uppercase. 4 uppercase.
+
+Agent [starttime: 11:18 - endtime: 11:34]: Okay, can I So please try to log in and confirm me?
+
+Customer [starttime: 11:34 - endtime: 11:49]: I'm going to clean your.
+
+Agent [starttime: 11:49 - endtime: 12:24]: Ok. It. All. Right.
+
+Customer [starttime: 12:24 - endtime: 12:32]: It is still not working on.
+
+Agent [starttime: 12:31 - endtime: 12:39]: Sorry. Now you're working.
+
+Customer [starttime: 12:39 - endtime: 12:44]: It's not working for me.
+
+Agent [starttime: 12:43 - endtime: 13:20]: Okay, so this puzzle is working. Am I right? Its. Not. Working? It's not working. May I know the address? The. Address? Yes. What are you getting there?
+
+Customer [starttime: 13:19 - endtime: 14:28]: Um, but it's not my first. I mean, my last name. My number that says one is good. It.
+
+Agent [starttime: 14:28 - endtime: 14:34]: Yes. Hello.
+
+Customer [starttime: 14:33 - endtime: 14:41]: I'm sorry, but the password doesn't work. Can you help me?
+
+Agent [starttime: 14:41 - endtime: 16:50]: Okay, So please be on the line again. I'm going to reset your password and then I'll, I will provide you. So may I put your call on hold? Thank. You. Yeah. Thank you for being on hold. Please note on a new password. Are you ready?
+
+Customer [starttime: 16:50 - endtime: 16:54]: All right, I'm waiting.
+
+Agent [starttime: 16:54 - endtime: 16:58]: For Romeo.
+
+Customer [starttime: 16:58 - endtime: 17:01]: You said R for me?
+
+Agent [starttime: 17:01 - endtime: 17:06]: Yes. Lowercase.
+
+Customer [starttime: 17:05 - endtime: 17:07]: Uppercase.
+
+Agent [starttime: 17:07 - endtime: 17:36]: D for uppercase. D for delta. Lowercase. V for week t. Aparcase. P for Papa. Number 3.
+
+Customer [starttime: 17:36 - endtime: 17:43]: It.
+
+Agent [starttime: 17:43 - endtime: 18:02]: Lower case A for alpha. Number 7. Lowercase k 4 kiloca.
+
+Customer [starttime: 18:02 - endtime: 18:06]: I'm sorry.
+
+Agent [starttime: 18:06 - endtime: 18:16]: After number. OK, then no luck Key for King.
+
+Customer [starttime: 18:15 - endtime: 18:20]: Ok.
+
+Agent [starttime: 18:20 - endtime: 18:46]: Lowercase Y for Yankee. Lowercase C for Charlie. Uppercase U for uniform. Lowercase V for winter. That's it.
+
+Customer [starttime: 18:45 - endtime: 18:50]: Ok, I want to repeat this. Ok?
+
+Agent [starttime: 18:49 - endtime: 18:50]: Yeah.
+
+Customer [starttime: 18:50 - endtime: 19:10]: 4 lowercase rca D case uppercase P. What case is a number 7 Lord case. Ok, Sorry, Lord.
+
+Agent [starttime: 19:10 - endtime: 19:27]: Guess what? After number, sir. After number 7 lower guess. Yeah. Please tell me after number 7.
+
+Customer [starttime: 19:27 - endtime: 19:34]: Number 748 t No case. Please explain.
+
+Agent [starttime: 19:34 - endtime: 20:00]: Please explain that later because I'm not understanding no case for Kego. So did you write. After number 7 lowercase k 4 kilo. T.
+
+Customer [starttime: 20:00 - endtime: 20:13]: The letter T as in cap. Or you can g lowercase.
+
+Agent [starttime: 20:13 - endtime: 20:31]: G after number 7. Lower case. No kiss K for Kilo. K Yes. K lower. OK, yes.
+
+Customer [starttime: 20:31 - endtime: 20:57]: Ok, startup, then phone number 7. The lower case K. Lowercase Y. Lower case C. What is new? ****** is U What case is D I'm sorry.
+
+Agent [starttime: 20:56 - endtime: 21:08]: Lowercase C and then uppercase U for 84 U for umbrella uppercase U for umbrella and then lowercase V for weekday.
+
+Customer [starttime: 21:08 - endtime: 21:47]: Ok. Thank.
+
+Agent [starttime: 21:47 - endtime: 22:20]: You. Thank. You. Thank. You. Thank. You. It. Ok. Thank. You. It.
+
+Customer [starttime: 22:19 - endtime: 22:27]: Alrighty. Thank you. I'm in.
+
+Agent [starttime: 22:27 - endtime: 22:31]: OK, Are you going to log in?
+
+Customer [starttime: 22:30 - endtime: 22:34]: Yes, I'm already good. Thank you.
+
+Agent [starttime: 22:34 - endtime: 22:38]: Ok, Is there anything else I may help you?
+
+Customer [starttime: 22:38 - endtime: 22:41]: No, thank you.
+
+Agent [starttime: 22:40 - endtime: 24:55]: Okay. So please be on the line now. I'm going to create the ticket and then I'll provide a ticket number. So may I put you on hold for 2 minutes? Yeah. Thank you for being on hold. I really appreciate your time. Doesn't. Please note on the ticket number, sir. Sorry, ma'am. Ma'am.
+
+Customer [starttime: 24:55 - endtime: 25:00]: I'm here. Hello? Yeah, I'm here for room.
+
+Agent [starttime: 25:00 - endtime: 25:22]: Ok, R for Romeo. E for Echo Q 4. No, no, that is a ticket number. Regard adding your issue. So please note the ticket number. Your surprises will be asking you so you can just provide a ticket number. So are you ready? Ok?
+
+Customer [starttime: 25:22 - endtime: 25:24]: Tell me what?
+
+Agent [starttime: 25:24 - endtime: 25:28]: R for Romeo. E for Echo.
+
+Customer [starttime: 25:28 - endtime: 25:39]: Q for queen.
+
+Agent [starttime: 25:31 - endtime: 25:40]: ****.
+
+Customer [starttime: 25:40 - endtime: 25:45]: 5.
+
+Agent [starttime: 25:45 - endtime: 26:10]: R for Romeo. Eco. Q for queen number. **********. Okay, okay. Is there anything else I may help you. Okay? And I said we'll.
+
+Customer [starttime: 26:10 - endtime: 26:12]: Connect. You welcome.
+
+Agent [starttime: 26:12 - endtime: 26:29]: And the survey and connected with stocks. Post this call. Welcome at the side of 5 to 15 News. Vasa, decide at the second survey post. Contact president saying like one wish your issue is part of contact. Thank you for calling it. Have a great day. Thank you, ***. Thanks. For. Giving. Us.
+

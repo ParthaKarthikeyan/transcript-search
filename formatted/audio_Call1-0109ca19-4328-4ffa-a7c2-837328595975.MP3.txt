@@ -1,0 +1,142 @@
+Agent [starttime: 00:07 - endtime: 00:12]: You for calling it support. This is *******. How may I assist you today?
+
+Customer [starttime: 00:12 - endtime: 00:27]: Hi there. So I'm just trying to log on to my computer. When I try on the first screen, it says the reference account is currently locked out and may not be logged onto.
+
+Agent [starttime: 00:27 - endtime: 00:37]: OK, got it. Yeah. As I understood, you are unable to log in into your computer and you are getting error. The reference account has been logged out and may not be log on to.
+
+Customer [starttime: 00:37 - endtime: 00:39]: That's right.
+
+Agent [starttime: 00:38 - endtime: 00:46]: Ok, now what is? Surely I'll assist you with this issue facing this issue. May I have your BMS number to pull up your account?
+
+Customer [starttime: 00:46 - endtime: 00:59]: Yes. So it is ***. ****.
+
+Agent [starttime: 00:59 - endtime: 01:03]: Ok, and you first. And the last name for the verification purpose.
+
+Customer [starttime: 01:03 - endtime: 01:08]: And it's *****.
+
+Agent [starttime: 01:07 - endtime: 01:15]: Ok, thank you. So you are trying to log in into your VPN or anti login?
+
+Customer [starttime: 01:15 - endtime: 01:23]: No, it's just the first screen where you log into the computer. It's that screen.
+
+Agent [starttime: 01:23 - endtime: 01:35]: Ok. Ok, don't worry. Surely I'll assist you. Can I put you on? Hold for a minute to check the information?
+
+Customer [starttime: 01:35 - endtime: 01:50]: You can? Yep. Ok.
+
+Agent [starttime: 01:50 - endtime: 02:27]: I don't know. Oh, yeah. Hold on. This is going to happen.
+
+Customer [starttime: 02:15 - endtime: 02:37]: [MUSIC] [MUSIC]
+
+Agent [starttime: 02:37 - endtime: 02:41]: You for being on hold, but.
+
+Customer [starttime: 02:41 - endtime: 02:43]: Yep. All right.
+
+Agent [starttime: 02:43 - endtime: 02:55]: OK, you may receive a text message on your phone. Please type on this link and click allow, but make sure you close your sensitive data and information from the computer before showing you this claim.
+
+Customer [starttime: 02:55 - endtime: 03:01]: So it's a text from my phone?
+
+Agent [starttime: 03:01 - endtime: 03:07]: Yes. Check your phone. I have just shared on your email on your phone.
+
+Customer [starttime: 03:07 - endtime: 03:13]: My email. What email address is it?
+
+Agent [starttime: 03:13 - endtime: 03:23]: So I sent you a new phone? **********.
+
+Customer [starttime: 03:23 - endtime: 03:53]: So it's ***********. Nothing has come through yet either.
+
+Agent [starttime: 03:53 - endtime: 03:57]: Can I send you a new email?
+
+Customer [starttime: 03:57 - endtime: 04:01]: Yeah. What email address do you have?
+
+Agent [starttime: 04:01 - endtime: 04:05]: I don't have any email. Can I have it, please?
+
+Customer [starttime: 04:05 - endtime: 04:37]: Yeah. So its K for Kilo A for Alpha Y for Yankee L for Lima A for Alpha M for Mother A for Alpha Y for Yankee W for Whiskey A for Alpha R for Romeo C for delta at gmail dot com.
+
+Agent [starttime: 04:37 - endtime: 06:04]: Ok.
+
+Customer [starttime: 06:04 - endtime: 06:09]: All right, I've got that email back. I believe.
+
+Agent [starttime: 06:08 - endtime: 06:22]: Yes. Please tap on this link and can you allow. But make sure you close your sensitive data and information from the computer before showing your screen. Hello.
+
+Customer [starttime: 06:22 - endtime: 06:29]: Can you see my screen, ma'am?
+
+Agent [starttime: 06:29 - endtime: 06:32]: Yes. Unlock the PC first.
+
+Customer [starttime: 06:32 - endtime: 06:40]: Let me topic. Sounds persist where I can type in my password.
+
+Agent [starttime: 06:40 - endtime: 06:51]: No, no, hold on. Don't enter here. The password at the bottom right side. You can see network signing option. Just click on it.
+
+Customer [starttime: 06:51 - endtime: 06:57]: And which one?
+
+Agent [starttime: 06:56 - endtime: 07:01]: The VP icon is missing? Yes, this one.
+
+Customer [starttime: 07:01 - endtime: 07:04]: That. One.
+
+Agent [starttime: 07:04 - endtime: 07:08]: Just restart first.
+
+Customer [starttime: 07:07 - endtime: 07:26]: Restart.
+
+Agent [starttime: 07:25 - endtime: 07:33]: Unplug your internet cable and then replu back. Restart your wifi modem as well.
+
+Customer [starttime: 07:33 - endtime: 08:51]: Right. OK, 2 seconds. So I won't be here. I'm going to go down and do that. Ok? Ok. All right, I've unplug Mars, wifi and everything. It's just a black screen. I think its about to come. Yeah, it's just.
+
+Agent [starttime: 08:51 - endtime: 10:32]: About to come back on. Ok, please wait. Its loading. Hello. Welcome. To my lecture.
+
+Customer [starttime: 10:32 - endtime: 10:55]: All right, stuff on that. Hmm. How? Long. So this is what I have? Yeah.
+
+Agent [starttime: 10:55 - endtime: 11:00]: OK, yeah. Can you click on network signing option?
+
+Customer [starttime: 11:00 - endtime: 11:17]: Is that the little lock? And then should I pop in the password there?
+
+Agent [starttime: 11:17 - endtime: 11:21]: I guess I'm your password.
+
+Customer [starttime: 11:20 - endtime: 11:24]: Hello.
+
+Agent [starttime: 11:24 - endtime: 11:45]: Welcome to my. Lecture.
+
+Customer [starttime: 11:45 - endtime: 11:51]: Right. So when I do that with authentication failed.
+
+Agent [starttime: 11:51 - endtime: 11:55]: Please make sure you are answering the correct password.
+
+Customer [starttime: 11:55 - endtime: 12:20]: I'll try it again, but I definitely am. Yes. And it is definitely the correct password. So it says on authentication sales.
+
+Agent [starttime: 12:20 - endtime: 12:32]: So please, wait. Let me check. May I know your program name working for?
+
+Customer [starttime: 12:32 - endtime: 12:34]: The mobile number.
+
+Agent [starttime: 12:34 - endtime: 12:38]: Your program name working for.
+
+Customer [starttime: 12:37 - endtime: 12:48]: Sorry, Teleperformance and Natwest.
+
+Agent [starttime: 12:48 - endtime: 12:51]: Your hiring date.
+
+Customer [starttime: 12:51 - endtime: 13:40]: The 6th of January 25.
+
+Agent [starttime: 13:40 - endtime: 13:44]: Could you manage your name?
+
+Customer [starttime: 13:43 - endtime: 13:47]: ***** ********.
+
+Agent [starttime: 13:47 - endtime: 13:51]: Site location.
+
+Customer [starttime: 13:51 - endtime: 13:52]: *************.
+
+Agent [starttime: 13:52 - endtime: 14:00]: Thank you. Can you please start a login with this password with the same? I have just unlocked your account.
+
+Customer [starttime: 13:59 - endtime: 14:45]: Right. So what? The same password as we are. Yeah. So I'm just reconnecting it there. Right? So philosophy in there. Completely fine into the VPN.
+
+Agent [starttime: 14:45 - endtime: 14:48]: Now, logging into windows.
+
+Customer [starttime: 14:48 - endtime: 15:28]: Right. Sorry. It was just.
+
+Agent [starttime: 15:28 - endtime: 16:08]: OK. Let me know. Once it is work, I'll give you the reference number. Right?
+
+Customer [starttime: 16:08 - endtime: 16:24]: I'm back in. Yes, I'm ready for the reference number. Whenever. Inc.
+
+Agent [starttime: 16:23 - endtime: 16:26]: ****.
+
+Customer [starttime: 16:26 - endtime: 16:30]: Yep.
+
+Agent [starttime: 16:28 - endtime: 16:34]: *****.
+
+Customer [starttime: 16:31 - endtime: 16:41]: *****. All right, Thank you so much for helping me there.
+
+Agent [starttime: 16:41 - endtime: 17:10]: One more thing. I will connect you to a short survey post to this call where you send the services provided on its below. **** ***** satisfied. Second service for first contact resolution. Whether you can select one, which means yourself was resolved in the first contact. Thank you for calling *********. Homage and support. Have a great. Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied?
+

@@ -1,0 +1,262 @@
+Speaker 1 [starttime: 00:08 - endtime: 00:14]: Thank you for having your idea. My name is *****. How can I help you?
+
+Speaker 3 [starttime: 00:14 - endtime: 00:30]: Hello. Good morning. I need help to sign into my Microsoft authenticator, but I can't proceed because I'm unable to get the code in. Can you help me?
+
+Speaker 1 [starttime: 00:30 - endtime: 00:34]: So you need to set up the data app, right?
+
+Speaker 3 [starttime: 00:34 - endtime: 00:35]: Yes.
+
+Speaker 1 [starttime: 00:35 - endtime: 00:41]: So is it the first time you are trying to set up by MFA alternative?
+
+Speaker 3 [starttime: 00:41 - endtime: 00:43]: I'm sorry.
+
+Speaker 1 [starttime: 00:43 - endtime: 00:55]: Is it the first time you are trying to set up the authenticator? No. So have you recently changed your phone?
+
+Speaker 3 [starttime: 00:55 - endtime: 00:57]: Yeah, I did.
+
+Speaker 1 [starttime: 00:57 - endtime: 01:04]: Okay, Okay, so after ending the phone, you have not set up the MFS yet, right?
+
+Speaker 3 [starttime: 01:04 - endtime: 01:06]: Yes.
+
+Speaker 1 [starttime: 01:05 - endtime: 01:17]: Okay. Okay, I will. Charlotte, is she regarding the same? Sorry for the inconvenience your face. Please confirm your name and your bars ident.
+
+Speaker 3 [starttime: 01:15 - endtime: 01:21]: ***** **** *******.
+
+Speaker 1 [starttime: 01:21 - endtime: 01:29]: Okay, thank you so much for that information. So it may take a moment to review information from my end. May I put you on more for the same?
+
+Speaker 3 [starttime: 01:29 - endtime: 01:30]: Okay.
+
+Speaker 1 [starttime: 01:30 - endtime: 02:26]: Thank you. Thank you so much for your patience. So for providing that for you that I'm set up. I need to authenticate you with some security questions. So can I proceed with that? So your first question is, what is your higher month and EU in this company?
+
+Speaker 3 [starttime: 02:26 - endtime: 02:29]: Higher month and year?
+
+Speaker 2 [starttime: 02:29 - endtime: 02:32]: Yes.
+
+Speaker 3 [starttime: 02:32 - endtime: 02:35]: July ****.
+
+Speaker 2 [starttime: 02:34 - endtime: 02:38]: Ok, what is your manager name?
+
+Speaker 3 [starttime: 02:38 - endtime: 02:41]: Please stop me. Blank.
+
+Speaker 2 [starttime: 02:40 - endtime: 02:47]: Okay. What is your location? Philippines. Okay. Authentication.
+
+Speaker 1 [starttime: 02:47 - endtime: 02:52]: Is done. Now. Please dial up on the authenticator app on your phone.
+
+Speaker 3 [starttime: 02:52 - endtime: 02:55]: It. Ok, hold on.
+
+Speaker 2 [starttime: 02:54 - endtime: 03:17]: Ok, and let me know I can earlier. Sorry. Do you want me to?
+
+Speaker 3 [starttime: 03:17 - endtime: 03:22]: Okay, I have it.
+
+Speaker 1 [starttime: 03:21 - endtime: 03:44]: Okay, please open the authenticator app and click on the plus sign on the top right side and then add or add. Work on school and pick on sign ins. After on sign in your.
+
+Speaker 3 [starttime: 03:44 - endtime: 03:46]: Signature.
+
+Speaker 1 [starttime: 03:46 - endtime: 04:13]: Mono. After clicking on the plus sign on the top price side, add work with a school and take on sign in. After that, it is asking for your username. Username means you're a anti at teleperformance usa dot com. Ok. Ok. Hold. On. So after I asking for password, so please don't do anything. I am going to provide you the password. Okay?
+
+Speaker 3 [starttime: 04:12 - endtime: 04:15]: Okay. Hold on.
+
+Speaker 1 [starttime: 04:14 - endtime: 04:24]: Okay. May I have one chair on the password page?
+
+Speaker 3 [starttime: 04:24 - endtime: 04:27]: Okay, I'm on the back.
+
+Speaker 1 [starttime: 04:26 - endtime: 04:34]: Okay, please stay on the line. I'm going to check with the ****. Thank you. Don't do anything. Okay, please wait.
+
+Speaker 3 [starttime: 04:34 - endtime: 04:52]: Ok.
+
+Speaker 2 [starttime: 04:51 - endtime: 05:36]: Thank you. Hello. Hello.
+
+Speaker 1 [starttime: 05:36 - endtime: 05:52]: Hey. You're. Welcome.
+
+Speaker 3 [starttime: 05:52 - endtime: 06:23]: Please. hold. to Continue Your business is important to us.
+
+Speaker 1 [starttime: 06:23 - endtime: 06:32]: Thank you so much for your patience on the line. I was still waiting for the response for ******. So please stay on the line. Thank you.
+
+Speaker 3 [starttime: 06:32 - endtime: 07:46]: Okay.
+
+Speaker 1 [starttime: 07:45 - endtime: 08:49]: If you stay on the line, I was still waiting for the team. So allow me one moment. Thank you so much for your patience. So please write on the password without grade for you. Are you ready?
+
+Speaker 3 [starttime: 08:49 - endtime: 08:50]: Yeah. Go ahead.
+
+Speaker 1 [starttime: 08:50 - endtime: 10:02]: Okay, so it is uppercase C as in Charlie. Your guess U as in uniform. Your guess E as in Echo. Dollar sign. Uppercase V as in rich. Uppercase Y as in Yankee. Clogis N as in Nancy Lorgis D as in Delta uppercase K as in Kilo. Locus S as in Sam. Uppercase F as in Foxtrot. Uppercase H is an hotel. So try to *****. After that, click on sign in and next step is to select, Continue and register it off right? You will get the pop up. Your account will be added successfully.
+
+Speaker 3 [starttime: 10:02 - endtime: 10:55]: To let me know. After I use the password, it shows the password is incorrect. If I don't remember, I should reset.
+
+Speaker 1 [starttime: 10:55 - endtime: 11:05]: Please enter the password again carefully.
+
+Speaker 3 [starttime: 11:05 - endtime: 11:30]: Just to be sure, it's upper Charlie. Lower key uniform. Lower key Echo dollar sign and then uppercase ******. Upper key. Yankee lowercase. Lower case. Delta. Uppercase below. Lower case Sierra uppercase. Foxtrot.
+
+Speaker 1 [starttime: 11:30 - endtime: 11:39]: And upper Lord? S as in Sam.
+
+Speaker 3 [starttime: 11:38 - endtime: 11:51]: Yeah, that's after the uppercase kilo. Right lowercase plan and then upper keys Foxtrot uppercase hotels.
+
+Speaker 1 [starttime: 11:51 - endtime: 12:18]: All right, allow me one moment, ***** * of N Sam and then F Foxtrot and hotel in operas. Under the password cared fully. After that. Click on a skip and then next to sort of continue and register it. After that, you will begin. You will get a pop on your account where you're successful. You didn't let me know.
+
+Speaker 3 [starttime: 12:18 - endtime: 12:20]: Okay, hold on.
+
+Speaker 1 [starttime: 12:20 - endtime: 12:25]: Sure.
+
+Speaker 3 [starttime: 12:25 - endtime: 12:29]: The special character is a dollar sign, right?
+
+Speaker 2 [starttime: 12:29 - endtime: 12:54]: Dollar sign, dollar sign. thank. Ok, You.
+
+Speaker 3 [starttime: 12:53 - endtime: 12:59]: It still shows the same thing as AI took the password before I submitted.
+
+Speaker 1 [starttime: 12:59 - endtime: 13:10]: Okay, I'm going to send you a receipt on your phone. It is only for extinct your phone Cabra for checking on the exact issue with your facing. Could you please provide me your contact number?
+
+Speaker 3 [starttime: 13:10 - endtime: 13:15]: Contact number is ****.
+
+Speaker 2 [starttime: 13:15 - endtime: 13:16]: 4.
+
+Speaker 3 [starttime: 13:15 - endtime: 13:21]: Oh, *****.
+
+Speaker 2 [starttime: 13:20 - endtime: 13:22]: Okay, I appreciate an.
+
+Speaker 1 [starttime: 13:22 - endtime: 13:33]: Limb on our phone. You will get an SFS. Then take on the link, call our camera and show me your system and you can close off the city details. Open new your system.
+
+Speaker 3 [starttime: 13:33 - endtime: 13:37]: Would it work if I'm using my phone to log into the authenticity?
+
+Speaker 1 [starttime: 13:37 - endtime: 14:17]: Yes, yes, yes. Log in on join, Click on the link and show me your system and make sure that **** has any sensitive details of it.
+
+Speaker 3 [starttime: 14:17 - endtime: 14:21]: I'm sorry. How can I do like the other?
+
+Speaker 1 [starttime: 14:21 - endtime: 14:36]: So many screens. Monitor screens. So may I monitor the screen?
+
+Speaker 3 [starttime: 14:36 - endtime: 14:41]: This is ******* *****. This is the laptop screen.
+
+Speaker 1 [starttime: 14:41 - endtime: 14:52]: So is that the company provided, right? Sorry. This is the unrevariative company, right?
+
+Speaker 3 [starttime: 14:52 - endtime: 14:54]: Yeah, this is the company lab. Okay.
+
+Speaker 1 [starttime: 14:54 - endtime: 15:19]: Yeah. Okay. Okay. Reboot your system. Reward your laptop. Are you a user? Are ADI user? Are you a VPN user or a VDI user?
+
+Speaker 3 [starttime: 15:19 - endtime: 15:21]: VPN?
+
+Speaker 1 [starttime: 15:21 - endtime: 18:21]: Okay, so after once your sister may recited, please connect the VPN with this password, The one which I provided to you. Okay. Hello. Welcome. Lecture. To. My. Can I do the repeat and enter this password which I provided you? to Can I get a first? I'm. An. Audible. Hello. Are we connected? You please connect to the VPN. So at the bottom right side of the system one. Put your phone closer to the system. Yes. Can the VPN.
+
+Speaker 3 [starttime: 18:21 - endtime: 18:25]: Here? I'll use my NP, right?
+
+Speaker 1 [starttime: 18:25 - endtime: 18:30]: No, I'm not able to see editing rate. Yes.
+
+Speaker 3 [starttime: 18:30 - endtime: 18:53]: Okay, hold on.
+
+Speaker 1 [starttime: 18:53 - endtime: 20:13]: Oh, I am ****. Password, which I have provided to you. Upper case C as in Charlie password. Lower case U as in uniform lorgis E as in echo dollar sign uppercase V as in Victor uppercase Y as in Yankee lorgis N as in Nancy Locusts D as in Hinto uppercase K as in Kilo logs S as in Sam uppercase F as in Foxtrot uppercase edges and hotels. Now click on show password and show me your screen. Show me your screen. Great. Click on sign in.
+
+Speaker 3 [starttime: 20:13 - endtime: 20:16]: It shows connected.
+
+Speaker 1 [starttime: 20:16 - endtime: 20:22]: Ok, now I'll log into your system.
+
+Speaker 3 [starttime: 20:22 - endtime: 20:23]: Back.
+
+Speaker 1 [starttime: 20:23 - endtime: 20:33]: Yes. Ok, and the username and this password which I have provided to you.
+
+Speaker 3 [starttime: 20:33 - endtime: 20:53]: Ok, let's see.
+
+Speaker 1 [starttime: 20:53 - endtime: 21:46]: There's one eyewitten so that I can see. Cub dollars sign U Y N D E K S f. Okay, now and click on idolatry on Idol. Yes, click on it. Take one. Okay, again, E S P. I don't. Sales P I N. Yep. Say the same password again.
+
+Speaker 3 [starttime: 21:46 - endtime: 21:52]: That is fine.
+
+Speaker 1 [starttime: 21:52 - endtime: 22:30]: Can I check? I wrote so that I can check. Because I wrote it. Semi.
+
+Speaker 3 [starttime: 22:29 - endtime: 22:33]: Do you need to put up Performance USA here?
+
+Speaker 1 [starttime: 22:33 - endtime: 22:37]: Yes. Yes. Try.
+
+Speaker 3 [starttime: 22:36 - endtime: 22:42]: Ok, let me try.
+
+Speaker 1 [starttime: 22:42 - endtime: 22:49]: Yes, I'm in Durham.
+
+Speaker 3 [starttime: 22:48 - endtime: 22:59]: And then turn the password again.
+
+Speaker 1 [starttime: 22:59 - endtime: 23:02]: Thank. You.
+
+Speaker 3 [starttime: 23:02 - endtime: 23:06]: Can you have the 8 digit?
+
+Speaker 1 [starttime: 23:05 - endtime: 23:13]: Yes.
+
+Speaker 3 [starttime: 23:13 - endtime: 23:17]: Yes, ******.
+
+Speaker 1 [starttime: 23:17 - endtime: 23:28]: For restart You saw again.
+
+Speaker 3 [starttime: 23:28 - endtime: 23:32]: Should I try again?
+
+Speaker 1 [starttime: 23:32 - endtime: 23:41]: Restart your system and then buy again. Restart your system, Connect to the VPN and then chest. Yep.
+
+Speaker 3 [starttime: 23:41 - endtime: 23:46]: I'm still connected.
+
+Speaker 1 [starttime: 23:45 - endtime: 23:49]: Restart your system.
+
+Speaker 3 [starttime: 23:49 - endtime: 26:04]: It's hard see. to
+
+Speaker 1 [starttime: 26:04 - endtime: 26:20]: Thanks. For. Calling.
+
+Speaker 3 [starttime: 26:20 - endtime: 26:23]: What do I mean?
+
+Speaker 1 [starttime: 26:23 - endtime: 29:35]: Now connect to the VPN first with the same password. Connect to the VPN with the same password. Pick on show so that I can check. Yes. Pick on signing spears. Sign in. Okay, now bath and rub into windows with the same password. Coupon. And enters. And password. Now click on ARO. Stay on the line. Let me deal with a D.
+
+Speaker 3 [starttime: 29:35 - endtime: 29:39]: Want me to try it then?
+
+Speaker 1 [starttime: 29:39 - endtime: 31:28]: Please stay on the line. I'm checking with the team. Please click and test and provide me the host name of your system. Click. Enter the Pass the login screen show with the login screen. I need the horse's name. Click on. How do I sign into Adomen? Now? How do I sign into a Roman? How do I sign into another room? Allow me one moment. Yeah. When I.
+
+Speaker 3 [starttime: 31:28 - endtime: 31:58]: Click this. These 2 options appear. Should I sign in?
+
+Speaker 1 [starttime: 31:58 - endtime: 32:06]: How do I sign into another domain?
+
+Speaker 3 [starttime: 32:05 - endtime: 32:11]: I click there. Ok, And this is what appears.
+
+Speaker 1 [starttime: 32:11 - endtime: 32:20]: Click on how? Click on again. How do I sign into another Roman?
+
+Speaker 3 [starttime: 32:20 - endtime: 32:27]: I click this again. Shows the same page.
+
+Speaker 1 [starttime: 32:27 - endtime: 32:40]: Okay. Wait. This system restore the company, right? This is a company provided to some orders. None.
+
+Speaker 3 [starttime: 32:40 - endtime: 32:44]: Yeah, this is our company issue equipment.
+
+Speaker 1 [starttime: 32:44 - endtime: 33:07]: This. Okay. Okay. Okay, *****, one moment. Do you have one other system?
+
+Speaker 3 [starttime: 33:07 - endtime: 33:09]: They do this again?
+
+Speaker 1 [starttime: 33:09 - endtime: 33:50]: No, wait.
+
+Speaker 3 [starttime: 33:50 - endtime: 33:54]: You want me to try signing and using my old password?
+
+Speaker 1 [starttime: 33:54 - endtime: 33:59]: No, please just stay on the line. I'm checking with the team. Don't do anything.
+
+Speaker 2 [starttime: 33:59 - endtime: 34:10]: Ok. May I know?
+
+Speaker 1 [starttime: 34:10 - endtime: 34:13]: Have you recently changed your password?
+
+Speaker 2 [starttime: 34:13 - endtime: 34:17]: It? No. Ok, try to sign.
+
+Speaker 1 [starttime: 34:17 - endtime: 34:22]: With our old password once and then let me know.
+
+Speaker 2 [starttime: 34:21 - endtime: 36:32]: Ok. Hello. Welcome to my lecture. You're. Welcome. Thanks having me. for You're. Welcome. Thanks for calling. Thank you. You're welcome. Hello. Welcome lecture. to my You're. Welcome. It's no place as well.
+
+Speaker 3 [starttime: 36:31 - endtime: 36:36]: Yeah, I was able to bug in using my old password.
+
+Speaker 2 [starttime: 36:36 - endtime: 36:38]: Ok, so you can use the same password.
+
+Speaker 1 [starttime: 36:38 - endtime: 36:41]: Ok?
+
+Speaker 3 [starttime: 36:41 - endtime: 36:48]: Yeah, I can use that, but I cannot access the authenticator.
+
+Speaker 1 [starttime: 36:48 - endtime: 37:02]: Now you're able to access your indication about don't need to set up. You don't need to set up an data. It is already set up using your laptop. Ok.
+
+Speaker 3 [starttime: 37:02 - endtime: 37:14]: Okay, so I'm about to future use it because it always requires our authentication to factor using the it is already.
+
+Speaker 1 [starttime: 37:14 - endtime: 37:19]: No, you don't need to set up again. It is already set up.
+
+Speaker 3 [starttime: 37:18 - endtime: 37:21]: Okay, let me check.
+
+Speaker 1 [starttime: 37:20 - endtime: 37:35]: Okay, sure. And you don't need to set up again. Non memo check as well. I have already set up from the laptop. Okay, so just the ticket number. Are you ready for the ticket?
+
+Speaker 3 [starttime: 37:34 - endtime: 37:36]: Yeah.
+
+Speaker 1 [starttime: 37:36 - endtime: 38:03]: So it is, I as in India N as in Nancy C. As in Charlie. ****. 2. ***** ****** it. So right now, apart from this, is there anything else I can help you with?
+
+Speaker 3 [starttime: 38:03 - endtime: 38:06]: Okay, just one moment. Hold on.
+
+Speaker 1 [starttime: 38:05 - endtime: 38:40]: Okay, I'm afraid that it is already done because once you've connected, a repeat is asking for temporary. Yes. So it is done. No need to set up a deal on the phone. Okay, so I will connect you shortly. Okay, that is great. So I will connect you to the short survey. Post this call. We're in the first service for the customer action, and you can wait on the scale of *** means either aside and the second service for the false contact resolution when you can select one, which means you ensure everyone in the false contact. Thank you for calling. Ideal Texaco. Have a great.
+
+Speaker 3 [starttime: 38:39 - endtime: 39:24]: Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact, press one. If it took multiple contacts to resolve press 2. If it still has not been resolved, press 3.
+

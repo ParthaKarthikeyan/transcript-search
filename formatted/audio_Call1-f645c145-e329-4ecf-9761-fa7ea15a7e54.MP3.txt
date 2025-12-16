@@ -1,0 +1,212 @@
+Speaker 1 [starttime: 00:09 - endtime: 00:15]: You for calling address? My name is *****. How can I help you today?
+
+Speaker 2 [starttime: 00:15 - endtime: 00:22]: Sorry. I can barely hear you.
+
+Speaker 1 [starttime: 00:21 - endtime: 00:26]: Sorry. Could you please repeat again?
+
+Speaker 2 [starttime: 00:25 - endtime: 00:46]: Um, I would like to change my password because it was expired. Or maybe it says here your account is temporarily because I've called. However, the call just got disconnected and my password just got reset and I wanted a new password again.
+
+Speaker 1 [starttime: 00:46 - endtime: 00:58]: Ok, I am really sorry that you're having this issue, and surely I will try to provide the best ever solution from my end. But before that, could you please provide me your BMS ID?
+
+Speaker 2 [starttime: 00:58 - endtime: 01:04]: My BMS ID is *******.
+
+Speaker 1 [starttime: 01:04 - endtime: 01:09]: It's *******. Am I correct?
+
+Speaker 2 [starttime: 01:09 - endtime: 01:10]: Correct.
+
+Speaker 1 [starttime: 01:10 - endtime: 01:15]: Thank you for confirmation. Could you please help me with your full name?
+
+Speaker 2 [starttime: 01:15 - endtime: 01:20]: Sure. First name is ********. Last name is ******.
+
+Speaker 1 [starttime: 01:20 - endtime: 01:31]: OK, thank you for confirmation. It may take me a moment to review your information. May I put you on hold for the same?
+
+Speaker 2 [starttime: 01:30 - endtime: 01:31]: Thank you.
+
+Speaker 1 [starttime: 01:31 - endtime: 02:15]: Ok, please take another hold. Ok. [MUSIC] [MUSIC] [MUSIC] I appreciate your patience. Thank you for staying on hold. Yeah, I just said you need to change your password. Am I correct?
+
+Speaker 2 [starttime: 02:14 - endtime: 02:16]: Yes, that is correct.
+
+Speaker 1 [starttime: 02:16 - endtime: 02:31]: Ok, I am really sorry that you have this issue and let me help you with that. But before going to passport reset, you need to confirm some security questions. Let me know when you're ready. I will ask the questions. Ok.
+
+Speaker 2 [starttime: 02:31 - endtime: 02:35]: Sure.
+
+Speaker 1 [starttime: 02:34 - endtime: 02:41]: Could you please confirm your BMS ID once again?
+
+Speaker 2 [starttime: 02:41 - endtime: 02:48]: My BMS ID is *******.
+
+Speaker 1 [starttime: 02:48 - endtime: 02:54]: Thank you for confirmation. Could you please forward me your manager name?
+
+Speaker 2 [starttime: 02:54 - endtime: 03:00]: A manager name is ******** *******. Ok, thank you for confirmation.
+
+Speaker 1 [starttime: 03:00 - endtime: 03:07]: Could you please help me with your higher month and year?
+
+Speaker 2 [starttime: 03:06 - endtime: 03:15]: Um, my higher date is February 27th of ****.
+
+Speaker 1 [starttime: 03:14 - endtime: 03:26]: Ok, thank you for confirmation. And could you please confirm? Is this your first time calling regarding this issue?
+
+Speaker 2 [starttime: 03:26 - endtime: 03:27]: I'm sorry.
+
+Speaker 1 [starttime: 03:27 - endtime: 03:34]: Is this your first time calling regarding this issue.
+
+Speaker 2 [starttime: 03:34 - endtime: 03:42]: About password change? Yes.
+
+Speaker 1 [starttime: 03:41 - endtime: 03:55]: Yes. Please confirm this one. Is this your first time calling regarding this issue for password related issue? First time or second time?
+
+Speaker 2 [starttime: 03:55 - endtime: 03:58]: Um, yes, it's my first one.
+
+Speaker 1 [starttime: 03:57 - endtime: 04:34]: Okay, thank you for confirmation. And could you please confirm? But before before calling, Have you tried any password related tools to reset your password? Have you tried any password related tools. Before calling to it? Team for password reset Before I tried any password tools. Please confirm as or no. Are you tried or not?
+
+Speaker 2 [starttime: 04:34 - endtime: 04:38]: I'm sorry. What? I can understand.
+
+Speaker 1 [starttime: 04:38 - endtime: 04:51]: Before before password reset. Before calling to it. Team for password reset. Before have you tried any password related tools to reset your password? Please confirm as or.
+
+Speaker 2 [starttime: 04:51 - endtime: 04:59]: Yes. Before it was Microsoft, however, we changed to strap desk.
+
+Speaker 1 [starttime: 04:58 - endtime: 05:05]: Ok, have you tried any tools to reset your password?
+
+Speaker 2 [starttime: 05:05 - endtime: 05:10]: Um, since we migrated to Strategy Desk. No.
+
+Speaker 1 [starttime: 05:10 - endtime: 05:12]: Thank you for the information.
+
+Speaker 2 [starttime: 05:12 - endtime: 05:13]: And I am.
+
+Speaker 1 [starttime: 05:13 - endtime: 05:32]: Providing a one password reset link to your email. And further, if you have any issue with your password, you can reset your password using that link. OK, and I am providing a random password. Let me know when you're ready. Sir.
+
+Speaker 2 [starttime: 05:32 - endtime: 05:34]: I am for for now.
+
+Speaker 1 [starttime: 05:33 - endtime: 05:56]: I am giving you one random password. OK, from your next login, you need to change your password. The password should be in 14 characters. It contains minimum one uppercase, one lower case, one special character, one number. Also, for now, I am giving you one random password. Let me know when you're ready. I will provide the random password.
+
+Speaker 2 [starttime: 05:55 - endtime: 06:00]: Yes, please.
+
+Speaker 1 [starttime: 06:00 - endtime: 06:06]: It's a lowercase cucu? U as in uniform.
+
+Speaker 2 [starttime: 06:06 - endtime: 06:08]: Lowercase U.
+
+Speaker 1 [starttime: 06:07 - endtime: 06:13]: Yes. Uppercase R as in Romeo.
+
+Speaker 2 [starttime: 06:13 - endtime: 06:23]: Uppercase R as in Romeo number 2.
+
+Speaker 1 [starttime: 06:22 - endtime: 06:34]: Uppercase D. No, no, no lowercase no, no, no. After 2 lowercase P As in Papa.
+
+Speaker 2 [starttime: 06:34 - endtime: 06:37]: Yes. In Papa Lowercase Yes.
+
+Speaker 1 [starttime: 06:37 - endtime: 06:43]: Uppercase D as in Delta.
+
+Speaker 2 [starttime: 06:42 - endtime: 06:47]: Uppercase D As in Delta. Yes.
+
+Speaker 1 [starttime: 06:46 - endtime: 06:52]: Uppercase G as in zero.
+
+Speaker 2 [starttime: 06:52 - endtime: 06:55]: I'm sorry G for George.
+
+Speaker 1 [starttime: 06:55 - endtime: 07:02]: No G for 00 or Julu.
+
+Speaker 2 [starttime: 07:01 - endtime: 07:09]: Oh, upper Z for zebra. Is that yes?
+
+Speaker 1 [starttime: 07:09 - endtime: 07:13]: And number 3.
+
+Speaker 2 [starttime: 07:13 - endtime: 07:17]: And number 3, is that correct? Yes.
+
+Speaker 1 [starttime: 07:16 - endtime: 07:22]: Uppercase p As in Papa.
+
+Speaker 2 [starttime: 07:21 - endtime: 07:24]: Uppercase p As in Papa.
+
+Speaker 1 [starttime: 07:24 - endtime: 07:31]: Yes. Lowercase J As in Juliet.
+
+Speaker 2 [starttime: 07:31 - endtime: 07:35]: Ok, lowercase J as in Juliet.
+
+Speaker 1 [starttime: 07:35 - endtime: 07:41]: Yes. Lowercase B b as in Bravo.
+
+Speaker 2 [starttime: 07:41 - endtime: 07:44]: Lowercase B as in Bravo.
+
+Speaker 1 [starttime: 07:44 - endtime: 07:51]: Yes. Uppercase E as in echo.
+
+Speaker 2 [starttime: 07:50 - endtime: 07:54]: Uppercase E as in Echo. Yes.
+
+Speaker 1 [starttime: 07:54 - endtime: 07:59]: Uppercase double w as in whiskey.
+
+Speaker 2 [starttime: 07:58 - endtime: 08:02]: Uppercase w as in whiskey.
+
+Speaker 1 [starttime: 08:01 - endtime: 08:08]: Yes, that's correct. Could you please repeat again? I will reconfirm it. OK?
+
+Speaker 2 [starttime: 08:08 - endtime: 08:21]: Sure. Lowercase U as in umbrella uppercase R as in Romeo. The number 2 lowercase P as in Paul.
+
+Speaker 1 [starttime: 08:21 - endtime: 08:22]: OK for case.
+
+Speaker 2 [starttime: 08:22 - endtime: 08:42]: D as in dog uppercase Z, as in zebra. The number 3 uppercase. P As in Paul. Lowercase J as in Jack. Lowercase B as in boy case E as in echo case W as in whiskey.
+
+Speaker 1 [starttime: 08:42 - endtime: 08:58]: Yes, that's correct. And please try to log in with this password. OK, from your next login, you need to change your password. The password should be in 14 characters. It contains Pingham one uppercase, one lower case special character one number also. OK.
+
+Speaker 2 [starttime: 08:58 - endtime: 09:01]: Oh, sure. Hang on one second. Let me try this first.
+
+Speaker 1 [starttime: 09:01 - endtime: 09:10]: Ok, please try. Please try to log in and let me know. Ok, and kindly, please stay connected to the call.
+
+Speaker 2 [starttime: 09:10 - endtime: 09:26]: Oh, hang on a second. Sorry. Ok, I just logged in. Let me just try to change over the phone. It's on it to make sure. Ok.
+
+Speaker 1 [starttime: 09:26 - endtime: 09:33]: And one more thing. Please do not use the whole password. The password should be in your care.
+
+Speaker 2 [starttime: 09:33 - endtime: 09:39]: Is it on my PC email? Oh, I see it now. I can change now the password.
+
+Speaker 1 [starttime: 09:39 - endtime: 09:45]: Thank you so much. Ok, now your issue was all right.
+
+Speaker 2 [starttime: 09:44 - endtime: 09:47]: Yes.
+
+Speaker 1 [starttime: 09:47 - endtime: 09:56]: Ok, give me a minute. I will provide the ticket number, Ok, but before that, could you please confirm? Is there anything else I can help you with?
+
+Speaker 2 [starttime: 09:56 - endtime: 10:01]: No, that'll be all. Is there a survey? Because I will give you 5 stars?
+
+Speaker 1 [starttime: 10:01 - endtime: 10:15]: Ok, yeah, definitely. Thank you for confirmation. And give me a minute. I will provide a ticket number regarding this issue. Please stay connected and discover the caller.
+
+Speaker 2 [starttime: 10:15 - endtime: 10:35]: Sure. Take your time. No, I'm fine. If that's person. Uhhuh. Thank you.
+
+Speaker 1 [starttime: 10:35 - endtime: 10:47]: I appreciate your patience. Thank you for staying online. Based on our interaction, I created one incident on record ticket. Let me know when you're ready, I will provide the ticket number. Ok?
+
+Speaker 2 [starttime: 10:47 - endtime: 10:48]: Sir.
+
+Speaker 1 [starttime: 10:48 - endtime: 10:57]: Based on our instruction, I created one request ticket. Let me know when you're ready, I will provide the ticket number. Ok?
+
+Speaker 2 [starttime: 10:57 - endtime: 10:59]: Sure. I'm ready.
+
+Speaker 1 [starttime: 10:59 - endtime: 11:06]: It's uppercase R as in Romeo.
+
+Speaker 2 [starttime: 11:06 - endtime: 11:08]: Alpha case R. As in Romeo.
+
+Speaker 1 [starttime: 11:08 - endtime: 11:12]: Uppercase E e as in echo.
+
+Speaker 2 [starttime: 11:12 - endtime: 11:15]: Uppercase E as in echo.
+
+Speaker 1 [starttime: 11:14 - endtime: 11:19]: Uppercase Q As in queen.
+
+Speaker 2 [starttime: 11:18 - endtime: 11:22]: Uppercase Q As in queen.
+
+Speaker 1 [starttime: 11:21 - endtime: 11:25]: ***.
+
+Speaker 2 [starttime: 11:24 - endtime: 11:27]: ***.
+
+Speaker 1 [starttime: 11:26 - endtime: 11:31]: ***.
+
+Speaker 2 [starttime: 11:29 - endtime: 11:33]: ***.
+
+Speaker 1 [starttime: 11:31 - endtime: 11:36]: ***.
+
+Speaker 2 [starttime: 11:35 - endtime: 11:37]: ***.
+
+Speaker 1 [starttime: 11:36 - endtime: 11:41]: Yes. You want me to repeat it again?
+
+Speaker 2 [starttime: 11:41 - endtime: 11:53]: No, I can repeat it. Its R as in Romeo uppercase E As in echo uppercase Q As in queen *********.
+
+Speaker 1 [starttime: 11:53 - endtime: 12:03]: Yes, that's correct. And could you please confirm, Is this your first time calling regarding this issue or second time?
+
+Speaker 2 [starttime: 12:02 - endtime: 12:06]: Sure. My first name instead?
+
+Speaker 1 [starttime: 12:06 - endtime: 12:15]: No, no, no, no. Is this your first time calling regarding this issue? This is first time.
+
+Speaker 2 [starttime: 12:14 - endtime: 12:16]: Yes. This is my first time.
+
+Speaker 1 [starttime: 12:16 - endtime: 12:33]: Ok, thank you for confirmation and I am going to push the survey. Please give the survey based on this call. Ok, please do not compare the previous call survey. Thank you so much for all that. Is there anything else I can help you with?
+
+Speaker 2 [starttime: 12:32 - endtime: 12:34]: That'll be all. Thank you so much.
+
+Speaker 1 [starttime: 12:34 - endtime: 13:04]: OK, ma'am, I would connect to your short survey post this call where the first survey is for the customer satisfaction wherein you can select trait on scale 5 to one where 5 means very satisfied and the second survey is for the first 2 to contact resolution wherein you can select one, which means your issue was resolved in the first contact. Thank you for contacting black support. Have a great day ahead. Bye.
+
+Speaker 2 [starttime: 13:04 - endtime: 13:53]: Thanks for giving us a few minutes of your time to complete the IT helpd desk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from the scale of one to 5 with 5 being very satisfied and one very un Thank you. If your issue was resolved in one contact press one. If it took multiple contacts to receive. Fantastic this time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

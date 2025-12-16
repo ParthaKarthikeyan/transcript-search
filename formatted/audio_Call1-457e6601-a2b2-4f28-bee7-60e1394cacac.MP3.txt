@@ -1,0 +1,80 @@
+Agent [starttime: 00:08 - endtime: 00:15]: Thank you for calling right to hell. Bed support. My name is *****. How can I help you today?
+
+Speaker 3 [starttime: 00:14 - endtime: 00:25]: Yes. I was locked up for lunch when I came back and told me that I'm locked out. So I'm just trying to log back in.
+
+Agent [starttime: 00:24 - endtime: 00:37]: Okay, I'm sorry for inconvenience cost you. I will try my message to resolve our ratio. So have you ever tried a self help link to reset or oak password?
+
+Customer [starttime: 00:37 - endtime: 00:39]: No.
+
+Agent [starttime: 00:39 - endtime: 01:06]: Okay, no worries. So the tel performance grow is providing a self help link to reset or analog password. With your own sense, you can use anywhere and any devices to unlock or reset your password. Now I can. I will help you with the unlock your password right now, so you don't need to worry. So can you please provide me your vm's ID number.
+
+Speaker 3 [starttime: 01:03 - endtime: 01:08]: *******.
+
+Agent [starttime: 01:07 - endtime: 01:12]: Okay. What was your full name?
+
+Speaker 3 [starttime: 01:11 - endtime: 01:14]: ****** *******.
+
+Agent [starttime: 01:13 - endtime: 01:19]: Okay. And what was your menu's name?
+
+Speaker 3 [starttime: 01:18 - endtime: 01:20]: Do what?
+
+Agent [starttime: 01:20 - endtime: 01:24]: What was your manager's name?
+
+Speaker 3 [starttime: 01:24 - endtime: 01:28]: I'm **** ******.
+
+Agent [starttime: 01:27 - endtime: 01:34]: OK? What is your heading?
+
+Speaker 3 [starttime: 01:34 - endtime: 01:36]: What is my. What?
+
+Agent [starttime: 01:36 - endtime: 01:40]: Your hiding date?
+
+Speaker 3 [starttime: 01:40 - endtime: 01:43]: My hiring date. Oh, my gosh. Yes.
+
+Agent [starttime: 01:43 - endtime: 01:45]: Oh, it doesn't.
+
+Speaker 3 [starttime: 01:44 - endtime: 01:46]: March.
+
+Agent [starttime: 01:46 - endtime: 01:52]: OK, and what was the year?
+
+Speaker 3 [starttime: 01:51 - endtime: 01:56]: Uh, this year?
+
+Agent [starttime: 01:56 - endtime: 02:28]: Okay, that's right. Thank you for providing me all the information. So it take me a moment to review information. May I put your call on hold for 2 minutes while I'm checking your information in my system? Thank you for that.
+
+Customer [starttime: 02:13 - endtime: 04:03]: [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC]
+
+Speaker 3 [starttime: 04:03 - endtime: 04:28]: We're looking at that. I hope you're password.
+
+Customer [starttime: 04:13 - endtime: 04:51]: [MUSIC] [MUSIC] [MUSIC]
+
+Agent [starttime: 04:51 - endtime: 05:03]: Thank you for staying in hold, ma'am. I really appreciate your patience, ma'am. So, ma'am, as you told me, we're currently loved about in your system. Is it correct, ma'am?
+
+Speaker 3 [starttime: 05:03 - endtime: 05:06]: Is it connected?
+
+Agent [starttime: 05:06 - endtime: 05:15]: As you told me that you are having a love issue? Is that correct? I'm asking you a confirmation.
+
+Speaker 3 [starttime: 05:15 - endtime: 05:25]: Yeah. I tried to log back in for lunch and it said I want. I mean, I know that I couldn't get back in. I don't know.
+
+Agent [starttime: 05:25 - endtime: 05:33]: Yes, yes, yes. I got to work. Just give me a couple of heads, ma'am. I will let you know once you need to log in.
+
+Speaker 3 [starttime: 05:33 - endtime: 06:08]: OK, Thank you.
+
+Agent [starttime: 06:08 - endtime: 06:26]: Okay, ma'am, I have. I can see it is log. Not. So I have just heard of their accounts. Can you please try to log in and let me know if it is working for you or not.
+
+Speaker 3 [starttime: 06:26 - endtime: 06:28]: It. Thank you so much.
+
+Agent [starttime: 06:28 - endtime: 07:05]: Okay, that's great, Mum. So, ma'am, I have created a ticket for you for your unlocked account. You can provide the ticket to your supervisor. Once you're ready to write it down, I can provide you the ticket which I have created for you, ma'am. Okay, so the ticket tomorrow is R as in Romeo E as in Echo U as in Quebec. *********.
+
+Speaker 3 [starttime: 07:05 - endtime: 07:12]: Okay, I have R E N E Q *********.
+
+Agent [starttime: 07:12 - endtime: 07:17]: Yes, ma'am. That's correct. Apart from this, is there anything I can help you with, ma'am?
+
+Speaker 3 [starttime: 07:17 - endtime: 07:20]: No, that's it. Thank you. I appreciate your help.
+
+Agent [starttime: 07:20 - endtime: 07:42]: Okay, So, ma'am, I would connect you to a short survey call with the first surveys for the customer satisfaction wherein you can rate on the scale of 5 to 15 means very satisfied. And the second survey is for the false contact of resolution when in you can select one, which means your issue was resolving fast contact. Thank you for calling.
+
+Customer [starttime: 07:42 - endtime: 07:43]: It helped me support, ma'am.
+
+Agent [starttime: 07:43 - endtime: 07:47]: Have a great, great day.
+
+Customer [starttime: 07:47 - endtime: 08:36]: Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call, Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. We did not get your response. Please try again. How satisfied were you with the assistance you had from the IT specialist on today's call, Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied.
+

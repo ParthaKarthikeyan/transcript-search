@@ -1,0 +1,70 @@
+Agent [starttime: 00:14 - endtime: 00:21]: Thank you for calling IDL. This support. My name is *****. How may I assist you today?
+
+Customer [starttime: 00:21 - endtime: 00:30]: I'm locked out of my account. The platform is not showing. It's incorrect.
+
+Agent [starttime: 00:30 - endtime: 00:38]: So you aren't able to log in into dinkiting. Added massage account is logged out, right?
+
+Customer [starttime: 00:37 - endtime: 00:40]: Yes.
+
+Agent [starttime: 00:40 - endtime: 00:44]: Hi. You're doing work from home?
+
+Customer [starttime: 00:44 - endtime: 00:47]: No. I went to the site.
+
+Agent [starttime: 00:47 - endtime: 00:51]: You are from on fight, right?
+
+Customer [starttime: 00:50 - endtime: 00:54]: Yes.
+
+Agent [starttime: 00:54 - endtime: 00:57]: Your first name? Last name.
+
+Customer [starttime: 00:57 - endtime: 01:01]: Please, ***** ****.
+
+Agent [starttime: 01:01 - endtime: 01:05]: You'll be MMS. ID number, please.
+
+Customer [starttime: 01:04 - endtime: 01:09]: It's *******.
+
+Agent [starttime: 01:09 - endtime: 01:14]: What is the username you are using to log into your computer?
+
+Customer [starttime: 01:14 - endtime: 01:22]: The last name? *** R E Y E S dot ****.
+
+Agent [starttime: 01:22 - endtime: 01:27]: What is your hiring month and yell.
+
+Customer [starttime: 01:27 - endtime: 01:30]: Is that what I'm saying?
+
+Agent [starttime: 01:30 - endtime: 01:37]: What is your hiding? One 10 year old?
+
+Customer [starttime: 01:37 - endtime: 01:41]: No, no, no. The password is not not taking the pass when you.
+
+Agent [starttime: 01:41 - endtime: 01:45]: When you hide in this company. Oh.
+
+Customer [starttime: 01:45 - endtime: 01:48]: March ****.
+
+Agent [starttime: 01:48 - endtime: 01:55]: Who is your supervisor?
+
+Customer [starttime: 01:55 - endtime: 02:15]: I think his name. Sorry. Um, hang on. Let me ask you. It was my name. *****. Oh, ****** *******.
+
+Agent [starttime: 02:15 - endtime: 04:23]: Okay, Thank you. Let me check with your account issue. Are you already a log care? Can you please try again to log in and let me start working or not?
+
+Customer [starttime: 04:23 - endtime: 04:35]: Hello? Yes. Yes, sir.
+
+Agent [starttime: 04:35 - endtime: 04:39]: Is that working?
+
+Customer [starttime: 04:39 - endtime: 04:42]: Now? You want me to try to log in again?
+
+Agent [starttime: 04:41 - endtime: 04:57]: Yeah, please.
+
+Customer [starttime: 04:57 - endtime: 05:00]: Okay. I I think it works now.
+
+Agent [starttime: 05:00 - endtime: 05:04]: Okay, let me create a ticket for you.
+
+Customer [starttime: 05:03 - endtime: 05:41]: Ok?
+
+Agent [starttime: 05:41 - endtime: 05:46]: Are you ready to note? Turn the ticket number.
+
+Customer [starttime: 05:45 - endtime: 05:47]: Yes.
+
+Agent [starttime: 05:47 - endtime: 06:09]: I for Romeo. E for Eco Q 4 Quebec *********. Anything else?
+
+Customer [starttime: 06:08 - endtime: 06:11]: No, I have to. Thank you.
+
+Agent [starttime: 06:10 - endtime: 08:01]: Okay, Thank you. After this call, I will connect you short survey. We can create this service. Providing us 5 to one May 5 means they satisfy and the second service for default conduct resolution can select one soft aftertest call Teas rate. Thank you for calling ID help. Dicks. Have a great day. Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call, enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. We did not get your response. Please try again. How satisfied were you with the assistance you had from the IT specialist on today's call, enter from a scale of one to 5 with 5 being buried. Thank you. If your issue was resolved in one contact press one. If it took multiple contacts to resolve, press 2. If it still has not been fantastic this time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One. The strongest disagreement. Remember, 7 is strongest agreement. One is strongest disagreement. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

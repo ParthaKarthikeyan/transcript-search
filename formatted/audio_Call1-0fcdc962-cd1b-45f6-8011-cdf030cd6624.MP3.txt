@@ -1,0 +1,212 @@
+Speaker 1 [starttime: 00:05 - endtime: 00:11]: Thank you for contacting it. Health desk support. This is ******. How can I assist you?
+
+Speaker 2 [starttime: 00:11 - endtime: 00:23]: Hi. I've just tried to set up a new PC for work. The purchase, but obviously a lot of my things are disappeared from the screen to get the insurance back up.
+
+Speaker 1 [starttime: 00:23 - endtime: 00:28]: I'm sorry. You need to repeat the issue again.
+
+Speaker 2 [starttime: 00:27 - endtime: 00:33]: I've had a new PC sent from work until my other one was updated.
+
+Speaker 1 [starttime: 00:33 - endtime: 00:34]: So when I've, obviously.
+
+Speaker 2 [starttime: 00:34 - endtime: 00:48]: Everything up to my PC. And then, like the Queensville switched on a lot of my things, so I need my tabs and everything all have disappeared from my screen. My folders and stuff. I need help getting back everything back up again.
+
+Speaker 1 [starttime: 00:48 - endtime: 00:53]: So your folders are not there in your PCR thing.
+
+Speaker 2 [starttime: 00:53 - endtime: 00:56]: No, things aren't showing here.
+
+Speaker 1 [starttime: 00:56 - endtime: 01:01]: Sorry. Can you repeat the issue again or it's really hard for me to understand the issue.
+
+Speaker 2 [starttime: 01:01 - endtime: 01:11]: Yes, my phone isn't showing. A lot of the apps aren't showing, but I'm a bit lost now because I can't log into work. And yes.
+
+Speaker 1 [starttime: 01:11 - endtime: 01:21]: Sorry for the inconvenience caused to you, ma'am. I'm going to definitely help you to resolve the concern. Do you have any tickets from your end?
+
+Speaker 2 [starttime: 01:21 - endtime: 01:33]: Yes. Yes. I've got a ticket number there with me. The ticket number is I for Indigo N. For November T for Charlie. Yes. 02.
+
+Speaker 1 [starttime: 01:33 - endtime: 01:36]: 9. Yes.
+
+Speaker 2 [starttime: 01:35 - endtime: 01:38]: ***.
+
+Speaker 1 [starttime: 01:37 - endtime: 01:40]: Yes.
+
+Speaker 2 [starttime: 01:39 - endtime: 01:42]: ***.
+
+Speaker 1 [starttime: 01:42 - endtime: 01:47]: Inc *********. Right?
+
+Speaker 2 [starttime: 01:47 - endtime: 02:10]: Yeah, that's correct.
+
+Speaker 1 [starttime: 02:10 - endtime: 02:28]: So in this ticket, it is mentioned that new PC sent out as there was no Windows 11, tried to logging out in this morning but has missing application required for agent to be able for work. Ok, sorry for the inconvenience that has caused.
+
+Speaker 2 [starttime: 02:28 - endtime: 02:31]: You, ma'am.
+
+Speaker 1 [starttime: 02:31 - endtime: 02:32]: To resolve the account.
+
+Speaker 2 [starttime: 02:32 - endtime: 02:33]: That's what happened.
+
+Speaker 1 [starttime: 02:33 - endtime: 02:39]: So you need to tell me which applications are missing.
+
+Speaker 2 [starttime: 02:38 - endtime: 03:11]: Ok, so when I initially switched on the screen, I struggled to find my VPN. Oh, eventually I found it. And then there was a bit more struggle to log into the VPN. It wasn't straightforward. I managed to do that. I've got into the VPN when he brought up my BMS screen. Eventually its come up. I it was another struggle to sign into a VM EMS details as well. It's got me into a BMS home application folders that were saved in the top page. BMS or can you?
+
+Speaker 1 [starttime: 03:11 - endtime: 03:16]: Tell me which login procedure you're using.
+
+Speaker 2 [starttime: 03:16 - endtime: 03:18]: How do you mean? What do you mean?
+
+Speaker 1 [starttime: 03:18 - endtime: 03:23]: Like how you're logging into your system. Can you tell me?
+
+Speaker 2 [starttime: 03:23 - endtime: 03:26]: Improve a VPN log. VPN login.
+
+Speaker 1 [starttime: 03:26 - endtime: 03:38]: So first when we turn on the system, we unlock the screen. Right Control alt delete. Once you unlock this claim, then we'll connect with the VP. Correct?
+
+Speaker 2 [starttime: 03:37 - endtime: 03:41]: Yeah, correct.
+
+Speaker 1 [starttime: 03:41 - endtime: 03:45]: Ok, and then with the other name.
+
+Speaker 2 [starttime: 03:45 - endtime: 04:18]: So normally, what happened with my own PC? Normally, just like on the right hand side, there's a double monitor screen, click button and click on that. Then that allows me to log into VPN. So do that. Then it allows me to log in with my password and my username. Then it opens up my BMS. When it opens up my BMS, it allows me to then log into my IEF schedule and all the other apps I need to. Then I go into my DWPT tricks and I can open all my pages for that. Like I said today. No problem. Oh, ma'am, I.
+
+Speaker 1 [starttime: 04:18 - endtime: 04:28]: Have shared you this troubleshooting link with you on the email. So sorry. On your text message. Can you check? Are you able to receive that on the text message?
+
+Speaker 2 [starttime: 04:28 - endtime: 04:35]: So we canceled for the further? Sure, I haven't got nothing yet. Nothing.
+
+Speaker 1 [starttime: 04:35 - endtime: 04:40]: Have you received the text message from my end?
+
+Speaker 2 [starttime: 04:39 - endtime: 04:41]: No, not yet.
+
+Speaker 1 [starttime: 04:41 - endtime: 04:52]: Ok, I think the SMS is having some issue, ma'am. So due to that, I will share the link with you on the email. So help me with the personal email address.
+
+Speaker 2 [starttime: 04:52 - endtime: 04:58]: Yeah. N U J. I November Union from Juliet Indigo.
+
+Speaker 1 [starttime: 04:57 - endtime: 04:59]: Yes.
+
+Speaker 2 [starttime: 04:59 - endtime: 05:06]: And then my fair name. *******. Papa. Alpha Romeo. Victor. It's on November. Pardon me.
+
+Speaker 1 [starttime: 05:06 - endtime: 05:20]: Can you please go slower? November Uniform. Juliet. India. Then it's forbidden P. Papa, A Alpha R V Victor E. Echo E. Echo N November. Go ahead.
+
+Speaker 2 [starttime: 05:20 - endtime: 05:24]: Correct. ****.
+
+Speaker 1 [starttime: 05:23 - endtime: 05:27]: OK 19 81.
+
+Speaker 2 [starttime: 05:27 - endtime: 05:30]: At gmail dot com. OK, fine.
+
+Speaker 1 [starttime: 05:30 - endtime: 05:44]: Please hide any sensitive or the confidential data. Ok, I'm enjoying the session.
+
+Speaker 2 [starttime: 05:44 - endtime: 06:01]: Ok. Ma'am.
+
+Speaker 1 [starttime: 06:01 - endtime: 06:10]: Can you tell me one by one applications which are missing from the PC so I can mention in your ticket?
+
+Speaker 2 [starttime: 06:10 - endtime: 06:25]: Sure. Ok, so my team has come up now that finally came slowly. I don't know if it was. I'm just here wondering if all of them will come up slowly, slowly, if I need to just kind of sit back and just give me your whole system.
+
+Speaker 1 [starttime: 06:25 - endtime: 06:34]: Is it like, ma'am, the thing that you are trying to log in after so long days or anything like that?
+
+Speaker 2 [starttime: 06:34 - endtime: 06:42]: So I was working on Friday. I think I was working on Thursday, not Wednesday, Thursday, Friday. My day is off. I had booked off.
+
+Speaker 1 [starttime: 06:41 - endtime: 06:46]: Can you check then? I just take my money, which I'm missing.
+
+Speaker 2 [starttime: 06:46 - endtime: 07:08]: Yeah. So like I said, normally across here on the BMS, if I show you closer. Yeah, across here. You see my mouth moving along. I have all my tabs saved for my IX and all the other easy tabs that I need to access. The ones I have. My BMS pops up and I put my details into Open my VMS. I open all the tabs up here. I ex and all the others. Then from the bottom.
+
+Speaker 1 [starttime: 07:08 - endtime: 07:10]: This window icon.
+
+Speaker 2 [starttime: 07:10 - endtime: 07:15]: Yeah, normally it's at the bottom to the left from there. Then I open up my DWP.
+
+Speaker 1 [starttime: 07:15 - endtime: 07:27]: Page there. Just a minute. Can you click on Windows option in the middle? You have that option? Yes. OK, click on all. Click on all.
+
+Speaker 2 [starttime: 07:26 - endtime: 07:28]: Yeah, let's have a look.
+
+Speaker 1 [starttime: 07:28 - endtime: 07:33]: See all that? This is the power.
+
+Speaker 2 [starttime: 07:33 - endtime: 07:35]: Button.
+
+Speaker 1 [starttime: 07:35 - endtime: 07:36]: Ok, my apologies.
+
+Speaker 2 [starttime: 07:36 - endtime: 07:45]: I didn't see the old there. Have a look there with me. Yeah, have a look.
+
+Speaker 1 [starttime: 07:45 - endtime: 08:05]: Check with all the applications and updating.
+
+Speaker 2 [starttime: 08:05 - endtime: 08:34]: Ok, my phone might go up for a few moments, but I look at that call coming in shortly. Yeah.
+
+Speaker 1 [starttime: 08:34 - endtime: 08:43]: That. Can you help me with your system unit as a number, ma'am, which is available on your machine? Can you show?
+
+Speaker 2 [starttime: 08:43 - endtime: 08:58]: Me? Yeah. OK. Is it where the tuck is? At the back? At the front? Where am I looking?
+
+Speaker 1 [starttime: 08:58 - endtime: 09:06]: It's not in the front. Take the back. Ok. Give. Me. A. Moment.
+
+Speaker 2 [starttime: 09:05 - endtime: 09:09]: Yep. I'm looking at the back.
+
+Speaker 1 [starttime: 09:09 - endtime: 09:11]: Back the flip. Yeah.
+
+Speaker 2 [starttime: 09:11 - endtime: 09:18]: Mmhmm. This code. This is t for tango.
+
+Speaker 1 [starttime: 09:18 - endtime: 09:26]: T ****** **, go ahead and check for the applications and everything apart from this.
+
+Speaker 2 [starttime: 09:26 - endtime: 09:35]: I'm just going to put my phone down for a few moments while I type it in again because I'm just. I think I've got a mistake into my password.
+
+Speaker 1 [starttime: 09:34 - endtime: 10:04]: Ok.
+
+Speaker 2 [starttime: 10:04 - endtime: 10:27]: You've been placed on hold. Please wait. Back with you. But I think your video calls.
+
+Speaker 1 [starttime: 10:27 - endtime: 10:32]: Back.
+
+Speaker 2 [starttime: 10:32 - endtime: 10:50]: In a second now. So that's all I'm hoping. So the customer's going to be saying detect on that. Because the apps haven't appeared.
+
+Speaker 1 [starttime: 10:50 - endtime: 10:54]: I'm sorry, but I'm not able to see anything.
+
+Speaker 2 [starttime: 10:54 - endtime: 11:06]: Just give me one second. Ok. Open now, OK, We'll do that for back again.
+
+Speaker 1 [starttime: 11:06 - endtime: 11:43]: Ok. Have you checked with all other applications? Are there right?
+
+Speaker 2 [starttime: 11:43 - endtime: 12:02]: Mmhmm. Yeah, I think this is over here. They're showing here. Let me just check. Yeah, I think that's that as well.
+
+Speaker 1 [starttime: 12:02 - endtime: 12:05]: I'm sorry. What you're saying, ma'am?
+
+Speaker 2 [starttime: 12:04 - endtime: 12:38]: Sorry. I'm just kind of talking to myself, OK? No problem. Thank you. You know, I think everything's there now. Just find my IX calendar finder. And how do I save it back on my BMS? That's how I'm going to be baffled with.
+
+Speaker 1 [starttime: 12:38 - endtime: 12:42]: OK, so everything is there, right?
+
+Speaker 2 [starttime: 12:42 - endtime: 12:45]: On the DWP Citrix apps. It's all here. I can see it's all here.
+
+Speaker 1 [starttime: 12:45 - endtime: 12:49]: So are you on DWT? What error you are having.
+
+Speaker 2 [starttime: 12:49 - endtime: 12:56]: So with all my DWP apps here right now, I can see them all here. So I just need to open them up one by one.
+
+Speaker 1 [starttime: 12:56 - endtime: 13:05]: But I find that link again. I think because I'm not able to see anything and its hard for me to.
+
+Speaker 2 [starttime: 13:05 - endtime: 13:11]: Yeah, I think you just need me to. You need to send me the IX link, please.
+
+Speaker 1 [starttime: 13:11 - endtime: 13:14]: I link.
+
+Speaker 2 [starttime: 13:14 - endtime: 13:19]: It too long for the work schedule link.
+
+Speaker 1 [starttime: 13:19 - endtime: 13:22]: Which? Link.
+
+Speaker 2 [starttime: 13:22 - endtime: 13:25]: What's my schedule timetable?
+
+Speaker 1 [starttime: 13:25 - endtime: 13:32]: Actually, I need to check with that where we can find.
+
+Speaker 2 [starttime: 13:32 - endtime: 13:36]: That if not, I can ask for it immediately for the instant.
+
+Speaker 1 [starttime: 13:35 - endtime: 13:48]: Yeah, because we do not provide any links provided by. Let me know. So let me know all the applications are there, right?
+
+Speaker 2 [starttime: 13:48 - endtime: 13:57]: Yeah, I think everything else is here. I can see it all here and I don't think see any issues now.
+
+Speaker 1 [starttime: 13:57 - endtime: 14:01]: Ok, so can I close the ticket now?
+
+Speaker 2 [starttime: 14:01 - endtime: 14:02]: Yes, you can.
+
+Speaker 1 [starttime: 14:02 - endtime: 14:03]: Thank you so much.
+
+Speaker 2 [starttime: 14:03 - endtime: 14:09]: Yeah.
+
+Speaker 1 [starttime: 14:08 - endtime: 14:16]: I'm going to just update the ticket, ma'am, and I would like to update you. Is there anything else apart from this I can assist you with.
+
+Speaker 2 [starttime: 14:16 - endtime: 14:23]: No, thank you. Thank you for assisting me. I think it's just about.
+
+Speaker 1 [starttime: 14:22 - endtime: 14:47]: Yeah. After this call, I'm going to connect you to the short survey where you will get first serve, which is for the customer satisfaction. You can return on a scale of 5 to 15 for the very satisfied second survey you will get, which is for the first contact resolution. You can select one, which means the issue was resolved in the first contact.
+
+Speaker 2 [starttime: 14:47 - endtime: 14:49]: Sure, no problem.
+
+Speaker 1 [starttime: 14:49 - endtime: 15:10]: Ticket number will be same. Just closing the ticket and then I will put your call on a survey. Please do the survey, ma'am. It will really help me to grow. And if you want, you can also give the feedback on the email. I'm attaching the mails with you. So on the current call, please do survey and feedback as well. Ok.
+
+Speaker 2 [starttime: 15:10 - endtime: 15:13]: I will do. Thank you so much. Thank you for your help.
+
+Speaker 1 [starttime: 15:13 - endtime: 15:22]: You're welcome, ma'am. Thank you for contacting it. Health desk support. Have a wonderful day. Just placing your call and on the survey. Please wait.
+
+Speaker 2 [starttime: 15:22 - endtime: 16:33]: Ok, I want to cover it. Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from the scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact press one. If it took multiple contact. Fantastic. This time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it. Made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One. The strongest disagreement. Remember, 7 is strongest agreement. One is Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

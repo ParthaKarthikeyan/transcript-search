@@ -1,0 +1,194 @@
+Speaker 1 [starttime: 00:07 - endtime: 00:16]: Thank you for calling. My name is *****. Yes, I'm trying.
+
+Speaker 2 [starttime: 00:15 - endtime: 00:21]: I'm trying to replace my system.
+
+Speaker 1 [starttime: 00:21 - endtime: 00:31]: OK? Hello?
+
+Speaker 2 [starttime: 00:31 - endtime: 00:36]: Yes, I'm here. I'm trying to replace my system.
+
+Speaker 1 [starttime: 00:36 - endtime: 00:44]: Ok, tell me your employee ID and your full name.
+
+Speaker 2 [starttime: 00:42 - endtime: 00:48]: *******. mackayton.
+
+Speaker 1 [starttime: 00:48 - endtime: 00:57]: Have you contacted before regarding the replacement? Or is this the first time you're calling?
+
+Speaker 2 [starttime: 00:57 - endtime: 01:10]: I contacted before, but we got disconnected because they asked the phone, but nobody came up on the line. So I called back and now I have used. So this is the first time I'm talking to a person.
+
+Speaker 1 [starttime: 01:10 - endtime: 01:15]: Okay, why do you need replacement? What is the issue?
+
+Speaker 2 [starttime: 01:15 - endtime: 01:43]: The issue is that my CPU will not connect the internet. I can get it. I don't know what happens, but like, I'll get into my Citrix and then it will do me out saying that the connection is unrupted and it's done that its done that quite often. I've just been able to work through it, but like, I can't keep doing that because that's messing up my productivity. So I need to get it replaced again.
+
+Speaker 1 [starttime: 01:43 - endtime: 02:13]: Okay, I need to verify the issue first. And if it comes to replacement, I will put a request for the replacement. Okay, so, yeah, I am sending a video link to you just to see this. And I will be having the access of your phone camera. Please hide in the confidential personal details. Ok? Hello. Are you there?
+
+Speaker 2 [starttime: 02:13 - endtime: 02:14]: I'm here.
+
+Speaker 1 [starttime: 02:14 - endtime: 02:36]: OK, ma'am, I am sending a link to you now. And how long have you been facing this issue?
+
+Speaker 2 [starttime: 02:36 - endtime: 02:43]: A few weeks now?
+
+Speaker 1 [starttime: 02:43 - endtime: 03:10]: Are you calling from your cell phone? I texted a link to you. Tab on it tab the link, and then allow access and show me the issue. Okay.
+
+Speaker 2 [starttime: 03:09 - endtime: 03:43]: There's more than one. Yeah. Thank you. you. Thank Thank you.
+
+Speaker 1 [starttime: 03:43 - endtime: 03:52]: Did you receive the link?
+
+Speaker 2 [starttime: 03:51 - endtime: 03:53]: No, not yet.
+
+Speaker 1 [starttime: 03:53 - endtime: 04:07]: No. Did you send it just now? Yeah. I texted a link to you. What? Are you able to log in into teams? Are you able to log in into teams?
+
+Speaker 2 [starttime: 04:07 - endtime: 04:09]: No, I don't have a team.
+
+Speaker 1 [starttime: 04:09 - endtime: 04:37]: Don't have a teams. Thank. You. Thank. You. Thank. You. Could you please tell me your email ID?
+
+Speaker 2 [starttime: 04:37 - endtime: 04:38]: My email ID.
+
+Speaker 1 [starttime: 04:38 - endtime: 04:42]: Is *** medicine?
+
+Speaker 2 [starttime: 04:41 - endtime: 04:46]: Dot 7.
+
+Speaker 1 [starttime: 04:45 - endtime: 04:47]: Okay.
+
+Speaker 2 [starttime: 04:47 - endtime: 04:50]: Performance.
+
+Speaker 1 [starttime: 04:50 - endtime: 04:58]: Are you able to use? Are you able to access this? So do you have an access to this email?
+
+Speaker 2 [starttime: 04:58 - endtime: 05:11]: Not without being in my computer. No. Like, will that be my word computer? No, because.
+
+Speaker 1 [starttime: 05:11 - endtime: 05:19]: So what is the exact issue? Your computer is not inside like it's not turning on.
+
+Speaker 2 [starttime: 05:19 - endtime: 05:53]: Oh, it's not turning on now, but it's also not connecting to internet either. Like before it got working altogether. It was not connecting Internet like it would lose internet connection. And I checked my ethernet cable and I would check my wifi, my wifi. But I've sent that to my manager multiple times, like, prints out to like my wifi because I can see how much gigs is pushing out the time. And I'm pushing out more than enough wifi, and it's still dropping connection left and right. And then it just stopped like it just stopped working.
+
+Speaker 1 [starttime: 05:53 - endtime: 06:03]: So what is the current situation like? Okay, so the exact issue, like it's not getting connected to your Internet, That is the issue, right?
+
+Speaker 2 [starttime: 06:03 - endtime: 06:09]: Correct. It's not connecting to Internet. It's not working.
+
+Speaker 1 [starttime: 06:09 - endtime: 06:19]: OK, do you see any error there? What is the error like no Internet connection or a connection interrupted. Do you see any other?
+
+Speaker 2 [starttime: 06:19 - endtime: 06:32]: Connection interrupted is the error that I get. And then I can't just log back into Citrics. I have to, like, literally start my whole entire computer and start over.
+
+Speaker 1 [starttime: 06:32 - endtime: 06:41]: So now. Okay, So you got you see any right connection interrupted. And thereafter it's not getting connected to the internet.
+
+Speaker 2 [starttime: 06:41 - endtime: 06:43]: Correct.
+
+Speaker 1 [starttime: 06:42 - endtime: 06:48]: Have you tried restarting your router, your internet modem?
+
+Speaker 2 [starttime: 06:48 - endtime: 06:55]: I have tried blue and router and everything. Nothing's working.
+
+Speaker 1 [starttime: 06:55 - endtime: 07:04]: And other other your devices are working like they're getting connected to Internet like your mobile phone, TV and all.
+
+Speaker 2 [starttime: 07:04 - endtime: 07:06]: Yes. Mmhmm.
+
+Speaker 1 [starttime: 07:06 - endtime: 08:12]: Okay. Hyand, you said that your internet is working and the ethernet cable is also working. Fine. There is some issue there in the computer port, right? The ethernet port. There is some issue with the internet port, right? Do you see any damage? Any damage on the ethernet port? No, no, it damaged. Okay. Have you tried connecting the same ethernet cable to your personal device? Do you have a laptop? Do you personal laptop or desktop? Okay, so if you connect the same Eden cable to your personal device, then the internet is working. Fine. Correct. Okay. So it means the problem is there with machine CPU machine, which is supposed to be replaced. I'll lay the ticket for the replacement and you will get a new one. Okay. Okay. So I just need a few more details from you so that I can escalate this for the replacement. You work for us, ASA, Right? Correct.
+
+Speaker 2 [starttime: 08:12 - endtime: 08:16]: I just want to appreciate being caught off. I don't know.
+
+Speaker 1 [starttime: 08:16 - endtime: 08:22]: Ok.
+
+Speaker 2 [starttime: 08:22 - endtime: 08:26]: Where's your family? I will.
+
+Speaker 1 [starttime: 08:26 - endtime: 08:31]: OK, may I put your call on hold for 2 minutes?
+
+Speaker 2 [starttime: 08:31 - endtime: 08:32]: Ok.
+
+Speaker 1 [starttime: 08:32 - endtime: 10:28]: OK, thank you. Be on the line. [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] Well. [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] Thank you for being on hold, ma'am. It's taking time to raise a ticket. Could you please tell me your shipping address? ******?
+
+Speaker 2 [starttime: 10:28 - endtime: 10:52]: Country Place, Lane 79, Country Place, Lane, Lynchburg, Virginia *****. And Country Place is one word.
+
+Speaker 1 [starttime: 10:51 - endtime: 11:06]: So here in the other card, it's main mentioned. It is mentioned like Megan. Lynchburg City, VA *****. United States. Correct, Right.
+
+Speaker 2 [starttime: 11:06 - endtime: 11:07]: Correct.
+
+Speaker 1 [starttime: 11:07 - endtime: 11:30]: Okay. Your supervisor name is **** ***** ********** and the email at discord dot ******@***************.***. Okay, correct. Okay, its taking time. Okay, please be on the line. May I put your call on hold for 2 minutes?
+
+Speaker 2 [starttime: 11:29 - endtime: 11:30]: Okay.
+
+Speaker 1 [starttime: 11:30 - endtime: 12:32]: All right. [MUSIC] [MUSIC] [MUSIC] [MUSIC] Thank you for being on hold, ma'am. Could you please? Hello? Tell me the display type. The clip port on C. Yeah, the type of display port on CTU. Is it like HDMI to HDMI? VGA to display? Or could you please check from your site?
+
+Speaker 2 [starttime: 12:32 - endtime: 12:39]: It? I don't. I don't know.
+
+Speaker 1 [starttime: 12:39 - endtime: 12:48]: Ok, could you please tell me your phone? What? Could you please tell me your phone number, please?
+
+Speaker 2 [starttime: 12:46 - endtime: 12:48]: ******.
+
+Speaker 1 [starttime: 12:48 - endtime: 13:20]: Oh, 5 3. Okay, let me provide you a link. Do you see any asset tag number or the serial number written on the CPU box? Yes. Ok, what? What is that? Is it serial number or as a tag number?
+
+Speaker 2 [starttime: 13:20 - endtime: 13:25]: I guess the tag number.
+
+Speaker 1 [starttime: 13:25 - endtime: 13:28]: Could you please tell me the tag number?
+
+Speaker 2 [starttime: 13:28 - endtime: 13:40]: A 11 3 zero, D 85.
+
+Speaker 1 [starttime: 13:39 - endtime: 13:45]: Okay, so it's a 308 85, right?
+
+Speaker 2 [starttime: 13:45 - endtime: 13:46]: Yes.
+
+Speaker 1 [starttime: 13:46 - endtime: 14:11]: Hand CDL number. Do you see any CDL number written or written on the machine? SN number or CD number? No, no. Okay, unless.
+
+Speaker 2 [starttime: 14:11 - endtime: 14:18]: The material number is just like white tag that's attached to cord.
+
+Speaker 1 [starttime: 14:18 - endtime: 14:32]: Okay, now, could you please tell me the type of the power code? Is it having 3 pin power code?
+
+Speaker 2 [starttime: 14:32 - endtime: 14:40]: The power code is like an admi.
+
+Speaker 1 [starttime: 14:39 - endtime: 15:02]: HDMI power code. Okay. So that power code do not have 3 pin only 22 pin code?
+
+Speaker 2 [starttime: 15:02 - endtime: 15:10]: I do believe so. Yeah.
+
+Speaker 1 [starttime: 15:09 - endtime: 15:26]: OK. And the display port, the display port. Is it like HDMI to HDMI or DisplayPort to VDAGA? Could you please check and let me know? I think its.
+
+Speaker 2 [starttime: 15:26 - endtime: 15:29]: It's the blue one.
+
+Speaker 1 [starttime: 15:29 - endtime: 15:32]: OK, VGA to VG. Right.
+
+Speaker 2 [starttime: 15:32 - endtime: 15:34]: I guess.
+
+Speaker 1 [starttime: 15:34 - endtime: 15:46]: Ok.
+
+Speaker 2 [starttime: 15:46 - endtime: 15:55]: I just don't know why right now.
+
+Speaker 1 [starttime: 15:54 - endtime: 17:13]: Okay, I am reading a ticket. Okay. May I put your call on hold for 2 minutes? No problem. So thank you, ***** on the line. [MUSIC] Hello. Welcome. [MUSIC] [MUSIC] [MUSIC] [MUSIC] my To lecture. Thank you for being on hold, ma'am. It will take time. Okay, 2 days to get for replacement. Do not hang up and stay on the line. May I put your call on hold for 2 more minutes?
+
+Speaker 2 [starttime: 17:12 - endtime: 17:14]: Okay, that's fine.
+
+Speaker 1 [starttime: 17:14 - endtime: 19:06]: Okay. Thank you. We'll be on the line. [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] Its. Here. [MUSIC] [MUSIC] [MUSIC] Thank you for being on hold. Hold on, ma'am. I am requesting for the new CPU. Meanwhile, I just want you to do one thing. Unplug the powergiv of the CPU machine.
+
+Speaker 2 [starttime: 19:06 - endtime: 19:08]: Ok.
+
+Speaker 1 [starttime: 19:08 - endtime: 19:16]: Unplug in and leave it. I let me know. Ok?
+
+Speaker 2 [starttime: 19:16 - endtime: 19:17]: Okay.
+
+Speaker 1 [starttime: 19:17 - endtime: 19:45]: Okay. Now this CPU power, please. And hold it for 10 seconds. 4. Sorry. 4, 30 seconds. Up to 30 seconds. Plug the power code back in and restart your computer and also restart your internet routes. Whether the system is getting connected to Internet or not. Let me know. Ok.
+
+Speaker 2 [starttime: 19:44 - endtime: 20:49]: What do you mean? Oh, wow. That is. Oh, yeah, yeah, That's something I just want to take over. Behind. Hello? Hello? It. So it's not turning on anymore.
+
+Speaker 1 [starttime: 20:49 - endtime: 21:04]: No, it's not dining on anymore. There is no power light on it. Okay, okay. Please be on the line. Okay. May I put your call on? Hold for 2 more minutes?
+
+Speaker 2 [starttime: 21:04 - endtime: 21:06]: Yes.
+
+Speaker 1 [starttime: 21:05 - endtime: 22:26]: Ok, thank you. [MUSIC] [MUSIC] [MUSIC] [MUSIC] Bye. [MUSIC] Thank Thank you for being on hold, ma'am. I am ticking with the rest ID team regarding the replacement. Meanwhile, could you please interchange the cable, connect to your monitor cable to CPU and just check other. The problem is there with the mosquito or the power cable. Ok.
+
+Speaker 2 [starttime: 22:26 - endtime: 24:13]: All right. It's not objective. To me. That's super. By the birth of the birth, I'm going to come back to it. Next time. There is a quote to adult. Coat. She broke up. She rolled on the total earth. Just wait. Physical. Open, open. over, over, open, Why? They should not have. But then one moment, there's much my version. This is my first. There was a lot of money just. So I don't. I can't decipher if it's like, I don't know, but it's not turning on. But.
+
+Speaker 1 [starttime: 24:13 - endtime: 26:44]: Whatever it is, it's not turning on. Oh, but don't turning on. OK? Yeah. OK, so. I have requested for the replacement. Okay, once I get the confirmation, I will let you know. Give me a while. May I put your call on? Hold for 2 more minutes. You stay on the line, please. Okay. Thank you. [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] Thank you for being on hold, ma'am. It's taking more time and one more thing. Is it a VPN computer or VDI? Do you log in through VPN or VDI?
+
+Speaker 2 [starttime: 26:44 - endtime: 26:46]: VPN?
+
+Speaker 1 [starttime: 26:45 - endtime: 28:23]: VPN? Okay, Okay. Please be on the line. Okay. May I put your call on hold for 2 more minutes? It's fine. OK, Thank you. [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC]
+
+Speaker 2 [starttime: 28:23 - endtime: 28:25]: I wish I thought she'd.
+
+Speaker 1 [starttime: 28:24 - endtime: 28:32]: Thank you for being on hold. Please write down the digit number.
+
+Speaker 2 [starttime: 28:31 - endtime: 28:33]: Ok.
+
+Speaker 1 [starttime: 28:33 - endtime: 29:01]: It's INC *********. OK, sorry. So the tracking number will be generated and it will be updated there in the ticket. You can check the tracking number with the help of your supervisor, or you can give us a call back after an hour to get the tracking number.
+
+Speaker 2 [starttime: 29:01 - endtime: 29:03]: Ok.
+
+Speaker 1 [starttime: 29:03 - endtime: 29:07]: Is there anything else I can help you with?
+
+Speaker 2 [starttime: 29:06 - endtime: 29:09]: Uh, no, I'm all good.
+
+Speaker 1 [starttime: 29:09 - endtime: 29:34]: Ok, ma'am. At the end of this call, I'll connect you to a short survey. The first ways for customer satisfaction on a scale of 5 to 15 means were resatisfied, and the second survey is for first contact to resolution. Or you can select to one, which means CEO issue was regarding first contact so you can rate accordingly. Thank you for calling it support. Have a great day. Bye, ma'am. Thanks for giving us a few minutes.
+

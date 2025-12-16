@@ -1,0 +1,34 @@
+Speaker 1 [starttime: 00:07 - endtime: 00:12]: You for contacting it? Support. My name is ******. How may I assist you today?
+
+Speaker 2 [starttime: 00:12 - endtime: 00:14]: Can I give you the ticket number, please?
+
+Speaker 1 [starttime: 00:14 - endtime: 00:18]: Yeah, sure. Please help me with the ticket number.
+
+Speaker 2 [starttime: 00:18 - endtime: 00:29]: Give me one moment. There it is. Inc. ****.
+
+Speaker 1 [starttime: 00:29 - endtime: 00:32]: Yeah.
+
+Speaker 2 [starttime: 00:31 - endtime: 00:36]: ***.
+
+Speaker 1 [starttime: 00:36 - endtime: 00:52]: Yeah. 63. Yep. So you're having an issue with the Zscaler like you're not able to log into the chrome and the edge, right? You're getting an error message called no Internet or the site can be reached. Am I right?
+
+Speaker 2 [starttime: 00:52 - endtime: 00:54]: That's correct.
+
+Speaker 1 [starttime: 00:53 - endtime: 01:06]: OK, I got it. So no worries. I can surely assist you on that. And I do apologize for the inconvenience that has been caused by today. So could you please confirm your BMS ID number?
+
+Speaker 2 [starttime: 01:06 - endtime: 01:09]: Yeah. ****.
+
+Speaker 1 [starttime: 01:08 - endtime: 01:13]: ***. May I know your first name and the last name?
+
+Speaker 2 [starttime: 01:12 - endtime: 01:15]: ****** *******.
+
+Speaker 1 [starttime: 01:15 - endtime: 01:25]: Thank you so much for confirming your full name, *******. And it may take me a moment to review your information. In the meantime, can I place your call on hold, please?
+
+Speaker 2 [starttime: 01:25 - endtime: 01:27]: No, that's fine.
+
+Speaker 1 [starttime: 01:26 - endtime: 03:11]: Yep. Thank you. [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] You for staying on hold? I really appreciate your patience. So upon checking the ticket, the previous agent has been escalated the issue to the DE team. But as there is no response from the team, they advised you to give a call back. Right?
+
+Speaker 2 [starttime: 03:11 - endtime: 03:19]: That's correct. Yes. They said that call back in half an hour, which I have done. If they're still busy, then obviously, you will tell me if I need to call back later.
+
+Speaker 1 [starttime: 03:19 - endtime: 15:49]: Ok, just stay connected. I have escalated the issue to the DEP team again. So please wait online. OK, that's fine. Yep. Thank you. You for staying connected? I really appreciate your patience. I'm still waiting for the response from the lead team. Please stay connected. Yeah. Thank you. You for staying connected? I really appreciate your patience. I'm really so sorry, ma'am, because upon checking here, there is no response from the D team. Can you please give a call back after one hour? That's fine. No worries. You could update the ticket for me, please. Yeah, sure. Definitely. Just give me a minute. Let me update the ticket. No, that's fine. You for staying connected? I have updated the ticket And is there anything else I can do to help you apart from this? No, that's good. Thank you. Yeah. Thank you so much, ma'am. And if there is nothing else, then after this call, I would like to to connect you to the short survey with the first survey. Customer satisfaction where on a date of 5 to 15 means you are very satisfied. And the second survey is for first contact resolution, whereas you can select one, which means your issue has been recorded. First contact. Thank you for contacting the support. Have a great day. Bye bye. Thank you. Bye.
+

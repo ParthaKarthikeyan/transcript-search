@@ -1,0 +1,96 @@
+Speaker 1 [starttime: 00:09 - endtime: 00:17]: You for contacting me? Support. This is *****. How may I assist you today?
+
+Speaker 2 [starttime: 00:17 - endtime: 00:25]: Hi, sir. My name is welcome, and I'm having an issue with my VPN.
+
+Speaker 1 [starttime: 00:25 - endtime: 00:29]: OK, the MS ID number.
+
+Speaker 2 [starttime: 00:29 - endtime: 00:38]: Please. It's *******.
+
+Speaker 1 [starttime: 00:38 - endtime: 00:47]: Ok. And once again, may I know your name?
+
+Speaker 2 [starttime: 00:47 - endtime: 00:50]: Yes, ma'am.
+
+Speaker 1 [starttime: 00:50 - endtime: 00:57]: Ok, what is the error message for VPN? Login?
+
+Speaker 2 [starttime: 00:57 - endtime: 01:05]: I need a password reset. I just recently changed my password, but it's not taking it.
+
+Speaker 1 [starttime: 01:05 - endtime: 01:10]: OK, but what is the error message right now?
+
+Speaker 2 [starttime: 01:10 - endtime: 01:13]: All the disputations.
+
+Speaker 1 [starttime: 01:13 - endtime: 01:39]: Authentication failed. Ok, So as I understood, you are unable to log in to VPN and getting your messages as authentication failed, Correct? Yes. Sorry for the inconvenience caused. We'll surely try to resolve the attention. What is your location?
+
+Speaker 2 [starttime: 01:39 - endtime: 01:41]: Texas?
+
+Speaker 1 [starttime: 01:41 - endtime: 01:44]: Higher date.
+
+Speaker 2 [starttime: 01:44 - endtime: 01:53]: My higher date is, uh, September 16th of ****.
+
+Speaker 1 [starttime: 01:52 - endtime: 02:29]: Ok, one moment. Ok, got it. Ok, we'll check. Have you contacted the held desk before for the same issue?
+
+Speaker 2 [starttime: 02:29 - endtime: 02:48]: No, yesterday. No, not yesterday. 2 days ago, it asked for me to change or update my password, so I updated the password and yesterday it was working fine, but today, I don't know. It won't. It won't take it.
+
+Speaker 1 [starttime: 02:48 - endtime: 03:09]: Ok, So if you have updated password previously, so still you can update, right? Using that self service password application. So have you tried that right now?
+
+Speaker 2 [starttime: 03:09 - endtime: 03:11]: I can try it again.
+
+Speaker 1 [starttime: 03:11 - endtime: 03:35]: Ok, try it again. Yeah, again.
+
+Speaker 2 [starttime: 03:35 - endtime: 03:38]: No, it is the author that the patient failed.
+
+Speaker 1 [starttime: 03:38 - endtime: 04:00]: But failed. Ok, I'm trying to fetch your account and it is spinning. Ok, wait. Ok. May I put your call on hold?
+
+Speaker 2 [starttime: 03:59 - endtime: 04:01]: Yeah, you're gonna put me on hold.
+
+Speaker 1 [starttime: 04:01 - endtime: 05:11]: Ok, Thank you. Please hold. Ok. Still spinning. Ok?
+
+Speaker 2 [starttime: 05:11 - endtime: 05:13]: It Ok.
+
+Speaker 1 [starttime: 05:13 - endtime: 06:43]: Please be on hold. Thank.
+
+Speaker 2 [starttime: 06:43 - endtime: 06:45]: You.
+
+Speaker 1 [starttime: 06:45 - endtime: 06:51]: It is still generating reports. Ok, please go on hold. Thank you.
+
+Speaker 2 [starttime: 06:50 - endtime: 08:47]: Ok.
+
+Speaker 1 [starttime: 08:47 - endtime: 12:42]: We're still spinning taking time. Ok, please be on hold. Please. Go on, hold. Ok. Thank you. Ok. Thank you for being on hold one moment. Ok, it is still almost done. Ok, our account is actually locked. Am I unlocking it?
+
+Speaker 2 [starttime: 12:41 - endtime: 12:43]: Ok.
+
+Speaker 1 [starttime: 12:43 - endtime: 12:51]: So you can try to log in now? Yeah. OK, these are logged. We try to log in. Let me try it.
+
+Speaker 2 [starttime: 12:50 - endtime: 12:51]: Let me try.
+
+Speaker 1 [starttime: 12:51 - endtime: 13:09]: Give me one second. Ok.
+
+Speaker 2 [starttime: 13:09 - endtime: 13:11]: It went through.
+
+Speaker 1 [starttime: 13:11 - endtime: 15:25]: OK, I'll create a ticket. Wait. OK. Thank. You. Thank. You. It. Wait. OK. Thank. You. Thank. You. It is loading. OK, One moment. Okay. Write down the ticket number.
+
+Speaker 2 [starttime: 15:25 - endtime: 15:27]: Ok.
+
+Speaker 1 [starttime: 15:26 - endtime: 15:50]: So it is inc. Sorry. R E Q. 00 R A Q No R E Q. Then 00 R E Q. ****. ****.
+
+Speaker 2 [starttime: 15:50 - endtime: 15:54]: Is that the letter I like equal.
+
+Speaker 1 [starttime: 15:54 - endtime: 16:13]: No. R E Q after that number. ***********. Yeah, 5 9.
+
+Speaker 2 [starttime: 16:13 - endtime: 16:20]: So I have ******.
+
+Speaker 1 [starttime: 16:19 - endtime: 16:26]: ***.
+
+Speaker 2 [starttime: 16:24 - endtime: 16:26]: ***.
+
+Speaker 1 [starttime: 16:26 - endtime: 16:28]: Yes.
+
+Speaker 2 [starttime: 16:28 - endtime: 16:37]: OK, so I have R E Q *********.
+
+Speaker 1 [starttime: 16:37 - endtime: 16:44]: Yes. Correct. Ok, is there anything else I can do to help?
+
+Speaker 2 [starttime: 16:43 - endtime: 16:47]: No, thank you very much, sir.
+
+Speaker 1 [starttime: 16:46 - endtime: 17:10]: Ok, I will connect you to a short survey after this call where we can read the service from 5 to one where 5 minutes satisfied. And the second survey is for first contact resolution where you can select one, which means the issue was resolved in the first call. And thank you for contacting it support. Have a great day. Ok, bye bye.
+
+Speaker 2 [starttime: 17:10 - endtime: 18:29]: Ok, bye. Thanks for giving us a few minutes of your time to complete the IT helpdesk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact, press one. If it took multiple contacts to resolve press 2. Fantastic. This time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One. The strongest disagreement. Remember, 7 is strongest agreement. One is strongest disagreement. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+

@@ -1,0 +1,98 @@
+Agent [starttime: 00:09 - endtime: 00:16]: Thank you for calling ID. opentrade. How can I help you?
+
+Speaker 3 [starttime: 00:15 - endtime: 00:23]: Hello? Hello? Hello. Can I help you? Regarding? Hello. Can you hear me?
+
+Agent [starttime: 00:23 - endtime: 00:28]: Yes. Yes, I can hear you properly. Tell me what your comes phone on.
+
+Speaker 3 [starttime: 00:28 - endtime: 00:41]: Ok, so I'm having trouble from in my end. Regarding on my thing ID. Because all I can see is the black end.
+
+Agent [starttime: 00:41 - endtime: 00:47]: Sorry, Your voice is baking. Can you please check it?
+
+Speaker 3 [starttime: 00:46 - endtime: 00:48]: Yeah.
+
+Agent [starttime: 00:48 - endtime: 00:54]: Your voice is breaking. Can you please repeat your concern again so that I can hear properly?
+
+Speaker 3 [starttime: 00:54 - endtime: 01:03]: Oh, yeah, sure. So my ping ID is not pulling up. It doesn't show.
+
+Agent [starttime: 01:03 - endtime: 01:08]: Any codes? Your which ID.
+
+Speaker 3 [starttime: 01:08 - endtime: 01:11]: Ping ID?
+
+Agent [starttime: 01:11 - endtime: 01:17]: Your bing ID is not pulling up.
+
+Customer [starttime: 01:17 - endtime: 01:22]: Okay.
+
+Agent [starttime: 01:22 - endtime: 01:28]: Okay, so that's your concern right here. Bing ID is not pulling up, right?
+
+Speaker 3 [starttime: 01:28 - endtime: 01:30]: Yes, Yes, it is.
+
+Agent [starttime: 01:30 - endtime: 01:40]: Okay. I'm really sorry that you're facing this decision, *******, to assist you with that. Could you please provide me a BMS end?
+
+Speaker 3 [starttime: 01:40 - endtime: 01:48]: It's *******.
+
+Agent [starttime: 01:47 - endtime: 01:54]: What's your full name?
+
+Speaker 3 [starttime: 01:53 - endtime: 01:58]: *****. ****** *******. Mama.
+
+Agent [starttime: 01:57 - endtime: 02:01]: Okay, wait, let me check.
+
+Speaker 3 [starttime: 02:01 - endtime: 02:28]: Okay? Thank you.
+
+Agent [starttime: 02:27 - endtime: 02:37]: ***. ******* ***. Okay, It will take only a few minutes to review and verify the information. Can I put your call on hold for a few minutes only.
+
+Speaker 3 [starttime: 02:37 - endtime: 02:39]: Okay, sure. Thank you.
+
+Agent [starttime: 02:38 - endtime: 02:56]: Thank you. Thank you.
+
+Customer [starttime: 02:41 - endtime: 05:13]: [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC] [MUSIC]
+
+Agent [starttime: 05:13 - endtime: 05:23]: Thank you for staying on hold. Can you please confirm me you're walking from hole or any onsite?
+
+Speaker 3 [starttime: 05:23 - endtime: 05:25]: On site.
+
+Agent [starttime: 05:25 - endtime: 05:48]: You're working on site? Yeah. Hello. You're working on site. Did you connect with the local ID?
+
+Speaker 3 [starttime: 05:48 - endtime: 05:51]: Can you repeat that one?
+
+Agent [starttime: 05:51 - endtime: 05:56]: Did you connect it with the local ID?
+
+Speaker 3 [starttime: 05:56 - endtime: 06:00]: Local ID?
+
+Agent [starttime: 06:00 - endtime: 06:04]: You're working on site, right?
+
+Speaker 3 [starttime: 06:04 - endtime: 06:06]: Yes.
+
+Agent [starttime: 06:05 - endtime: 06:13]: Okay, so I will provide you the ticket number for this. You have to connect to the local ID. Okay.
+
+Speaker 3 [starttime: 06:12 - endtime: 06:14]: Okay. Thank you.
+
+Agent [starttime: 06:14 - endtime: 06:19]: Please stay online.
+
+Customer [starttime: 06:18 - endtime: 07:50]: Hello?
+
+Agent [starttime: 07:49 - endtime: 07:55]: Thanks for staying on. Hold. Your ticket is almost run online. Okay.
+
+Speaker 3 [starttime: 07:55 - endtime: 07:57]: Okay. Thank you.
+
+Agent [starttime: 07:57 - endtime: 08:03]: And also, is there anything else that I can help you with? That's.
+
+Speaker 3 [starttime: 08:02 - endtime: 08:05]: All. Thank you.
+
+Agent [starttime: 08:04 - endtime: 08:21]: Okay. And I will provide you the ticket. It's almost fun. Please stay online. And also, I will connect you to a short survey force. This call with a first service for customer satisfaction in on a scale of 5 to 15 means satisfied. Okay.
+
+Speaker 3 [starttime: 08:21 - endtime: 08:22]: Ok, Ok, yeah.
+
+Agent [starttime: 08:22 - endtime: 08:55]: Ticket is done. You can log down the ticket number now. It's Inc. India. Nancy. Charlie. *********.
+
+Customer [starttime: 08:55 - endtime: 08:57]: Ok. Its.
+
+Speaker 3 [starttime: 08:56 - endtime: 09:04]: Ego Charlie. ********* ** that correct?
+
+Agent [starttime: 09:04 - endtime: 09:12]: Inc 031068400404 OK.
+
+Speaker 3 [starttime: 09:12 - endtime: 09:14]: Yeah. Okay. Thank you.
+
+Agent [starttime: 09:14 - endtime: 09:18]: Thank you for contacting. Idea of big support. Have a great.
+
+Customer [starttime: 09:18 - endtime: 10:50]: Thanks for giving us a few minutes of your time to complete the IT helpd desk survey. Your feedback is essential to help us enhance our service to you. How satisfied were you with the assistance you had from the IT specialist on today's call? Enter from a scale of one to 5 with 5 being very satisfied and one very unsatisfied. Thank you. If your issue was resolved in one contact, press one. If it took multiple contacts to resolve press 2 If it still has not been resolved, press 3. Fantastic. This time, enter your response using a scale of one to 7 where 7 means you strongly agree with the following statement and one means you strongly disagree with it. Made it easy for you to handle your issue. Remember, 7 is the strongest agreement. One. The strongest disagreement. Remember, 7 is strongest agreement. One is strongest disagreement. Thank you for your important and valuable feedback. If you need any additional support, please call us back.
+
