@@ -26,8 +26,7 @@ RUNPOD_HEADERS = {
 }
 
 # Processing parameters
-MAX_TOKENS = 32768
-MAX_CONTEXT_CHARS = 20000  # Increased - batch limit now 32768 tokens
+MAX_CONTEXT_CHARS = 20000
 MAX_WAIT_TIME = 300  # 5 minutes
 CHECK_INTERVAL = 2  # Check every 2 seconds
 
@@ -169,35 +168,26 @@ def extract_text_from_output(output) -> str:
         return output
     
     if isinstance(output, dict):
-        # Try common keys
         for key in ['text', 'response', 'generated_text', 'content']:
             if key in output:
                 return extract_text_from_output(output[key])
         
-        # Check for choices array (OpenAI format)
         if 'choices' in output and isinstance(output['choices'], list):
             choices = output['choices']
             if choices:
                 choice = choices[0]
                 if isinstance(choice, dict):
-                    # Check for message content
                     if 'message' in choice and 'content' in choice['message']:
                         return choice['message']['content']
-                    # Check for text
                     if 'text' in choice:
                         return choice['text']
-                    # Check for tokens
                     if 'tokens' in choice and isinstance(choice['tokens'], list):
                         return ''.join(choice['tokens'])
-        
-        # Return string representation as fallback
         return str(output)
     
     if isinstance(output, list):
-        # Try to join if it's a list of strings/tokens
         if all(isinstance(item, str) for item in output):
             return ''.join(output)
-        # Check if it's a choices-like structure
         if output and isinstance(output[0], dict):
             return extract_text_from_output(output[0])
         return str(output)
@@ -206,7 +196,6 @@ def extract_text_from_output(output) -> str:
 
 def call_runpod(prompt: str) -> str:
     """Submit job to RunPod and wait for response."""
-    # vLLM on RunPod - parameters go in sampling_params
     payload = {
         "input": {
             "prompt": prompt,
@@ -218,7 +207,6 @@ def call_runpod(prompt: str) -> str:
         }
     }
     
-    # Submit job
     try:
         response = requests.post(RUNPOD_URL, headers=RUNPOD_HEADERS, json=payload, timeout=30)
         response.raise_for_status()
@@ -230,7 +218,6 @@ def call_runpod(prompt: str) -> str:
     if not job_id:
         return f"Error: No job ID returned. Response: {result}"
     
-    # Poll for result
     status_url = f"{RUNPOD_STATUS_URL}/{job_id}"
     start_time = time.time()
     
@@ -247,12 +234,7 @@ def call_runpod(prompt: str) -> str:
         if status == 'COMPLETED':
             output = result.get('output', {})
             text = extract_text_from_output(output)
-            # Clean up common artifacts
-            text = text.strip()
-            # Remove any leading instruction artifacts
-            if text.startswith("Focus on details"):
-                text = text.split("\n\n", 1)[-1] if "\n\n" in text else text
-            return text
+            return text.strip()
         elif status == 'FAILED':
             return f"Job failed: {result.get('error', 'Unknown error')}"
         elif status in ['IN_QUEUE', 'IN_PROGRESS']:
