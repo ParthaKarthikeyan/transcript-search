@@ -3,7 +3,7 @@ services:
     name: transcript-search
     runtime: python
     buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn assistant_server:app
+    startCommand: gunicorn assistant_server:app --bind 0.0.0.0:$PORT
     envVars:
       - key: PYTHON_VERSION
         value: "3.11"
